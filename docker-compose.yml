@@ -1,0 +1,12 @@
+﻿version: '3.8'
+
+services:
+  mentes-brilhantes:
+    build: .
+    container_name: mentes-brilhantes
+    restart: unless-stopped
+    ports:
+      - "3085:3085"
+    environment:
+      - PORT=3085
+      - NODE_ENV=production

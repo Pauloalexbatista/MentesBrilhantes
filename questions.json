@@ -1,0 +1,6502 @@
+[
+  {
+    "id": "q_001",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "O que produz a fotossíntese nas plantas?",
+    "options": [
+      "Dióxido de carbono e água",
+      "Oxigénio e glicose",
+      "Azoto e sais minerais",
+      "Metano e oxigénio"
+    ],
+    "answer": "Oxigénio e glicose"
+  },
+  {
+    "id": "q_002",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o planeta mais próximo do Sol?",
+    "options": [
+      "Vénus",
+      "Marte",
+      "Mercúrio",
+      "Terra"
+    ],
+    "answer": "Mercúrio"
+  },
+  {
+    "id": "q_003",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a unidade de medida da corrente elétrica?",
+    "options": [
+      "Volt",
+      "Watt",
+      "Ohm",
+      "Ampere"
+    ],
+    "answer": "Ampere"
+  },
+  {
+    "id": "q_004",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "A água ferve a quantos graus Celsius ao nível do mar?",
+    "options": [
+      "90 °C",
+      "100 °C",
+      "110 °C",
+      "120 °C"
+    ],
+    "answer": "100 °C"
+  },
+  {
+    "id": "q_005",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o elemento químico mais leve?",
+    "options": [
+      "Hélio",
+      "Oxigénio",
+      "Hidrogénio",
+      "Lítio"
+    ],
+    "answer": "Hidrogénio"
+  },
+  {
+    "id": "q_006",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que parte da célula armazena o ADN?",
+    "options": [
+      "Ribossoma",
+      "Núcleo",
+      "Citoplasma",
+      "Mitocôndria"
+    ],
+    "answer": "Núcleo"
+  },
+  {
+    "id": "q_007",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Quem desenvolveu a teoria da relatividade?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": "q_008",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a velocidade da luz no vácuo (aproximada)?",
+    "options": [
+      "150 000 km/s",
+      "300 000 km/s",
+      "450 000 km/s",
+      "1 000 000 km/s"
+    ],
+    "answer": "300 000 km/s"
+  },
+  {
+    "id": "q_009",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Quantos ossos tem o corpo humano adulto?",
+    "options": [
+      "186",
+      "206",
+      "226",
+      "246"
+    ],
+    "answer": "206"
+  },
+  {
+    "id": "q_010",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "A que grupo de animais pertencem as baleias?",
+    "options": [
+      "Peixes",
+      "Répteis",
+      "Anfíbios",
+      "Mamíferos"
+    ],
+    "answer": "Mamíferos"
+  },
+  {
+    "id": "q_011",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a molécula responsável pela transmissão genética?",
+    "options": [
+      "ADN",
+      "ATP",
+      "Hemoglobina",
+      "Insulina"
+    ],
+    "answer": "ADN"
+  },
+  {
+    "id": "q_012",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que tipo de rocha é o granito?",
+    "options": [
+      "Sedimentar",
+      "Ígnea (magmática)",
+      "Metamórfica",
+      "Orgânica"
+    ],
+    "answer": "Ígnea (magmática)"
+  },
+  {
+    "id": "q_013",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o maior oceano do mundo?",
+    "options": [
+      "Oceano Atlântico",
+      "Oceano Índico",
+      "Oceano Pacífico",
+      "Oceano Ártico"
+    ],
+    "answer": "Oceano Pacífico"
+  },
+  {
+    "id": "q_014",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "O que estuda a astrofísica?",
+    "options": [
+      "O movimento dos ventos na Terra",
+      "A composição física e evolução dos corpos celestes",
+      "As placas tectónicas",
+      "A classificação dos fósseis"
+    ],
+    "answer": "A composição física e evolução dos corpos celestes"
+  },
+  {
+    "id": "q_015",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "A que temperatura ferve a água a 3000 metros de altitude?",
+    "options": [
+      "Acima de 100 °C",
+      "Exatamente a 100 °C",
+      "Abaixo de 100 °C (cerca de 90 °C)",
+      "A água não ferve a essa altitude"
+    ],
+    "answer": "Abaixo de 100 °C (cerca de 90 °C)"
+  },
+  {
+    "id": "q_016",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que órgão humano produz a insulina?",
+    "options": [
+      "Fígado",
+      "Pâncreas",
+      "Rins",
+      "Estômago"
+    ],
+    "answer": "Pâncreas"
+  },
+  {
+    "id": "q_017",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o metal natural mais denso da tabela periódica?",
+    "options": [
+      "Chumbo",
+      "Ouro",
+      "Ósmio",
+      "Platina"
+    ],
+    "answer": "Ósmio"
+  },
+  {
+    "id": "q_018",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Em que ano aterrou a primeira sonda com sucesso em Marte (Viking 1)?",
+    "options": [
+      "1969",
+      "1976",
+      "1984",
+      "1997"
+    ],
+    "answer": "1976"
+  },
+  {
+    "id": "q_019",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a menor unidade de informação num computador digital?",
+    "options": [
+      "Byte",
+      "Bit",
+      "Pixel",
+      "Hertz"
+    ],
+    "answer": "Bit"
+  },
+  {
+    "id": "q_020",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que gás forma a camada que protege a Terra da radiação ultravioleta prejudicial?",
+    "options": [
+      "Dióxido de carbono",
+      "Azoto",
+      "Ozono",
+      "Metano"
+    ],
+    "answer": "Ozono"
+  },
+  {
+    "id": "q_021",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a velocidade aproximada do som no ar a 20 °C?",
+    "options": [
+      "120 m/s",
+      "343 m/s",
+      "750 m/s",
+      "1200 m/s"
+    ],
+    "answer": "343 m/s"
+  },
+  {
+    "id": "q_022",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "A luz visível situa-se entre quais faixas do espectro eletromagnético?",
+    "options": [
+      "Raios X e Raios Gama",
+      "Micro-ondas e Ondas de rádio",
+      "Infravermelho e Ultravioleta",
+      "Ultravioleta e Raios X"
+    ],
+    "answer": "Infravermelho e Ultravioleta"
+  },
+  {
+    "id": "q_023",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a distância média aproximada da Terra ao Sol?",
+    "options": [
+      "50 milhões de km",
+      "100 milhões de km",
+      "150 milhões de km",
+      "300 milhões de km"
+    ],
+    "answer": "150 milhões de km"
+  },
+  {
+    "id": "q_024",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Quantos cromossomas tem uma célula somática humana normal?",
+    "options": [
+      "23",
+      "44",
+      "46",
+      "48"
+    ],
+    "answer": "46"
+  },
+  {
+    "id": "q_025",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "O que estuda a entomologia?",
+    "options": [
+      "Pássaros",
+      "Insetos",
+      "Fungos",
+      "Répteis"
+    ],
+    "answer": "Insetos"
+  },
+  {
+    "id": "q_026",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Quem inventou o primeiro telescópio refletor funcional?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Edwin Hubble"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": "q_027",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "O que resulta geralmente da reação entre um ácido e uma base?",
+    "options": [
+      "Sal e água",
+      "Gás hidrogénio e sal",
+      "Oxigénio e calor",
+      "Apenas água pura"
+    ],
+    "answer": "Sal e água"
+  },
+  {
+    "id": "q_028",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a função principal das mitocôndrias?",
+    "options": [
+      "Síntese proteica",
+      "Produção de energia celular (ATP)",
+      "Digestão de detritos",
+      "Fotossíntese"
+    ],
+    "answer": "Produção de energia celular (ATP)"
+  },
+  {
+    "id": "q_029",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o metal mais abundante na crosta terrestre?",
+    "options": [
+      "Ferro",
+      "Cobre",
+      "Alumínio",
+      "Magnésio"
+    ],
+    "answer": "Alumínio"
+  },
+  {
+    "id": "q_030",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Quem descobriu a penicilina em 1928?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": "q_031",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que planeta é conhecido como o \"Planeta Vermelho\"?",
+    "options": [
+      "Mercúrio",
+      "Júpiter",
+      "Marte",
+      "Saturno"
+    ],
+    "answer": "Marte"
+  },
+  {
+    "id": "q_032",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Como se chama o processo de divisão celular que forma os gâmetas?",
+    "options": [
+      "Mitose",
+      "Meiose",
+      "Fagocitose",
+      "Bipartição"
+    ],
+    "answer": "Meiose"
+  },
+  {
+    "id": "q_033",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a unidade de medida da força no Sistema Internacional?",
+    "options": [
+      "Joule",
+      "Pascal",
+      "Newton",
+      "Watt"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "id": "q_034",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que elemento químico metálico é essencial para a hemoglobina?",
+    "options": [
+      "Zinco",
+      "Ferro",
+      "Cobre",
+      "Cálcio"
+    ],
+    "answer": "Ferro"
+  },
+  {
+    "id": "q_035",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "A quem é atribuída a célebre equação E=mc²?",
+    "options": [
+      "Max Planck",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Niels Bohr"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": "q_036",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o ponto de ebulição da água na escala Fahrenheit ao nível do mar?",
+    "options": [
+      "100 °F",
+      "180 °F",
+      "212 °F",
+      "32 °F"
+    ],
+    "answer": "212 °F"
+  },
+  {
+    "id": "q_037",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que tipo de estrela é o nosso Sol?",
+    "options": [
+      "Gigante Vermelha",
+      "Anã Branca",
+      "Anã Amarela",
+      "Supergigante Azul"
+    ],
+    "answer": "Anã Amarela"
+  },
+  {
+    "id": "q_038",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Em que fase da Lua ela se encontra alinhada entre a Terra e o Sol, ficando invisível?",
+    "options": [
+      "Lua Cheia",
+      "Quarto Crescente",
+      "Lua Nova",
+      "Quarto Minguante"
+    ],
+    "answer": "Lua Nova"
+  },
+  {
+    "id": "q_039",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que mamífero marinho utiliza ecolocalização sofisticada para navegar e caçar?",
+    "options": [
+      "Golfinho",
+      "Foca",
+      "Lontra marinha",
+      "Morsa"
+    ],
+    "answer": "Golfinho"
+  },
+  {
+    "id": "q_040",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Como se designa uma mutação genética que altera apenas uma única base azotada?",
+    "options": [
+      "Deleção cromossómica",
+      "Translocação",
+      "Mutação pontual",
+      "Duplicação génica"
+    ],
+    "answer": "Mutação pontual"
+  },
+  {
+    "id": "q_041",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a aceleração da gravidade aproximada na superfície da Terra?",
+    "options": [
+      "8,2 m/s²",
+      "9,8 m/s²",
+      "11,5 m/s²",
+      "15,0 m/s²"
+    ],
+    "answer": "9,8 m/s²"
+  },
+  {
+    "id": "q_042",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que partícula subatómica possui carga elétrica negativa?",
+    "options": [
+      "Protão",
+      "Neutrão",
+      "Eletrão",
+      "Posição"
+    ],
+    "answer": "Eletrão"
+  },
+  {
+    "id": "q_043",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a camada mais externa e fina da Terra?",
+    "options": [
+      "Manto",
+      "Núcleo externo",
+      "Crosta",
+      "Litosfera média"
+    ],
+    "answer": "Crosta"
+  },
+  {
+    "id": "q_044",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o símbolo químico do ouro?",
+    "options": [
+      "Ag",
+      "Fe",
+      "Au",
+      "Pt"
+    ],
+    "answer": "Au"
+  },
+  {
+    "id": "q_045",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que físico britânico estabeleceu as três leis clássicas do movimento?",
+    "options": [
+      "Isaac Newton",
+      "Robert Hooke",
+      "Michael Faraday",
+      "James Clerk Maxwell"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": "q_046",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que órgão do corpo humano é responsável por impulsionar o sangue através do sistema circulatório?",
+    "options": [
+      "Pulmão",
+      "Coração",
+      "Fígado",
+      "Baço"
+    ],
+    "answer": "Coração"
+  },
+  {
+    "id": "q_047",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a mudança de estado físico direto de sólido para gás?",
+    "options": [
+      "Fusão",
+      "Condensação",
+      "Sublimação",
+      "Evaporação"
+    ],
+    "answer": "Sublimação"
+  },
+  {
+    "id": "q_048",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a principal missão dos leucócitos (glóbulos brancos) no sangue?",
+    "options": [
+      "Transportar oxigénio",
+      "Coagulação do sangue",
+      "Combater infeções e agentes estranhos",
+      "Regular o pH sanguíneo"
+    ],
+    "answer": "Combater infeções e agentes estranhos"
+  },
+  {
+    "id": "q_049",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que elemento químico serve de espinha dorsal para todas as moléculas orgânicas conhecidas?",
+    "options": [
+      "Oxigénio",
+      "Silício",
+      "Carbono",
+      "Azoto"
+    ],
+    "answer": "Carbono"
+  },
+  {
+    "id": "q_050",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a maior lua de Saturno, conhecida pela sua atmosfera densa?",
+    "options": [
+      "Europa",
+      "Titã",
+      "Ganimedes",
+      "Encélado"
+    ],
+    "answer": "Titã"
+  },
+  {
+    "id": "q_051",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a reprodução assexuada simples em que uma bactéria se divide em duas?",
+    "options": [
+      "Esporulação",
+      "Bipartição (ou fissão binária)",
+      "Gemulação",
+      "Fragmentação"
+    ],
+    "answer": "Bipartição (ou fissão binária)"
+  },
+  {
+    "id": "q_052",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a unidade de medida do Sistema Internacional para a frequência de uma onda?",
+    "options": [
+      "Hertz",
+      "Decibel",
+      "Joule",
+      "Lumen"
+    ],
+    "answer": "Hertz"
+  },
+  {
+    "id": "q_053",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a galáxia espiral gigante mais próxima da nossa Via Láctea?",
+    "options": [
+      "Andrómeda",
+      "Grande Nuvem de Magalhães",
+      "Galáxia do Triângulo",
+      "Centaurus A"
+    ],
+    "answer": "Andrómeda"
+  },
+  {
+    "id": "q_054",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "A energia associada à velocidade e movimento de um corpo denomina-se:",
+    "options": [
+      "Energia potencial",
+      "Energia cinética",
+      "Energia térmica",
+      "Energia elástica"
+    ],
+    "answer": "Energia cinética"
+  },
+  {
+    "id": "q_055",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o valor de pH correspondente a uma solução rigorosamente neutra a 25 °C?",
+    "options": [
+      "0",
+      "5",
+      "7",
+      "14"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "q_056",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que químico russo organizou os elementos químicos em ordem crescente de massa atómica em 1869?",
+    "options": [
+      "Dmitri Mendeleiev",
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Marie Curie"
+    ],
+    "answer": "Dmitri Mendeleiev"
+  },
+  {
+    "id": "q_057",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que organelo das células vegetais é responsável por absorver luz solar para a fotossíntese?",
+    "options": [
+      "Vacúolo",
+      "Cloroplasto",
+      "Complexo de Golgi",
+      "Centríolo"
+    ],
+    "answer": "Cloroplasto"
+  },
+  {
+    "id": "q_058",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Em que camada da atmosfera terrestre ocorrem quase todos os fenómenos meteorológicos?",
+    "options": [
+      "Troposfera",
+      "Estratosfera",
+      "Mesosfera",
+      "Termosfera"
+    ],
+    "answer": "Troposfera"
+  },
+  {
+    "id": "q_059",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que instrumento é utilizado para medir a pressão atmosférica?",
+    "options": [
+      "Anemómetro",
+      "Barómetro",
+      "Higrómetro",
+      "Termómetro"
+    ],
+    "answer": "Barómetro"
+  },
+  {
+    "id": "q_060",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que tipo de lente ótica é comumente utilizada para corrigir a miopia?",
+    "options": [
+      "Lente convergente (biconvexa)",
+      "Lente divergente (bicôncava)",
+      "Lente cilíndrica simples",
+      "Prisma plano"
+    ],
+    "answer": "Lente divergente (bicôncava)"
+  },
+  {
+    "id": "q_061",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o bosão responsável pela mediação da força eletromagnética?",
+    "options": [
+      "Gluão",
+      "Fótão",
+      "Bosão Z",
+      "Gravitão"
+    ],
+    "answer": "Fótão"
+  },
+  {
+    "id": "q_062",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Como se designa a força de resistência oposta ao deslizamento entre dois objetos em contacto?",
+    "options": [
+      "Força gravítica",
+      "Força de atrito",
+      "Força centrípeta",
+      "Força de empuxo"
+    ],
+    "answer": "Força de atrito"
+  },
+  {
+    "id": "q_063",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o gás com maior contributo antropogénico para o efeito de estufa global?",
+    "options": [
+      "Dióxido de carbono (CO2)",
+      "Vapor de água",
+      "Metano (CH4)",
+      "Óxido nitroso (N2O)"
+    ],
+    "answer": "Dióxido de carbono (CO2)"
+  },
+  {
+    "id": "q_064",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Quantos pares de nervos cranianos emergem diretamente do encéfalo humano?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "q_065",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que metal puro é líquido à temperatura e pressão normais de uma sala?",
+    "options": [
+      "Chumbo",
+      "Mercúrio",
+      "Gálio",
+      "Bromo"
+    ],
+    "answer": "Mercúrio"
+  },
+  {
+    "id": "q_066",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Como se designa a região do espaço-tempo em torno de um buraco negro além da qual nada escapa?",
+    "options": [
+      "Singularidade",
+      "Disco de acreção",
+      "Horizonte de eventos",
+      "Esfera de fótons"
+    ],
+    "answer": "Horizonte de eventos"
+  },
+  {
+    "id": "q_067",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que vitamina é produzida na pele humana através da exposição à radiação ultravioleta B (UVB)?",
+    "options": [
+      "Vitamina A",
+      "Vitamina C",
+      "Vitamina D",
+      "Vitamina E"
+    ],
+    "answer": "Vitamina D"
+  },
+  {
+    "id": "q_068",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a função primordial dos ribossomas na célula?",
+    "options": [
+      "Sintetizar proteínas",
+      "Armazenar lípidos",
+      "Produzir glicose",
+      "Duplicar o ADN"
+    ],
+    "answer": "Sintetizar proteínas"
+  },
+  {
+    "id": "q_069",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que escala sísmica mede a energia total libertada no hipocentro de um sismo?",
+    "options": [
+      "Escala de Mercalli",
+      "Escala de Richter (Magnitude)",
+      "Escala de Mohs",
+      "Escala Kelvin"
+    ],
+    "answer": "Escala de Richter (Magnitude)"
+  },
+  {
+    "id": "q_070",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o elemento químico mais abundante em todo o Universo observável?",
+    "options": [
+      "Hélio",
+      "Oxigénio",
+      "Hidrogénio",
+      "Carbono"
+    ],
+    "answer": "Hidrogénio"
+  },
+  {
+    "id": "q_071",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a camada mais exterior da atmosfera do Sol, observável durante eclipses totais?",
+    "options": [
+      "Fotosfera",
+      "Cromosfera",
+      "Coroa solar",
+      "Zona radiativa"
+    ],
+    "answer": "Coroa solar"
+  },
+  {
+    "id": "q_072",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que astrónomo confirmou a expansão do Universo pelo desvio para o vermelho em galáxias distantes?",
+    "options": [
+      "Carl Sagan",
+      "Edwin Hubble",
+      "Tycho Brahe",
+      "Stephen Hawking"
+    ],
+    "answer": "Edwin Hubble"
+  },
+  {
+    "id": "q_073",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é a designação química do sal de cozinha comum?",
+    "options": [
+      "Cloreto de potássio",
+      "Bicarbonato de sódio",
+      "Cloreto de sódio",
+      "Sulfato de magnésio"
+    ],
+    "answer": "Cloreto de sódio"
+  },
+  {
+    "id": "q_074",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o maior intervalo de tempo geológico na escala do tempo geológico da Terra?",
+    "options": [
+      "Era",
+      "Éon",
+      "Período",
+      "Época"
+    ],
+    "answer": "Éon"
+  },
+  {
+    "id": "q_075",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "O cérebro e a medula espinhal formam em conjunto qual subdivisão do sistema nervoso?",
+    "options": [
+      "Sistema Nervoso Periférico",
+      "Sistema Nervoso Autónomo",
+      "Sistema Nervoso Central",
+      "Sistema Nervoso Somático"
+    ],
+    "answer": "Sistema Nervoso Central"
+  },
+  {
+    "id": "q_076",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é a unidade molecular básica que codifica as instruções biológicas para um organismo?",
+    "options": [
+      "Gene",
+      "Aminoácido",
+      "Enzima",
+      "Fosfato"
+    ],
+    "answer": "Gene"
+  },
+  {
+    "id": "q_077",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que tipo de onda eletromagnética apresenta comprimentos de onda ligeiramente mais curtos que a luz visível violeta?",
+    "options": [
+      "Infravermelho",
+      "Ultravioleta",
+      "Micro-ondas",
+      "Ondas curtas"
+    ],
+    "answer": "Ultravioleta"
+  },
+  {
+    "id": "q_078",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o princípio que estabelece que o aumento na velocidade de um fluido coincide com a diminuição da pressão?",
+    "options": [
+      "Princípio de Pascal",
+      "Princípio de Arquimedes",
+      "Princípio de Bernoulli",
+      "Efeito Doppler"
+    ],
+    "answer": "Princípio de Bernoulli"
+  },
+  {
+    "id": "q_079",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a transferência de calor através de ondas eletromagnéticas sem meio material?",
+    "options": [
+      "Condução",
+      "Convecção",
+      "Radiação (ou irradiação)",
+      "Difusão"
+    ],
+    "answer": "Radiação (ou irradiação)"
+  },
+  {
+    "id": "q_080",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que organelo membranoso possui enzimas digestivas ácidas para degradar resíduos?",
+    "options": [
+      "Lisossoma",
+      "Centríolo",
+      "Peroxissoma",
+      "Complexo de Golgi"
+    ],
+    "answer": "Lisossoma"
+  },
+  {
+    "id": "q_081",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Na mecânica quântica, a letra h representa qual constante fundamental?",
+    "options": [
+      "Constante de Boltzmann",
+      "Constante de Planck",
+      "Constante gravítica",
+      "Constante de Rydberg"
+    ],
+    "answer": "Constante de Planck"
+  },
+  {
+    "id": "q_082",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que planeta do Sistema Solar detém o recorde de maior número de luas conhecidas confirmadas?",
+    "options": [
+      "Júpiter",
+      "Neptuno",
+      "Saturno",
+      "Úrano"
+    ],
+    "answer": "Saturno"
+  },
+  {
+    "id": "q_083",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a ligação química baseada na partilha mútua de pares de eletrões?",
+    "options": [
+      "Ligação iónica",
+      "Ligação covalente",
+      "Ligação metálica",
+      "Ligação de hidrogénio"
+    ],
+    "answer": "Ligação covalente"
+  },
+  {
+    "id": "q_084",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "O movimento passivo de solvente de uma solução menos concentrada para uma mais concentrada através de membrana é:",
+    "options": [
+      "Difusão facilitada",
+      "Transporte ativo",
+      "Osmose",
+      "Diálise"
+    ],
+    "answer": "Osmose"
+  },
+  {
+    "id": "q_085",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que componente eletrónico semicondutor converte fotões luminosos em corrente elétrica?",
+    "options": [
+      "Fotodíodo (ou célula fotovoltaica)",
+      "Termístor",
+      "Transístor BJT",
+      "Indutor"
+    ],
+    "answer": "Fotodíodo (ou célula fotovoltaica)"
+  },
+  {
+    "id": "q_086",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o maior e mais resistente osso do esqueleto humano?",
+    "options": [
+      "Tíbia",
+      "Fémur",
+      "Úmero",
+      "Rádio"
+    ],
+    "answer": "Fémur"
+  },
+  {
+    "id": "q_087",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Que designação recebem as rochas que se formam pelo arrefecimento e consolidação do magma?",
+    "options": [
+      "Rochas metamórficas",
+      "Rochas sedimentares",
+      "Rochas ígneas (ou magmáticas)",
+      "Rochas calcárias"
+    ],
+    "answer": "Rochas ígneas (ou magmáticas)"
+  },
+  {
+    "id": "q_088",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "A quantos graus Celsius corresponde a temperatura limite do Zero Absoluto (0 Kelvin)?",
+    "options": [
+      "-100 °C",
+      "-200 °C",
+      "-273,15 °C",
+      "-373,15 °C"
+    ],
+    "answer": "-273,15 °C"
+  },
+  {
+    "id": "q_089",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama o ramo da ciência que se dedica à análise e estudo de fósseis?",
+    "options": [
+      "Arqueologia",
+      "Paleontologia",
+      "Espeleologia",
+      "Mineralogia"
+    ],
+    "answer": "Paleontologia"
+  },
+  {
+    "id": "q_090",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Na física de partículas, partículas compostas por três quarks são chamadas:",
+    "options": [
+      "Mesões",
+      "Bariões",
+      "Leptões",
+      "Neutrinos"
+    ],
+    "answer": "Bariões"
+  },
+  {
+    "id": "q_091",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual é o nucleótido trifosfato que atua como principal transportador de energia química das células?",
+    "options": [
+      "ADP",
+      "AMP",
+      "ATP",
+      "GTP"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "id": "q_092",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "A alteração na frequência percebida de uma onda devido ao movimento relativo entre a fonte e o observador chama-se:",
+    "options": [
+      "Efeito Fotoelétrico",
+      "Efeito Doppler",
+      "Efeito Compton",
+      "Refração"
+    ],
+    "answer": "Efeito Doppler"
+  },
+  {
+    "id": "q_093",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se denomina a zona profunda dos oceanos onde a luz do sol é insuficiente para fotossíntese?",
+    "options": [
+      "Zona fótica",
+      "Zona afótica",
+      "Zona intertidal",
+      "Plataforma continental"
+    ],
+    "answer": "Zona afótica"
+  },
+  {
+    "id": "q_094",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Qual é o elemento com número atómico igual a 1?",
+    "options": [
+      "Hidrogénio",
+      "Hélio",
+      "Oxigénio",
+      "Carbono"
+    ],
+    "answer": "Hidrogénio"
+  },
+  {
+    "id": "q_095",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "O fenómeno pelo qual núcleos atómicos instáveis emitem partículas e radiação gama denomina-se:",
+    "options": [
+      "Fusão nuclear",
+      "Radioatividade",
+      "Ionização estática",
+      "Ressonância"
+    ],
+    "answer": "Radioatividade"
+  },
+  {
+    "id": "q_096",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que hormona é secretada pelas glândulas suprarrenais perante situações agudas de stress e alerta?",
+    "options": [
+      "Melatonina",
+      "Adrenalina (epinefrina)",
+      "Prolactina",
+      "Tiroxina"
+    ],
+    "answer": "Adrenalina (epinefrina)"
+  },
+  {
+    "id": "q_097",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Como se chama a membrana circular transparente anterior que protege a parte frontal do olho?",
+    "options": [
+      "Íris",
+      "Retina",
+      "Córnea",
+      "Cristalino"
+    ],
+    "answer": "Córnea"
+  },
+  {
+    "id": "q_098",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "O que postula fundamentalmente a primeira lei da termodinâmica?",
+    "options": [
+      "O calor flui sempre do corpo quente para o frio",
+      "A entropia do Universo aumenta continuamente",
+      "A energia não pode ser criada nem destruída, apenas transformada",
+      "É impossível atingir o zero absoluto"
+    ],
+    "answer": "A energia não pode ser criada nem destruída, apenas transformada"
+  },
+  {
+    "id": "q_099",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "fácil",
+    "question": "Qual destes planetas gira sobre o seu eixo no sentido contrário ao da maioria dos outros?",
+    "options": [
+      "Marte",
+      "Vénus",
+      "Júpiter",
+      "Terra"
+    ],
+    "answer": "Vénus"
+  },
+  {
+    "id": "q_100",
+    "theme": "Ciência e Tecnologia",
+    "difficulty": "difícil",
+    "question": "Que campo vetorial descreve a influência criada por cargas elétricas em movimento ou ímanes?",
+    "options": [
+      "Campo Gravítico",
+      "Campo Elétrico",
+      "Campo Eletrostático",
+      "Campo Magnético"
+    ],
+    "answer": "Campo Magnético"
+  },
+  {
+    "id": "q_101",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem realizou o filme clássico Pulp Fiction (1994)?",
+    "options": [
+      "Martin Scorsese",
+      "Quentin Tarantino",
+      "Steven Spielberg",
+      "Christopher Nolan"
+    ],
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "id": "q_102",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a banda britânica conhecida pelo lendário álbum The Dark Side of the Moon?",
+    "options": [
+      "The Beatles",
+      "Led Zeppelin",
+      "Pink Floyd",
+      "Queen"
+    ],
+    "answer": "Pink Floyd"
+  },
+  {
+    "id": "q_103",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que ator interpretou Jack Dawson no filme Titanic (1997)?",
+    "options": [
+      "Brad Pitt",
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Johnny Depp"
+    ],
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "id": "q_104",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem é conhecido mundialmente como o \"Rei do Pop\"?",
+    "options": [
+      "Prince",
+      "Elvis Presley",
+      "Michael Jackson",
+      "Stevie Wonder"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": "q_105",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual foi o primeiro filme da saga Star Wars a estrear nos cinemas, em 1977?",
+    "options": [
+      "O Império Contra-Ataca",
+      "Uma Nova Esperança",
+      "O Regresso de Jedi",
+      "A Ameaça Fantasma"
+    ],
+    "answer": "Uma Nova Esperança"
+  },
+  {
+    "id": "q_106",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem compôs as quatro estações na célebre obra barroca As Quatro Estações?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven"
+    ],
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "id": "q_107",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme venceu o Óscar de Melhor Filme em 2020, tornando-se o primeiro em língua não-inglesa a consegui-lo?",
+    "options": [
+      "Roma",
+      "Parasitas (Parasite)",
+      "1917",
+      "Era Uma Vez em... Hollywood"
+    ],
+    "answer": "Parasitas (Parasite)"
+  },
+  {
+    "id": "q_108",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem é o vocalista principal da banda irlandesa U2?",
+    "options": [
+      "The Edge",
+      "Bono",
+      "Chris Martin",
+      "Sting"
+    ],
+    "answer": "Bono"
+  },
+  {
+    "id": "q_109",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que realizador dirigiu clássicos como Tubarão, E.T. e A Lista de Schindler?",
+    "options": [
+      "James Cameron",
+      "George Lucas",
+      "Steven Spielberg",
+      "Ridley Scott"
+    ],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": "q_110",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é o nome do icónico festival de música realizado no estado de Nova Iorque em 1969?",
+    "options": [
+      "Coachella",
+      "Glastonbury",
+      "Woodstock",
+      "Live Aid"
+    ],
+    "answer": "Woodstock"
+  },
+  {
+    "id": "q_111",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem interpretou o vilão Joker no filme O Cavaleiro das Trevas (2008)?",
+    "options": [
+      "Joaquin Phoenix",
+      "Jack Nicholson",
+      "Heath Ledger",
+      "Jared Leto"
+    ],
+    "answer": "Heath Ledger"
+  },
+  {
+    "id": "q_112",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "De que país é originária a cantora Björk?",
+    "options": [
+      "Noruega",
+      "Islândia",
+      "Suécia",
+      "Dinamarca"
+    ],
+    "answer": "Islândia"
+  },
+  {
+    "id": "q_113",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o filme de maior bilheteira de sempre a nível global (sem ajuste de inflação)?",
+    "options": [
+      "Vingadores: Endgame",
+      "Titanic",
+      "Avatar",
+      "Star Wars: O Despertar da Força"
+    ],
+    "answer": "Avatar"
+  },
+  {
+    "id": "q_114",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que instrumento musical tocava o lendário músico de jazz Miles Davis?",
+    "options": [
+      "Saxofone",
+      "Trompete",
+      "Piano",
+      "Contrabaixo"
+    ],
+    "answer": "Trompete"
+  },
+  {
+    "id": "q_115",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o nome do planeta fictício onde decorre a ação do filme Avatar?",
+    "options": [
+      "Pandora",
+      "Tatooine",
+      "Arrakis",
+      "Krypton"
+    ],
+    "answer": "Pandora"
+  },
+  {
+    "id": "q_116",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem canta o êxito mundial Bohemian Rhapsody?",
+    "options": [
+      "The Rolling Stones",
+      "Queen",
+      "The Who",
+      "Deep Purple"
+    ],
+    "answer": "Queen"
+  },
+  {
+    "id": "q_117",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que atriz protagonizou o filme musical clássico Música no Coração (The Sound of Music)?",
+    "options": [
+      "Audrey Hepburn",
+      "Julie Andrews",
+      "Judy Garland",
+      "Marilyn Monroe"
+    ],
+    "answer": "Julie Andrews"
+  },
+  {
+    "id": "q_118",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quantas cordas tem habitualmente uma guitarra clássica padrão?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "q_119",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o nome do mafioso patriarca interpretado por Marlon Brando em O Padrinho (1972)?",
+    "options": [
+      "Michael Corleone",
+      "Sonny Corleone",
+      "Vito Corleone",
+      "Tony Montana"
+    ],
+    "answer": "Vito Corleone"
+  },
+  {
+    "id": "q_120",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que artista norte-americano lançou o álbum revolucionário Thriller em 1982?",
+    "options": [
+      "Prince",
+      "Stevie Wonder",
+      "Michael Jackson",
+      "Lionel Richie"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": "q_121",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que franchise de cinema apresenta a personagem Katniss Everdeen?",
+    "options": [
+      "Divergente",
+      "Os Jogos da Fome (The Hunger Games)",
+      "Maze Runner",
+      "Crepúsculo"
+    ],
+    "answer": "Os Jogos da Fome (The Hunger Games)"
+  },
+  {
+    "id": "q_122",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem compôs as bandas sonoras de Star Wars, Indiana Jones e Parque Jurássico?",
+    "options": [
+      "Hans Zimmer",
+      "Ennio Morricone",
+      "John Williams",
+      "Howard Shore"
+    ],
+    "answer": "John Williams"
+  },
+  {
+    "id": "q_123",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Em que cidade dos Estados Unidos nasceu a célebre editora musical Motown?",
+    "options": [
+      "Chicago",
+      "Detroit",
+      "Nova Iorque",
+      "Memphis"
+    ],
+    "answer": "Detroit"
+  },
+  {
+    "id": "q_124",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem realizou o filme de ficção científica Interstellar (2014)?",
+    "options": [
+      "Denis Villeneuve",
+      "Christopher Nolan",
+      "Ridley Scott",
+      "Alfonso Cuarón"
+    ],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": "q_125",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que lendário guitarrista tocou o hino dos EUA em Woodstock 1969?",
+    "options": [
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "Carlos Santana"
+    ],
+    "answer": "Jimi Hendrix"
+  },
+  {
+    "id": "q_126",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a cor da pílula que Neo escolhe tomar no filme Matrix (1999) para ver a verdade?",
+    "options": [
+      "Azul",
+      "Verde",
+      "Vermelha",
+      "Amarela"
+    ],
+    "answer": "Vermelha"
+  },
+  {
+    "id": "q_127",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que cantor de reggae jamaicano gravou o hino No Woman, No Cry?",
+    "options": [
+      "Peter Tosh",
+      "Bob Marley",
+      "Jimmy Cliff",
+      "Burning Spear"
+    ],
+    "answer": "Bob Marley"
+  },
+  {
+    "id": "q_128",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual foi a primeira longa-metragem de animação totalmente produzida por computador?",
+    "options": [
+      "Toy Story",
+      "Shrek",
+      "Monstros e Companhia",
+      "Uma Vida de Inseto"
+    ],
+    "answer": "Toy Story"
+  },
+  {
+    "id": "q_129",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem compôs a famosa Nona Sinfonia, cuja secção coral inclui a Ode à Alegria?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Franz Schubert",
+      "Johannes Brahms"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": "q_130",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que ator dá vida ao agente secreto James Bond no filme Casino Royale (2006)?",
+    "options": [
+      "Pierce Brosnan",
+      "Sean Connery",
+      "Daniel Craig",
+      "Roger Moore"
+    ],
+    "answer": "Daniel Craig"
+  },
+  {
+    "id": "q_131",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual destas bandas grunge era liderada por Kurt Cobain?",
+    "options": [
+      "Pearl Jam",
+      "Soundgarden",
+      "Nirvana",
+      "Alice in Chains"
+    ],
+    "answer": "Nirvana"
+  },
+  {
+    "id": "q_132",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem realizou o filme clássico de terror e suspense Psico (1960)?",
+    "options": [
+      "Stanley Kubrick",
+      "Alfred Hitchcock",
+      "Roman Polanski",
+      "Brian De Palma"
+    ],
+    "answer": "Alfred Hitchcock"
+  },
+  {
+    "id": "q_133",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Em que ano decorreu o histórico concerto solidário Live Aid?",
+    "options": [
+      "1980",
+      "1985",
+      "1990",
+      "1995"
+    ],
+    "answer": "1985"
+  },
+  {
+    "id": "q_134",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que filme ganhou o primeiro Óscar de Melhor Filme da história (em 1929)?",
+    "options": [
+      "Wings (Asas)",
+      "Sunrise",
+      "Metrópolis",
+      "O Cantor de Jazz"
+    ],
+    "answer": "Wings (Asas)"
+  },
+  {
+    "id": "q_135",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem é o famoso compositor italiano de bandas sonoras como O Bom, o Mau e o Vilão?",
+    "options": [
+      "Nino Rota",
+      "Ennio Morricone",
+      "Giorgio Moroder",
+      "Ludovico Einaudi"
+    ],
+    "answer": "Ennio Morricone"
+  },
+  {
+    "id": "q_136",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a famosa canção da banda Eagles que fala sobre um hotel do qual \"nunca podes sair\"?",
+    "options": [
+      "Take It Easy",
+      "Hotel California",
+      "Desperado",
+      "One of These Nights"
+    ],
+    "answer": "Hotel California"
+  },
+  {
+    "id": "q_137",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que ator interpretou Forrest Gump no filme homónimo de 1994?",
+    "options": [
+      "Robin Williams",
+      "Tom Hanks",
+      "Kevin Costner",
+      "John Travolta"
+    ],
+    "answer": "Tom Hanks"
+  },
+  {
+    "id": "q_138",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a nacionalidade do grupo pop ABBA?",
+    "options": [
+      "Norueguesa",
+      "Finlandesa",
+      "Sueca",
+      "Neerlandesa"
+    ],
+    "answer": "Sueca"
+  },
+  {
+    "id": "q_139",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme venceu 11 Óscares em 2004, igualando o recorde de Ben-Hur e Titanic?",
+    "options": [
+      "Gladiador",
+      "O Senhor dos Anéis: O Regresso do Rei",
+      "Beleza Americana",
+      "Chicago"
+    ],
+    "answer": "O Senhor dos Anéis: O Regresso do Rei"
+  },
+  {
+    "id": "q_140",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que instrumento tocava o virtuoso Frédéric Chopin maioritariamente nas suas composições?",
+    "options": [
+      "Violino",
+      "Órgão",
+      "Piano",
+      "Flauta"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": "q_141",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem realizou o épico de ficção científica 2001: Odisseia no Espaço (1968)?",
+    "options": [
+      "Stanley Kubrick",
+      "Arthur C. Clarke",
+      "George Lucas",
+      "Andrei Tarkovsky"
+    ],
+    "answer": "Stanley Kubrick"
+  },
+  {
+    "id": "q_142",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que banda de rock pesado lançou o histórico álbum Back in Black em 1980?",
+    "options": [
+      "Guns N' Roses",
+      "AC/DC",
+      "Iron Maiden",
+      "Black Sabbath"
+    ],
+    "answer": "AC/DC"
+  },
+  {
+    "id": "q_143",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem interpreta a personagem Wolverine nos filmes dos X-Men?",
+    "options": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Russell Crowe",
+      "Gerard Butler"
+    ],
+    "answer": "Hugh Jackman"
+  },
+  {
+    "id": "q_144",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que movimento musical nasceu nos anos 1970 em Nova Iorque com DJ Kool Herc?",
+    "options": [
+      "Punk",
+      "Disco",
+      "Hip-hop",
+      "Grunge"
+    ],
+    "answer": "Hip-hop"
+  },
+  {
+    "id": "q_145",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o nome da inteligência artificial a bordo da nave em 2001: Odisseia no Espaço?",
+    "options": [
+      "Skynet",
+      "HAL 9000",
+      "Jarvis",
+      "WOPR"
+    ],
+    "answer": "HAL 9000"
+  },
+  {
+    "id": "q_146",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que cantora norte-americana é conhecida por êxitos como Like a Virgin e Vogue?",
+    "options": [
+      "Cyndi Lauper",
+      "Madonna",
+      "Cher",
+      "Janet Jackson"
+    ],
+    "answer": "Madonna"
+  },
+  {
+    "id": "q_147",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem realizou os filmes da trilogia O Padrinho?",
+    "options": [
+      "Francis Ford Coppola",
+      "Brian De Palma",
+      "Sergio Leone",
+      "Martin Scorsese"
+    ],
+    "answer": "Francis Ford Coppola"
+  },
+  {
+    "id": "q_148",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que músico britânico criou o alter ego Ziggy Stardust?",
+    "options": [
+      "Elton John",
+      "David Bowie",
+      "Freddie Mercury",
+      "Marc Bolan"
+    ],
+    "answer": "David Bowie"
+  },
+  {
+    "id": "q_149",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme de animação da Disney conta a história de Simba e Mufasa?",
+    "options": [
+      "Tarzan",
+      "O Rei Leão",
+      "Mulan",
+      "Aladino"
+    ],
+    "answer": "O Rei Leão"
+  },
+  {
+    "id": "q_150",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que estilo musical tradicional português é Património Imaterial da UNESCO?",
+    "options": [
+      "Cante Alentejano",
+      "Fado",
+      "Vira",
+      "Chula"
+    ],
+    "answer": "Fado"
+  },
+  {
+    "id": "q_151",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o arqueólogo aventureiro interpretado por Harrison Ford?",
+    "options": [
+      "Han Solo",
+      "Rick Deckard",
+      "Indiana Jones",
+      "Jack Ryan"
+    ],
+    "answer": "Indiana Jones"
+  },
+  {
+    "id": "q_152",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual destes cantores é famoso pela sua interpretação clássica de My Way?",
+    "options": [
+      "Dean Martin",
+      "Frank Sinatra",
+      "Nat King Cole",
+      "Tony Bennett"
+    ],
+    "answer": "Frank Sinatra"
+  },
+  {
+    "id": "q_153",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Em que ano foi lançado o clássico filme de animação Branca de Neve e os Sete Anões da Disney?",
+    "options": [
+      "1928",
+      "1937",
+      "1945",
+      "1950"
+    ],
+    "answer": "1937"
+  },
+  {
+    "id": "q_154",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que banda britânica foi formada por Mick Jagger e Keith Richards?",
+    "options": [
+      "The Kinks",
+      "The Rolling Stones",
+      "The Clash",
+      "The Police"
+    ],
+    "answer": "The Rolling Stones"
+  },
+  {
+    "id": "q_155",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é a frase mais famosa de Arnold Schwarzenegger no filme O Exterminador Implacável 2?",
+    "options": [
+      "\"I'll be back\"",
+      "\"Hasta la vista, baby\"",
+      "\"Get to the chopper\"",
+      "\"Say hello to my little friend\""
+    ],
+    "answer": "\"Hasta la vista, baby\""
+  },
+  {
+    "id": "q_156",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem é considerado o \"Pai da Música Sinfónica\" e do \"Quarteto de Cordas\"?",
+    "options": [
+      "Joseph Haydn",
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Franz Liszt"
+    ],
+    "answer": "Joseph Haydn"
+  },
+  {
+    "id": "q_157",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme acompanha a fuga de Andy Dufresne de uma prisão de alta segurança?",
+    "options": [
+      "À Espera de um Milagre",
+      "Os Condenados de Shawshank",
+      "Alcatraz",
+      "Papillon"
+    ],
+    "answer": "Os Condenados de Shawshank"
+  },
+  {
+    "id": "q_158",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a banda de heavy metal fundada por James Hetfield e Lars Ulrich?",
+    "options": [
+      "Megadeth",
+      "Slayer",
+      "Metallica",
+      "Anthrax"
+    ],
+    "answer": "Metallica"
+  },
+  {
+    "id": "q_159",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem realizou o aclamado filme de ficção científica Blade Runner (1982)?",
+    "options": [
+      "Ridley Scott",
+      "George Lucas",
+      "David Lynch",
+      "James Cameron"
+    ],
+    "answer": "Ridley Scott"
+  },
+  {
+    "id": "q_160",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que cantora de soul imortalizou temas como Respect e Natural Woman?",
+    "options": [
+      "Etta James",
+      "Aretha Franklin",
+      "Nina Simone",
+      "Diana Ross"
+    ],
+    "answer": "Aretha Franklin"
+  },
+  {
+    "id": "q_161",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Em que filme da Pixar conhecemos o velhinho Carl Fredricksen que viaja com uma casa presa a balões?",
+    "options": [
+      "Divertida-Mente",
+      "Wall-E",
+      "Up - Altamente",
+      "Coco"
+    ],
+    "answer": "Up - Altamente"
+  },
+  {
+    "id": "q_162",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que instrumento caribenho é afinado em notas melódicas usando tambores de aço?",
+    "options": [
+      "Bongó",
+      "Steelpan (ou Steel drum)",
+      "Marimba",
+      "Conga"
+    ],
+    "answer": "Steelpan (ou Steel drum)"
+  },
+  {
+    "id": "q_163",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que ator interpreta Neo na saga Matrix?",
+    "options": [
+      "Keanu Reeves",
+      "Ethan Hawke",
+      "Brad Pitt",
+      "Nicolas Cage"
+    ],
+    "answer": "Keanu Reeves"
+  },
+  {
+    "id": "q_164",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual destas cidades norte-americanas é considerada o berço histórico do Jazz?",
+    "options": [
+      "Nova Iorque",
+      "Nova Orleães",
+      "Nashville",
+      "Filadélfia"
+    ],
+    "answer": "Nova Orleães"
+  },
+  {
+    "id": "q_165",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem realizou os filmes da saga épica O Senhor dos Anéis?",
+    "options": [
+      "George Lucas",
+      "Peter Jackson",
+      "Guillermo del Toro",
+      "Sam Raimi"
+    ],
+    "answer": "Peter Jackson"
+  },
+  {
+    "id": "q_166",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem gravou o famoso álbum acústico e concerto em prisão At Folsom Prison em 1968?",
+    "options": [
+      "Willie Nelson",
+      "Johnny Cash",
+      "Waylon Jennings",
+      "Kris Kristofferson"
+    ],
+    "answer": "Johnny Cash"
+  },
+  {
+    "id": "q_167",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o título da música tema do filme Titanic, cantada por Céline Dion?",
+    "options": [
+      "Because You Loved Me",
+      "My Heart Will Go On",
+      "The Power of Love",
+      "All By Myself"
+    ],
+    "answer": "My Heart Will Go On"
+  },
+  {
+    "id": "q_168",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que banda de rock progressivo compôs a suíte orquestral Close to the Edge?",
+    "options": [
+      "Genesis",
+      "Yes",
+      "King Crimson",
+      "Jethro Tull"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "q_169",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que realizador é conhecido pelo estilo gótico em O Estranho Mundo de Jack e A Noiva Cadáver?",
+    "options": [
+      "Tim Burton",
+      "Wes Anderson",
+      "Terry Gilliam",
+      "David Cronenberg"
+    ],
+    "answer": "Tim Burton"
+  },
+  {
+    "id": "q_170",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quantos membros compunham os Beatles na sua formação definitiva?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "q_171",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que atriz interpretou a Princesa Leia na saga clássica de Star Wars?",
+    "options": [
+      "Natalie Portman",
+      "Carrie Fisher",
+      "Sigourney Weaver",
+      "Daisy Ridley"
+    ],
+    "answer": "Carrie Fisher"
+  },
+  {
+    "id": "q_172",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "De que país é originário o género musical Reggae?",
+    "options": [
+      "Cuba",
+      "Jamaica",
+      "Haiti",
+      "Bahamas"
+    ],
+    "answer": "Jamaica"
+  },
+  {
+    "id": "q_173",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme tem como premissa assaltos a segredos industriais invadindo o subconsciente através de sonhos?",
+    "options": [
+      "Shutter Island",
+      "A Origem (Inception)",
+      "Memento",
+      "Tenet"
+    ],
+    "answer": "A Origem (Inception)"
+  },
+  {
+    "id": "q_174",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual foi o baterista dos Beatles?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "answer": "Ringo Starr"
+  },
+  {
+    "id": "q_175",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme sobre a máfia de Nova Iorque foi realizado por Martin Scorsese em 1990 com Robert De Niro?",
+    "options": [
+      "Casino",
+      "Tudo Bons Rapazes (Goodfellas)",
+      "O Irlandês",
+      "Donnie Brasco"
+    ],
+    "answer": "Tudo Bons Rapazes (Goodfellas)"
+  },
+  {
+    "id": "q_176",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Em que armação de clave não existem sustenidos nem bemóis?",
+    "options": [
+      "Sol Maior",
+      "Ré Maior",
+      "Dó Maior",
+      "Fá Maior"
+    ],
+    "answer": "Dó Maior"
+  },
+  {
+    "id": "q_177",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem interpretou a heroína Ellen Ripley no filme de ficção científica Alien (1979)?",
+    "options": [
+      "Linda Hamilton",
+      "Sigourney Weaver",
+      "Jamie Lee Curtis",
+      "Jodie Foster"
+    ],
+    "answer": "Sigourney Weaver"
+  },
+  {
+    "id": "q_178",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que grupo de rap pioneiro de Compton incluía Dr. Dre, Ice Cube e Eazy-E?",
+    "options": [
+      "Wu-Tang Clan",
+      "N.W.A",
+      "Run-D.M.C.",
+      "Public Enemy"
+    ],
+    "answer": "N.W.A"
+  },
+  {
+    "id": "q_179",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que cineasta italiano dirigiu obras-primas como La Dolce Vita e 8½?",
+    "options": [
+      "Federico Fellini",
+      "Michelangelo Antonioni",
+      "Roberto Rossellini",
+      "Luchino Visconti"
+    ],
+    "answer": "Federico Fellini"
+  },
+  {
+    "id": "q_180",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que compositor alemão continuou a compor grandes obras mesmo após perder quase totalmente a audição?",
+    "options": [
+      "Richard Wagner",
+      "Ludwig van Beethoven",
+      "Felix Mendelssohn",
+      "Robert Schumann"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": "q_181",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme dos anos 80 popularizou a máquina do tempo num carro DeLorean DMC-12?",
+    "options": [
+      "Os Caça-Fantasmas",
+      "Regresso ao Futuro",
+      "Blade Runner",
+      "Mad Max"
+    ],
+    "answer": "Regresso ao Futuro"
+  },
+  {
+    "id": "q_182",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem gravou o álbum Back to Black (2006), que inclui êxitos como Rehab?",
+    "options": [
+      "Adele",
+      "Amy Winehouse",
+      "Duffy",
+      "Joss Stone"
+    ],
+    "answer": "Amy Winehouse"
+  },
+  {
+    "id": "q_183",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é a lendária espada mágica da lenda arturiana?",
+    "options": [
+      "Glamdring",
+      "Excalibur",
+      "Andúril",
+      "Narsil"
+    ],
+    "answer": "Excalibur"
+  },
+  {
+    "id": "q_184",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que estilo de música eletrónica teve raízes em clubes de Chicago nos anos 80?",
+    "options": [
+      "Trance",
+      "House",
+      "Dubstep",
+      "Drum and Bass"
+    ],
+    "answer": "House"
+  },
+  {
+    "id": "q_185",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que ator protagonizou Clube de Combate (Fight Club, 1999) com Brad Pitt?",
+    "options": [
+      "Edward Norton",
+      "Christian Bale",
+      "Guy Pearce",
+      "Jared Leto"
+    ],
+    "answer": "Edward Norton"
+  },
+  {
+    "id": "q_186",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a ópera mais famosa de Georges Bizet, passada em Sevilha?",
+    "options": [
+      "A Flauta Mágica",
+      "Carmen",
+      "La Traviata",
+      "Madama Butterfly"
+    ],
+    "answer": "Carmen"
+  },
+  {
+    "id": "q_187",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem realizou o épico Duna (2021) e a sequela Duna: Parte Dois?",
+    "options": [
+      "Denis Villeneuve",
+      "Ridley Scott",
+      "Christopher Nolan",
+      "David Fincher"
+    ],
+    "answer": "Denis Villeneuve"
+  },
+  {
+    "id": "q_188",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que músico britânico compôs a célebre homenagem Candle in the Wind?",
+    "options": [
+      "Billy Joel",
+      "Elton John",
+      "Rod Stewart",
+      "Phil Collins"
+    ],
+    "answer": "Elton John"
+  },
+  {
+    "id": "q_189",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme retrata a história do pugilista Rocky Balboa em Filadélfia?",
+    "options": [
+      "Touro Enraivecido",
+      "Rocky",
+      "Million Dollar Baby",
+      "Creed"
+    ],
+    "answer": "Rocky"
+  },
+  {
+    "id": "q_190",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem é considerado o \"Pai do Blues\" e autor de St. Louis Blues?",
+    "options": [
+      "Robert Johnson",
+      "W.C. Handy",
+      "B.B. King",
+      "Muddy Waters"
+    ],
+    "answer": "W.C. Handy"
+  },
+  {
+    "id": "q_191",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o nome do aventureiro interpretado por Nicolas Cage em O Tesouro?",
+    "options": [
+      "Benjamin Franklin Gates",
+      "Rick O'Connell",
+      "Alan Grant",
+      "Robert Langdon"
+    ],
+    "answer": "Benjamin Franklin Gates"
+  },
+  {
+    "id": "q_192",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual destes instrumentos pertence à família das madeiras apesar de ser metálico?",
+    "options": [
+      "Trompete",
+      "Saxofone",
+      "Trombone",
+      "Tuba"
+    ],
+    "answer": "Saxofone"
+  },
+  {
+    "id": "q_193",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que filme de Tarantino reúne Christoph Waltz no papel do coronel Hans Landa?",
+    "options": [
+      "Django Libertado",
+      "Sacanas Sem Lei (Inglourious Basterds)",
+      "Os Oito Odiados",
+      "Jackie Brown"
+    ],
+    "answer": "Sacanas Sem Lei (Inglourious Basterds)"
+  },
+  {
+    "id": "q_194",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Qual é a icónica guitarra lançada pela Fender em 1954 com dois cornos recortados?",
+    "options": [
+      "Les Paul",
+      "Stratocaster",
+      "Telecaster",
+      "SG"
+    ],
+    "answer": "Stratocaster"
+  },
+  {
+    "id": "q_195",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Em que clássico Humphrey Bogart diz a frase \"Here's looking at you, kid\"?",
+    "options": [
+      "Falcão Maltês",
+      "Casablanca",
+      "Crepúsculo dos Deuses",
+      "O Grande Sono"
+    ],
+    "answer": "Casablanca"
+  },
+  {
+    "id": "q_196",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que lendário trompetista de voz rouca gravou What a Wonderful World?",
+    "options": [
+      "Dizzy Gillespie",
+      "Louis Armstrong",
+      "Chet Baker",
+      "Cab Calloway"
+    ],
+    "answer": "Louis Armstrong"
+  },
+  {
+    "id": "q_197",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que ator deu vida a Oppenheimer no filme biográfico de Christopher Nolan em 2023?",
+    "options": [
+      "Cillian Murphy",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Emily Blunt"
+    ],
+    "answer": "Cillian Murphy"
+  },
+  {
+    "id": "q_198",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "De que lendária banda punk britânica fazia parte Sid Vicious?",
+    "options": [
+      "The Clash",
+      "Sex Pistols",
+      "Ramones",
+      "The Damned"
+    ],
+    "answer": "Sex Pistols"
+  },
+  {
+    "id": "q_199",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Qual é o nome do monstro gigante que ataca Tóquio no cinema japonês clássico de 1954?",
+    "options": [
+      "King Kong",
+      "Godzilla (Gojira)",
+      "Mothra",
+      "Gamera"
+    ],
+    "answer": "Godzilla (Gojira)"
+  },
+  {
+    "id": "q_200",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que compositor austríaco genial compôs Réquiem e A Flauta Mágica antes dos 35 anos?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Franz Joseph Haydn",
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert"
+    ],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": "q_201",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a capital de Portugal?",
+    "options": [
+      "Porto",
+      "Coimbra",
+      "Lisboa",
+      "Braga"
+    ],
+    "answer": "Lisboa"
+  },
+  {
+    "id": "q_202",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem pintou o famoso quadro Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Pablo Picasso",
+      "Michelangelo"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "q_203",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que ano terminou a Segunda Guerra Mundial?",
+    "options": [
+      "1939",
+      "1943",
+      "1945",
+      "1950"
+    ],
+    "answer": "1945"
+  },
+  {
+    "id": "q_204",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quantos dias tem um ano bissexto?",
+    "options": [
+      "364",
+      "365",
+      "366",
+      "367"
+    ],
+    "answer": "366"
+  },
+  {
+    "id": "q_205",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a língua mais falada no mundo por número total de falantes?",
+    "options": [
+      "Espanhol",
+      "Mandarim",
+      "Inglês",
+      "Hindi"
+    ],
+    "answer": "Inglês"
+  },
+  {
+    "id": "q_206",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem escreveu a epopeia portuguesa Os Lusíadas?",
+    "options": [
+      "Fernando Pessoa",
+      "Luís de Camões",
+      "Eça de Queirós",
+      "Gil Vicente"
+    ],
+    "answer": "Luís de Camões"
+  },
+  {
+    "id": "q_207",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país se situam as famosas pirâmides de Gizé?",
+    "options": [
+      "México",
+      "Peru",
+      "Egito",
+      "Sudão"
+    ],
+    "answer": "Egito"
+  },
+  {
+    "id": "q_208",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quantos continentes existem habitualmente segundo a convenção mais comum?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "q_209",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a moeda oficial do Japão?",
+    "options": [
+      "Yuan",
+      "Won",
+      "Iene",
+      "Ringgit"
+    ],
+    "answer": "Iene"
+  },
+  {
+    "id": "q_210",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem foi o primeiro Presidente dos Estados Unidos da América?",
+    "options": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "George Washington",
+      "John Adams"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "id": "q_211",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é o animal terrestre mais rápido do planeta?",
+    "options": [
+      "Leão",
+      "Chita (Guepardo)",
+      "Gazela",
+      "Cavalo"
+    ],
+    "answer": "Chita (Guepardo)"
+  },
+  {
+    "id": "q_212",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que cidade italiana fica o célebre Coliseu romano?",
+    "options": [
+      "Milão",
+      "Florença",
+      "Roma",
+      "Nápoles"
+    ],
+    "answer": "Roma"
+  },
+  {
+    "id": "q_213",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem esculpiu a célebre estátua de David em Florença?",
+    "options": [
+      "Donatello",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Bernini"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "q_214",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o livro sagrado do Islão?",
+    "options": [
+      "Torá",
+      "Bíblia",
+      "Alcorão",
+      "Vedas"
+    ],
+    "answer": "Alcorão"
+  },
+  {
+    "id": "q_215",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que século ocorreu a Revolução Francesa?",
+    "options": [
+      "Século XVII",
+      "Século XVIII",
+      "Século XIX",
+      "Século XX"
+    ],
+    "answer": "Século XVIII"
+  },
+  {
+    "id": "q_216",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a fórmula química da água?",
+    "options": [
+      "CO2",
+      "NaCl",
+      "H2O",
+      "CH4"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": "q_217",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem foi o líder pacifista da independência da Índia através da não-violência?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Indira Gandhi"
+    ],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": "q_218",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Que monumento icónico de Paris foi erguido para a Exposição Universal de 1889?",
+    "options": [
+      "Arco do Triunfo",
+      "Museu do Louvre",
+      "Torre Eiffel",
+      "Catedral de Notre-Dame"
+    ],
+    "answer": "Torre Eiffel"
+  },
+  {
+    "id": "q_219",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quantas cores tem habitualmente o arco-íris visível tradicional?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "q_220",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que cidade fica a sede principal das Nações Unidas (ONU)?",
+    "options": [
+      "Genebra",
+      "Nova Iorque",
+      "Haia",
+      "Londres"
+    ],
+    "answer": "Nova Iorque"
+  },
+  {
+    "id": "q_221",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem pintou o teto da Capela Sistina no Vaticano?",
+    "options": [
+      "Rafael",
+      "Caravaggio",
+      "Michelangelo",
+      "Botticelli"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "q_222",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a principal religião com maior número de adeptos no mundo?",
+    "options": [
+      "Islamismo",
+      "Cristianismo",
+      "Hinduísmo",
+      "Budismo"
+    ],
+    "answer": "Cristianismo"
+  },
+  {
+    "id": "q_223",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país se encontra o sítio arqueológico de Machu Picchu?",
+    "options": [
+      "Bolívia",
+      "Colômbia",
+      "Peru",
+      "Chile"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": "q_224",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem escreveu a tragédia teatral Romeu e Julieta?",
+    "options": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Oscar Wilde",
+      "Christopher Marlowe"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "q_225",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que ano ocorreu o naufrágio do navio Titanic?",
+    "options": [
+      "1905",
+      "1912",
+      "1918",
+      "1923"
+    ],
+    "answer": "1912"
+  },
+  {
+    "id": "q_226",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o maior felino selvagem do mundo?",
+    "options": [
+      "Leão",
+      "Leopardo",
+      "Tigre",
+      "Onça-pintada"
+    ],
+    "answer": "Tigre"
+  },
+  {
+    "id": "q_227",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que navegador comandou a expedição europeia que alcançou a Índia em 1498?",
+    "options": [
+      "Pedro Álvares Cabral",
+      "Bartolomeu Dias",
+      "Vasco da Gama",
+      "Fernão de Magalhães"
+    ],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "id": "q_228",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a capital do Reino Unido?",
+    "options": [
+      "Edimburgo",
+      "Manchester",
+      "Londres",
+      "Dublin"
+    ],
+    "answer": "Londres"
+  },
+  {
+    "id": "q_229",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quantos lados tem um hexágono regular?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "q_230",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que país se originou o jogo de Xadrez na sua forma ancestral Chaturanga?",
+    "options": [
+      "Pérsia",
+      "China",
+      "Índia",
+      "Egito"
+    ],
+    "answer": "Índia"
+  },
+  {
+    "id": "q_231",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual destes filósofos gregos foi o mestre direto de Platão?",
+    "options": [
+      "Aristóteles",
+      "Sócrates",
+      "Pitágoras",
+      "Epicuro"
+    ],
+    "answer": "Sócrates"
+  },
+  {
+    "id": "q_232",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem foi o primeiro homem a pisar a Lua, em julho de 1969?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": "q_233",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país europeu se localiza o Museu do Prado?",
+    "options": [
+      "França",
+      "Itália",
+      "Espanha",
+      "Portugal"
+    ],
+    "answer": "Espanha"
+  },
+  {
+    "id": "q_234",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o metal cujo símbolo químico é Ag?",
+    "options": [
+      "Ouro",
+      "Prata",
+      "Cobre",
+      "Platina"
+    ],
+    "answer": "Prata"
+  },
+  {
+    "id": "q_235",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que data se comemora o Dia de Portugal, de Camões e das Comunidades?",
+    "options": [
+      "25 de Abril",
+      "10 de Junho",
+      "5 de Outubro",
+      "1 de Dezembro"
+    ],
+    "answer": "10 de Junho"
+  },
+  {
+    "id": "q_236",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o país com maior área territorial do planeta?",
+    "options": [
+      "Canadá",
+      "China",
+      "Estados Unidos",
+      "Rússia"
+    ],
+    "answer": "Rússia"
+  },
+  {
+    "id": "q_237",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem pintou o famoso quadro expressionista O Grito?",
+    "options": [
+      "Gustav Klimt",
+      "Edvard Munch",
+      "Egon Schiele",
+      "Paul Cézanne"
+    ],
+    "answer": "Edvard Munch"
+  },
+  {
+    "id": "q_238",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o rio mais longo do continente europeu?",
+    "options": [
+      "Danúbio",
+      "Reno",
+      "Volga",
+      "Sena"
+    ],
+    "answer": "Volga"
+  },
+  {
+    "id": "q_239",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que localidade se realizavam os Jogos Olímpicos na Antiguidade Clássica?",
+    "options": [
+      "Atenas",
+      "Esparta",
+      "Olímpia",
+      "Corinto"
+    ],
+    "answer": "Olímpia"
+  },
+  {
+    "id": "q_240",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quantas teclas tem um piano acústico clássico padrão completo?",
+    "options": [
+      "76",
+      "84",
+      "88",
+      "92"
+    ],
+    "answer": "88"
+  },
+  {
+    "id": "q_241",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem escreveu o romance clássico Dom Quixote de La Mancha?",
+    "options": [
+      "Gabriel García Márquez",
+      "Miguel de Cervantes",
+      "Federico García Lorca",
+      "Jorge Luis Borges"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": "q_242",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o maior mamífero vivo do planeta Terra?",
+    "options": [
+      "Elefante africano",
+      "Tubarão-baleia",
+      "Baleia-azul",
+      "Cachalote"
+    ],
+    "answer": "Baleia-azul"
+  },
+  {
+    "id": "q_243",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que ano caiu o Muro de Berlim?",
+    "options": [
+      "1987",
+      "1989",
+      "1991",
+      "1993"
+    ],
+    "answer": "1989"
+  },
+  {
+    "id": "q_244",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o arquipélago português cuja maior cidade é Ponta Delgada?",
+    "options": [
+      "Madeira",
+      "Canárias",
+      "Açores",
+      "Berlengas"
+    ],
+    "answer": "Açores"
+  },
+  {
+    "id": "q_245",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que inventor desenvolveu a lâmpada incandescente comercializável?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": "q_246",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que museu de Paris se encontra a escultura Vénus de Milo?",
+    "options": [
+      "Museu d'Orsay",
+      "Centro Pompidou",
+      "Museu do Louvre",
+      "Museu Rodin"
+    ],
+    "answer": "Museu do Louvre"
+  },
+  {
+    "id": "q_247",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem foi o líder sul-africano que combateu o Apartheid e recebeu o Nobel da Paz?",
+    "options": [
+      "Desmond Tutu",
+      "Nelson Mandela",
+      "Steve Biko",
+      "Thabo Mbeki"
+    ],
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": "q_248",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a moeda comum adotada pela maioria dos países da União Europeia?",
+    "options": [
+      "Libra",
+      "Franco",
+      "Euro",
+      "Coroa"
+    ],
+    "answer": "Euro"
+  },
+  {
+    "id": "q_249",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que mineral apresenta dureza máxima (grau 10) na Escala de Mohs?",
+    "options": [
+      "Quartzo",
+      "Topázio",
+      "Diamante",
+      "Corindo"
+    ],
+    "answer": "Diamante"
+  },
+  {
+    "id": "q_250",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que ano ocorreu o grande terramoto de Lisboa que devastou a cidade?",
+    "options": [
+      "1720",
+      "1755",
+      "1799",
+      "1807"
+    ],
+    "answer": "1755"
+  },
+  {
+    "id": "q_251",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Austrália?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Camberra",
+      "Brisbane"
+    ],
+    "answer": "Camberra"
+  },
+  {
+    "id": "q_252",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem formulou a teoria da evolução através da seleção natural em 1859?",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Alfred Russel Wallace"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": "q_253",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país se encontra a Grande Muralha, maravilha da humanidade?",
+    "options": [
+      "Coreia do Sul",
+      "Japão",
+      "China",
+      "Mongólia"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "q_254",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a principal matéria-prima mineral usada na confeção do vidro?",
+    "options": [
+      "Argila",
+      "Areia (sílica)",
+      "Calcário",
+      "Gesso"
+    ],
+    "answer": "Areia (sílica)"
+  },
+  {
+    "id": "q_255",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que pintor surrealista espanhol pintou A Persistência da Memória?",
+    "options": [
+      "Joan Miró",
+      "Salvador Dalí",
+      "René Magritte",
+      "Francisco de Goya"
+    ],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": "q_256",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quantos estados compõem os Estados Unidos da América?",
+    "options": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": "q_257",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a ave não voadora que é símbolo nacional da Nova Zelândia?",
+    "options": [
+      "Emu",
+      "Kiwi",
+      "Casuar",
+      "Pinguim"
+    ],
+    "answer": "Kiwi"
+  },
+  {
+    "id": "q_258",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que cidade fica a monumental igreja da Sagrada Família, de Antoni Gaudí?",
+    "options": [
+      "Madrid",
+      "Valência",
+      "Barcelona",
+      "Sevilha"
+    ],
+    "answer": "Barcelona"
+  },
+  {
+    "id": "q_259",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem liderou a frota portuguesa que chegou ao Brasil em abril de 1500?",
+    "options": [
+      "Vasco da Gama",
+      "Pedro Álvares Cabral",
+      "Afonso de Albuquerque",
+      "Bartolomeu Dias"
+    ],
+    "answer": "Pedro Álvares Cabral"
+  },
+  {
+    "id": "q_260",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é o ponto montanhoso mais alto de Portugal continental?",
+    "options": [
+      "Serra do Gerês",
+      "Serra da Estrela (Torre)",
+      "Serra do Marão",
+      "Montanha do Pico"
+    ],
+    "answer": "Serra da Estrela (Torre)"
+  },
+  {
+    "id": "q_261",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país nasceu o compositor Wolfgang Amadeus Mozart?",
+    "options": [
+      "Alemanha",
+      "Áustria",
+      "Suíça",
+      "Hungria"
+    ],
+    "answer": "Áustria"
+  },
+  {
+    "id": "q_262",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a capital do Canadá?",
+    "options": [
+      "Toronto",
+      "Montreal",
+      "Otava",
+      "Vancouver"
+    ],
+    "answer": "Otava"
+  },
+  {
+    "id": "q_263",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem foi a última rainha da dinastia ptolemaica do Antigo Egito?",
+    "options": [
+      "Nefertiti",
+      "Cleópatra",
+      "Hatshepsut",
+      "Nefertari"
+    ],
+    "answer": "Cleópatra"
+  },
+  {
+    "id": "q_264",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que oceano se localiza o mítico Triângulo das Bermudas?",
+    "options": [
+      "Oceano Pacífico",
+      "Oceano Índico",
+      "Oceano Atlântico",
+      "Oceano Ártico"
+    ],
+    "answer": "Oceano Atlântico"
+  },
+  {
+    "id": "q_265",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que revolução em 1917 derrubou a monarquia czarista no Império Russo?",
+    "options": [
+      "Revolução de Veludo",
+      "Revolução Francesa",
+      "Revolução Bolchevique (Russa)",
+      "Revolução Industrial"
+    ],
+    "answer": "Revolução Bolchevique (Russa)"
+  },
+  {
+    "id": "q_266",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a sede do governo dos Países Baixos, embora a capital seja Amesterdão?",
+    "options": [
+      "Roterdão",
+      "Utrecht",
+      "Haia",
+      "Eindhoven"
+    ],
+    "answer": "Haia"
+  },
+  {
+    "id": "q_267",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem escreveu a saga literária de fantasia Harry Potter?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "C.S. Lewis",
+      "George R.R. Martin"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": "q_268",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a maior ilha do planeta em termos de superfície territorial?",
+    "options": [
+      "Madagáscar",
+      "Gronelândia",
+      "Bornéu",
+      "Nova Guiné"
+    ],
+    "answer": "Gronelândia"
+  },
+  {
+    "id": "q_269",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que data comemoramos a Revolução dos Cravos em Portugal?",
+    "options": [
+      "5 de Outubro",
+      "25 de Abril",
+      "1 de Dezembro",
+      "10 de Junho"
+    ],
+    "answer": "25 de Abril"
+  },
+  {
+    "id": "q_270",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Que instrumento é especificamente concebido para aferir a velocidade do vento?",
+    "options": [
+      "Barómetro",
+      "Termómetro",
+      "Anemómetro",
+      "Higrómetro"
+    ],
+    "answer": "Anemómetro"
+  },
+  {
+    "id": "q_271",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país se localiza o famoso monumento Taj Mahal?",
+    "options": [
+      "Paquistão",
+      "Bangladesh",
+      "Índia",
+      "Nepal"
+    ],
+    "answer": "Índia"
+  },
+  {
+    "id": "q_272",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quantos anos durou aproximadamente a Guerra dos Cem Anos?",
+    "options": [
+      "90 anos",
+      "100 anos",
+      "116 anos",
+      "130 anos"
+    ],
+    "answer": "116 anos"
+  },
+  {
+    "id": "q_273",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que animal dá o leite tradicional para a confecção da autêntica Mozzarella italiana?",
+    "options": [
+      "Ovelha",
+      "Cabra",
+      "Búfala",
+      "Vaca"
+    ],
+    "answer": "Búfala"
+  },
+  {
+    "id": "q_274",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem foi o primeiro ser humano a viajar no espaço em 1961 na Vostok 1?",
+    "options": [
+      "Neil Armstrong",
+      "John Glenn",
+      "Yuri Gagarin",
+      "Alan Shepard"
+    ],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": "q_275",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é o país mais populoso do mundo na atualidade?",
+    "options": [
+      "China",
+      "Índia",
+      "Estados Unidos",
+      "Indonésia"
+    ],
+    "answer": "Índia"
+  },
+  {
+    "id": "q_276",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que país se situa a região histórica da Transilvânia?",
+    "options": [
+      "Hungria",
+      "Bulgária",
+      "Roménia",
+      "Sérvia"
+    ],
+    "answer": "Roménia"
+  },
+  {
+    "id": "q_277",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que invenção de Johannes Gutenberg no século XV popularizou os livros?",
+    "options": [
+      "O telégrafo",
+      "A imprensa de tipos móveis",
+      "A máquina de escrever",
+      "O pergaminho"
+    ],
+    "answer": "A imprensa de tipos móveis"
+  },
+  {
+    "id": "q_278",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a flor emblemática muito celebrada na primavera no Japão?",
+    "options": [
+      "Lótus",
+      "Tulipa",
+      "Flor de Cerejeira (Sakura)",
+      "Crisântemo"
+    ],
+    "answer": "Flor de Cerejeira (Sakura)"
+  },
+  {
+    "id": "q_279",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país se situa a central nuclear de Chernobyl?",
+    "options": [
+      "Rússia",
+      "Bielorrússia",
+      "Ucrânia",
+      "Cazaquistão"
+    ],
+    "answer": "Ucrânia"
+  },
+  {
+    "id": "q_280",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que cidade nórdica se realiza a cerimónia do Prémio Nobel da Paz?",
+    "options": [
+      "Oslo",
+      "Estocolmo",
+      "Copenhaga",
+      "Helsínquia"
+    ],
+    "answer": "Oslo"
+  },
+  {
+    "id": "q_281",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é o canal artificial navegável que liga o Mar Mediterrâneo ao Mar Vermelho?",
+    "options": [
+      "Canal do Panamá",
+      "Canal de Kiel",
+      "Canal do Suez",
+      "Canal de Corinto"
+    ],
+    "answer": "Canal do Suez"
+  },
+  {
+    "id": "q_282",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Que cientista polaca-francesa foi laureada com dois Prémios Nobel em Física e Química?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Lise Meitner",
+      "Ada Lovelace"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": "q_283",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a cidade sede do governo federal e capital da Suíça?",
+    "options": [
+      "Zurique",
+      "Genebra",
+      "Berna",
+      "Basileia"
+    ],
+    "answer": "Berna"
+  },
+  {
+    "id": "q_284",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem escreveu a célebre epopeia clássica A Odisseia?",
+    "options": [
+      "Sófocles",
+      "Homero",
+      "Eurípides",
+      "Hesíodo"
+    ],
+    "answer": "Homero"
+  },
+  {
+    "id": "q_285",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quantas pontas tem a Estrela de David do judaísmo?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "q_286",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que país se realiza anualmente a famosa festa da cerveja Oktoberfest?",
+    "options": [
+      "Áustria",
+      "Bélgica",
+      "Alemanha",
+      "Chéquia"
+    ],
+    "answer": "Alemanha"
+  },
+  {
+    "id": "q_287",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que líder britânico conduziu a nação durante a maior parte da Segunda Guerra Mundial?",
+    "options": [
+      "Neville Chamberlain",
+      "Winston Churchill",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": "q_288",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "De que árvore provêm as azeitonas?",
+    "options": [
+      "Sobreiro",
+      "Oliveira",
+      "Figueira",
+      "Castanheiro"
+    ],
+    "answer": "Oliveira"
+  },
+  {
+    "id": "q_289",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que continente se estende o Deserto do Sara?",
+    "options": [
+      "Ásia",
+      "África",
+      "América do Sul",
+      "Oceânia"
+    ],
+    "answer": "África"
+  },
+  {
+    "id": "q_290",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Quem é o autor do clássico livro O Principezinho?",
+    "options": [
+      "Victor Hugo",
+      "Antoine de Saint-Exupéry",
+      "Jules Verne",
+      "Albert Camus"
+    ],
+    "answer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": "q_291",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Qual é a árvore florestal portuguesa da qual se extrai a cortiça?",
+    "options": [
+      "Pinheiro-bravo",
+      "Eucalipto",
+      "Sobreiro",
+      "Azinheira"
+    ],
+    "answer": "Sobreiro"
+  },
+  {
+    "id": "q_292",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que cidade dos Estados Unidos fica o arranha-céus Empire State Building?",
+    "options": [
+      "Chicago",
+      "Los Angeles",
+      "Nova Iorque",
+      "São Francisco"
+    ],
+    "answer": "Nova Iorque"
+  },
+  {
+    "id": "q_293",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que físico e matemático inglês elaborou a teoria da gravitação universal?",
+    "options": [
+      "Michael Faraday",
+      "Isaac Newton",
+      "James Watt",
+      "Charles Babbage"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": "q_294",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a capital política da Turquia?",
+    "options": [
+      "Istambul",
+      "Esmirna",
+      "Ancara",
+      "Antália"
+    ],
+    "answer": "Ancara"
+  },
+  {
+    "id": "q_295",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Que imperador francês foi definitivamente derrotado na Batalha de Waterloo em 1815?",
+    "options": [
+      "Luís XIV",
+      "Napoleão Bonaparte",
+      "Carlos Magno",
+      "Luís XVI"
+    ],
+    "answer": "Napoleão Bonaparte"
+  },
+  {
+    "id": "q_296",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Que constelação em forma de concha aponta para a Estrela Polar no hemisfério norte?",
+    "options": [
+      "Ursa Maior",
+      "Ursa Menor",
+      "Orion",
+      "Cassiopeia"
+    ],
+    "answer": "Ursa Menor"
+  },
+  {
+    "id": "q_297",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quem escreveu o influente romance realista português Os Maias?",
+    "options": [
+      "Camilo Castelo Branco",
+      "Eça de Queirós",
+      "Almeida Garrett",
+      "Alexandre Herculano"
+    ],
+    "answer": "Eça de Queirós"
+  },
+  {
+    "id": "q_298",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Qual é a bebida destilada tradicional do México elaborada com agave-azul?",
+    "options": [
+      "Rum",
+      "Tequila",
+      "Vodka",
+      "Pisco"
+    ],
+    "answer": "Tequila"
+  },
+  {
+    "id": "q_299",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Em que país se localiza a cidade sagrada islâmica de Meca?",
+    "options": [
+      "Irão",
+      "Iraque",
+      "Arábia Saudita",
+      "Jordânia"
+    ],
+    "answer": "Arábia Saudita"
+  },
+  {
+    "id": "q_300",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Que famosa torre sineira em Itália é mundialmente famosa pela inclinação da sua estrutura?",
+    "options": [
+      "Torre de Pisa",
+      "Campanário de Giotto",
+      "Torre dos Lamberti",
+      "Campanário de São Marcos"
+    ],
+    "answer": "Torre de Pisa"
+  },
+  {
+    "id": "q_301",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a montanha mais alta do planeta acima do nível do mar?",
+    "options": [
+      "K2",
+      "Monte Evereste",
+      "Monte Branco",
+      "Kilimanjaro"
+    ],
+    "answer": "Monte Evereste"
+  },
+  {
+    "id": "q_302",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é o rio mais longo do mundo em extensão total comprovada?",
+    "options": [
+      "Rio Nilo",
+      "Rio Amazonas",
+      "Rio Yangtzé",
+      "Rio Mississípi"
+    ],
+    "answer": "Rio Amazonas"
+  },
+  {
+    "id": "q_303",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital do Canadá?",
+    "options": [
+      "Toronto",
+      "Otava",
+      "Vancouver",
+      "Montreal"
+    ],
+    "answer": "Otava"
+  },
+  {
+    "id": "q_304",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que continente fica situado o deserto de Atacama?",
+    "options": [
+      "África",
+      "Ásia",
+      "América do Sul",
+      "Oceânia"
+    ],
+    "answer": "América do Sul"
+  },
+  {
+    "id": "q_305",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é o país com maior área territorial do planeta?",
+    "options": [
+      "Canadá",
+      "China",
+      "Estados Unidos",
+      "Rússia"
+    ],
+    "answer": "Rússia"
+  },
+  {
+    "id": "q_306",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que estreito separa a Europa da África no extremo sul da Península Ibérica?",
+    "options": [
+      "Estreito de Bósforo",
+      "Estreito de Gibraltar",
+      "Estreito de Magalhães",
+      "Estreito de Ormuz"
+    ],
+    "answer": "Estreito de Gibraltar"
+  },
+  {
+    "id": "q_307",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Austrália?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Camberra",
+      "Brisbane"
+    ],
+    "answer": "Camberra"
+  },
+  {
+    "id": "q_308",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Quantos países fazem fronteira terrestre direta com Portugal?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Nenhum"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "q_309",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é o maior lago de água doce do mundo em volume?",
+    "options": [
+      "Lago Vitória",
+      "Lago Superior",
+      "Lago Baikal",
+      "Mar Cáspio"
+    ],
+    "answer": "Lago Baikal"
+  },
+  {
+    "id": "q_310",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que oceano banha a costa ocidental de Portugal continental?",
+    "options": [
+      "Oceano Índico",
+      "Oceano Pacífico",
+      "Oceano Atlântico",
+      "Mar Mediterrâneo"
+    ],
+    "answer": "Oceano Atlântico"
+  },
+  {
+    "id": "q_311",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Islândia?",
+    "options": [
+      "Oslo",
+      "Reiquiavique",
+      "Helsínquia",
+      "Copenhaga"
+    ],
+    "answer": "Reiquiavique"
+  },
+  {
+    "id": "q_312",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que cordilheira montanhosa se localiza o Monte Evereste?",
+    "options": [
+      "Andes",
+      "Alpes",
+      "Himalaias",
+      "Rochosas"
+    ],
+    "answer": "Himalaias"
+  },
+  {
+    "id": "q_313",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital federal do Brasil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "answer": "Brasília"
+  },
+  {
+    "id": "q_314",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é o menor Estado soberano do mundo em área territorial?",
+    "options": [
+      "Mónaco",
+      "San Marino",
+      "Cidade do Vaticano",
+      "Liechtenstein"
+    ],
+    "answer": "Cidade do Vaticano"
+  },
+  {
+    "id": "q_315",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que rio atravessa o centro histórico da cidade de Paris?",
+    "options": [
+      "Tamisa",
+      "Sena",
+      "Danúbio",
+      "Reno"
+    ],
+    "answer": "Sena"
+  },
+  {
+    "id": "q_316",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que continente se localiza o vulcão e pico Kilimanjaro?",
+    "options": [
+      "América do Sul",
+      "Ásia",
+      "África",
+      "Oceânia"
+    ],
+    "answer": "África"
+  },
+  {
+    "id": "q_317",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital dos Países Baixos?",
+    "options": [
+      "Haia",
+      "Roterdão",
+      "Amesterdão",
+      "Utrecht"
+    ],
+    "answer": "Amesterdão"
+  },
+  {
+    "id": "q_318",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país europeu tem o perfil geográfico semelhante a uma bota de cano alto?",
+    "options": [
+      "Grécia",
+      "Itália",
+      "Espanha",
+      "Portugal"
+    ],
+    "answer": "Itália"
+  },
+  {
+    "id": "q_319",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Nova Zelândia?",
+    "options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Queenstown"
+    ],
+    "answer": "Wellington"
+  },
+  {
+    "id": "q_320",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que mar desagua o rio Danúbio?",
+    "options": [
+      "Mar Negro",
+      "Mar Báltico",
+      "Mar Cáspio",
+      "Mar do Norte"
+    ],
+    "answer": "Mar Negro"
+  },
+  {
+    "id": "q_321",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é o país insular banhado pelo Canal de Moçambique no sudeste africano?",
+    "options": [
+      "Maurícia",
+      "Seicheles",
+      "Madagáscar",
+      "Comores"
+    ],
+    "answer": "Madagáscar"
+  },
+  {
+    "id": "q_322",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que canal artificial liga o Oceano Atlântico ao Oceano Pacífico?",
+    "options": [
+      "Canal do Suez",
+      "Canal do Panamá",
+      "Canal de Kiel",
+      "Canal da Mancha"
+    ],
+    "answer": "Canal do Panamá"
+  },
+  {
+    "id": "q_323",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Argentina?",
+    "options": [
+      "Santiago",
+      "Montevideu",
+      "Buenos Aires",
+      "Córdova"
+    ],
+    "answer": "Buenos Aires"
+  },
+  {
+    "id": "q_324",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que ilha portuguesa se situa o ponto mais alto de todo o território de Portugal?",
+    "options": [
+      "Ilha de São Miguel",
+      "Ilha da Madeira",
+      "Ilha do Pico",
+      "Ilha Terceira"
+    ],
+    "answer": "Ilha do Pico"
+  },
+  {
+    "id": "q_325",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é o maior deserto quente do planeta?",
+    "options": [
+      "Deserto de Gobi",
+      "Deserto do Sara",
+      "Deserto do Calaári",
+      "Grande Deserto de Areia"
+    ],
+    "answer": "Deserto do Sara"
+  },
+  {
+    "id": "q_326",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital da República da Irlanda?",
+    "options": [
+      "Belfast",
+      "Dublin",
+      "Cork",
+      "Galway"
+    ],
+    "answer": "Dublin"
+  },
+  {
+    "id": "q_327",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que cadeia de montanhas serve de fronteira natural entre Espanha e França?",
+    "options": [
+      "Apeninos",
+      "Pirenéus",
+      "Cárpatos",
+      "Balcãs"
+    ],
+    "answer": "Pirenéus"
+  },
+  {
+    "id": "q_328",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital do Japão?",
+    "options": [
+      "Quioto",
+      "Osaka",
+      "Tóquio",
+      "Hiroxima"
+    ],
+    "answer": "Tóquio"
+  },
+  {
+    "id": "q_329",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Quantos estados federados (Bundesländer) compõem a Alemanha?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "q_330",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país da América do Sul não tem saída para o mar?",
+    "options": [
+      "Paraguai",
+      "Equador",
+      "Suriname",
+      "Uruguai"
+    ],
+    "answer": "Paraguai"
+  },
+  {
+    "id": "q_331",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Suécia?",
+    "options": [
+      "Gotemburgo",
+      "Malmö",
+      "Estocolmo",
+      "Uppsala"
+    ],
+    "answer": "Estocolmo"
+  },
+  {
+    "id": "q_332",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que país europeu se situam as famosas Cataratas do Reno?",
+    "options": [
+      "Alemanha",
+      "Áustria",
+      "Suíça",
+      "Liechtenstein"
+    ],
+    "answer": "Suíça"
+  },
+  {
+    "id": "q_333",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é o rio mais longo da Península Ibérica que desagua no estuário em Lisboa?",
+    "options": [
+      "Douro",
+      "Guadiana",
+      "Tejo",
+      "Mondego"
+    ],
+    "answer": "Tejo"
+  },
+  {
+    "id": "q_334",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital do Egito?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Gizé",
+      "Luxor"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "id": "q_335",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que dois países partilham a vasta região geográfica da Patagónia?",
+    "options": [
+      "Peru e Bolívia",
+      "Argentina e Chile",
+      "Colômbia e Venezuela",
+      "Brasil e Paraguai"
+    ],
+    "answer": "Argentina e Chile"
+  },
+  {
+    "id": "q_336",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital da Dinamarca?",
+    "options": [
+      "Copenhaga",
+      "Aarhus",
+      "Odense",
+      "Aalborg"
+    ],
+    "answer": "Copenhaga"
+  },
+  {
+    "id": "q_337",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que linha geográfica divide o globo terrestre nos hemisférios norte e sul?",
+    "options": [
+      "Meridiano de Greenwich",
+      "Trópico de Câncer",
+      "Linha do Equador",
+      "Trópico de Capricórnio"
+    ],
+    "answer": "Linha do Equador"
+  },
+  {
+    "id": "q_338",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital da Polónia?",
+    "options": [
+      "Cracóvia",
+      "Varsóvia",
+      "Gdańsk",
+      "Breslávia"
+    ],
+    "answer": "Varsóvia"
+  },
+  {
+    "id": "q_339",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que país sul-americano é proprietário das ilhas Galápagos?",
+    "options": [
+      "Colômbia",
+      "Equador",
+      "Peru",
+      "Costa Rica"
+    ],
+    "answer": "Equador"
+  },
+  {
+    "id": "q_340",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital da Noruega?",
+    "options": [
+      "Bergen",
+      "Trondheim",
+      "Oslo",
+      "Stavanger"
+    ],
+    "answer": "Oslo"
+  },
+  {
+    "id": "q_341",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que lago nos Andes é o lago navegável comercialmente mais alto do mundo?",
+    "options": [
+      "Lago Titicaca (Peru e Bolívia)",
+      "Lago Nahuel Huapi",
+      "Lago Maracaibo",
+      "Lago Poopó"
+    ],
+    "answer": "Lago Titicaca (Peru e Bolívia)"
+  },
+  {
+    "id": "q_342",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital da Finlândia?",
+    "options": [
+      "Tampere",
+      "Turku",
+      "Helsínquia",
+      "Espoo"
+    ],
+    "answer": "Helsínquia"
+  },
+  {
+    "id": "q_343",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que oceano se situa entre a África, a Ásia e a Oceânia?",
+    "options": [
+      "Oceano Atlântico",
+      "Oceano Antártico",
+      "Oceano Índico",
+      "Oceano Pacífico"
+    ],
+    "answer": "Oceano Índico"
+  },
+  {
+    "id": "q_344",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a capital da Turquia?",
+    "options": [
+      "Istambul",
+      "Esmirna",
+      "Ancara",
+      "Bursa"
+    ],
+    "answer": "Ancara"
+  },
+  {
+    "id": "q_345",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Que país do mundo ocupa a totalidade do seu continente?",
+    "options": [
+      "Gronelândia",
+      "Madagáscar",
+      "Austrália",
+      "África do Sul"
+    ],
+    "answer": "Austrália"
+  },
+  {
+    "id": "q_346",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que rio escavou as gargantas do Grand Canyon nos Estados Unidos?",
+    "options": [
+      "Rio Mississípi",
+      "Rio Colorado",
+      "Rio Grande",
+      "Rio Missouri"
+    ],
+    "answer": "Rio Colorado"
+  },
+  {
+    "id": "q_347",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Grécia?",
+    "options": [
+      "Salonica",
+      "Pireu",
+      "Atenas",
+      "Heraclião"
+    ],
+    "answer": "Atenas"
+  },
+  {
+    "id": "q_348",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que massa de água entre Israel e a Jordânia é conhecida pelo elevado teor de salinidade?",
+    "options": [
+      "Mar Negro",
+      "Mar Cáspio",
+      "Mar Morto",
+      "Mar Vermelho"
+    ],
+    "answer": "Mar Morto"
+  },
+  {
+    "id": "q_349",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Bélgica e centro de instituições europeias?",
+    "options": [
+      "Antuérpia",
+      "Gante",
+      "Bruxelas",
+      "Bruges"
+    ],
+    "answer": "Bruxelas"
+  },
+  {
+    "id": "q_350",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que nação tem as suas capitais divididas entre Pretória, Cidade do Cabo e Bloemfontein?",
+    "options": [
+      "Nigéria",
+      "Quénia",
+      "África do Sul",
+      "Gana"
+    ],
+    "answer": "África do Sul"
+  },
+  {
+    "id": "q_351",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Chéquia?",
+    "options": [
+      "Brno",
+      "Plzeň",
+      "Praga",
+      "Ostrava"
+    ],
+    "answer": "Praga"
+  },
+  {
+    "id": "q_352",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que cordilheira montanhosa nasce o caudaloso rio Amazonas?",
+    "options": [
+      "Rochosas",
+      "Montes Urais",
+      "Cordilheira dos Andes",
+      "Montes Atlas"
+    ],
+    "answer": "Cordilheira dos Andes"
+  },
+  {
+    "id": "q_353",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Áustria?",
+    "options": [
+      "Salzburgo",
+      "Graz",
+      "Viena",
+      "Innsbruck"
+    ],
+    "answer": "Viena"
+  },
+  {
+    "id": "q_354",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é o país do mundo que possui maior número de ilhas no seu território?",
+    "options": [
+      "Indonésia",
+      "Filipinas",
+      "Suécia",
+      "Japão"
+    ],
+    "answer": "Suécia"
+  },
+  {
+    "id": "q_355",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Hungria cortada pelo rio Danúbio?",
+    "options": [
+      "Debrecen",
+      "Szeged",
+      "Budapeste",
+      "Miskolc"
+    ],
+    "answer": "Budapeste"
+  },
+  {
+    "id": "q_356",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país europeu possui milhares de ilhas nos mares Egeu e Jónico?",
+    "options": [
+      "Itália",
+      "Chipre",
+      "Grécia",
+      "Malta"
+    ],
+    "answer": "Grécia"
+  },
+  {
+    "id": "q_357",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Coreia do Sul?",
+    "options": [
+      "Busan",
+      "Incheon",
+      "Seul",
+      "Daegu"
+    ],
+    "answer": "Seul"
+  },
+  {
+    "id": "q_358",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é o ponto mais baixo da superfície emersa do planeta em relação ao nível do mar?",
+    "options": [
+      "Depressão de Qattara",
+      "Vale da Morte",
+      "Margens do Mar Morto",
+      "Depressão de Danakil"
+    ],
+    "answer": "Margens do Mar Morto"
+  },
+  {
+    "id": "q_359",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Colômbia?",
+    "options": [
+      "Medellín",
+      "Cáli",
+      "Bogotá",
+      "Barranquilla"
+    ],
+    "answer": "Bogotá"
+  },
+  {
+    "id": "q_360",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que país se localiza a catarata mais alta do mundo (Salto Ángel)?",
+    "options": [
+      "Brasil",
+      "Guiana",
+      "Venezuela",
+      "Bolívia"
+    ],
+    "answer": "Venezuela"
+  },
+  {
+    "id": "q_361",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital de Marrocos?",
+    "options": [
+      "Casablanca",
+      "Marraquexe",
+      "Rabat",
+      "Fez"
+    ],
+    "answer": "Rabat"
+  },
+  {
+    "id": "q_362",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que linha meridiana serve de ponto zero para a determinação dos fusos horários?",
+    "options": [
+      "Linha Internacional de Data",
+      "Trópico de Câncer",
+      "Meridiano de Greenwich",
+      "Meridiano de Paris"
+    ],
+    "answer": "Meridiano de Greenwich"
+  },
+  {
+    "id": "q_363",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Croácia?",
+    "options": [
+      "Split",
+      "Dubrovnik",
+      "Zagreb",
+      "Rijeka"
+    ],
+    "answer": "Zagreb"
+  },
+  {
+    "id": "q_364",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que oceano se situa a Fossa das Marianas?",
+    "options": [
+      "Oceano Atlântico",
+      "Oceano Índico",
+      "Oceano Pacífico",
+      "Oceano Antártico"
+    ],
+    "answer": "Oceano Pacífico"
+  },
+  {
+    "id": "q_365",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital do Chile?",
+    "options": [
+      "Valparaíso",
+      "Concepción",
+      "Santiago",
+      "Antofagasta"
+    ],
+    "answer": "Santiago"
+  },
+  {
+    "id": "q_366",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que cordilheira montanhosa russa estabelece o limite físico tradicional entre Europa e Ásia?",
+    "options": [
+      "Montes Cárpatos",
+      "Cáucaso",
+      "Montes Urais",
+      "Alpes Dináricos"
+    ],
+    "answer": "Montes Urais"
+  },
+  {
+    "id": "q_367",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital federal de facto da Suíça?",
+    "options": [
+      "Zurique",
+      "Genebra",
+      "Berna",
+      "Basileia"
+    ],
+    "answer": "Berna"
+  },
+  {
+    "id": "q_368",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país insular do Sudeste Asiático é formado por mais de dezassete mil ilhas?",
+    "options": [
+      "Tailândia",
+      "Malásia",
+      "Indonésia",
+      "Vietname"
+    ],
+    "answer": "Indonésia"
+  },
+  {
+    "id": "q_369",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital histórica da Escócia?",
+    "options": [
+      "Glasgow",
+      "Aberdeen",
+      "Edimburgo",
+      "Dundee"
+    ],
+    "answer": "Edimburgo"
+  },
+  {
+    "id": "q_370",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que braço de mar separa a Península Itálica da Península Balcânica?",
+    "options": [
+      "Mar Tirreno",
+      "Mar Jónico",
+      "Mar Adriático",
+      "Mar Lígue"
+    ],
+    "answer": "Mar Adriático"
+  },
+  {
+    "id": "q_371",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Roménia?",
+    "options": [
+      "Cluj-Napoca",
+      "Timișoara",
+      "Bucareste",
+      "Iași"
+    ],
+    "answer": "Bucareste"
+  },
+  {
+    "id": "q_372",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que rio português corre integralmente no país desde a Serra da Estrela até à Figueira da Foz?",
+    "options": [
+      "Rio Sado",
+      "Rio Vouga",
+      "Rio Mondego",
+      "Rio Zêzere"
+    ],
+    "answer": "Rio Mondego"
+  },
+  {
+    "id": "q_373",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Ucrânia?",
+    "options": [
+      "Kharkiv",
+      "Lviv",
+      "Kiev",
+      "Odessa"
+    ],
+    "answer": "Kiev"
+  },
+  {
+    "id": "q_374",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país vizinho partilha com o Brasil as Cataratas do Iguaçu?",
+    "options": [
+      "Paraguai",
+      "Uruguai",
+      "Argentina",
+      "Bolívia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": "q_375",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Tailândia?",
+    "options": [
+      "Chiang Mai",
+      "Phuket",
+      "Banguecoque",
+      "Pattaya"
+    ],
+    "answer": "Banguecoque"
+  },
+  {
+    "id": "q_376",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que metrópole turca é cortada pelo estreito de Bósforo e ocupa dois continentes?",
+    "options": [
+      "Atenas",
+      "Beirute",
+      "Istambul",
+      "Cairo"
+    ],
+    "answer": "Istambul"
+  },
+  {
+    "id": "q_377",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital de Angola?",
+    "options": [
+      "Benguela",
+      "Huambo",
+      "Luanda",
+      "Lubango"
+    ],
+    "answer": "Luanda"
+  },
+  {
+    "id": "q_378",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é o país que possui a linha de costa marítima mais extensa do planeta?",
+    "options": [
+      "Rússia",
+      "Austrália",
+      "Canadá",
+      "Indonésia"
+    ],
+    "answer": "Canadá"
+  },
+  {
+    "id": "q_379",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital de Moçambique?",
+    "options": [
+      "Beira",
+      "Nampula",
+      "Maputo",
+      "Quelimane"
+    ],
+    "answer": "Maputo"
+  },
+  {
+    "id": "q_380",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que país se localiza a vasta extensão de dunas do deserto Rub' al-Khali?",
+    "options": [
+      "Argélia",
+      "Egito",
+      "Arábia Saudita",
+      "Iraque"
+    ],
+    "answer": "Arábia Saudita"
+  },
+  {
+    "id": "q_381",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital de Cuba?",
+    "options": [
+      "Santiago de Cuba",
+      "Camagüey",
+      "Havana",
+      "Varadero"
+    ],
+    "answer": "Havana"
+  },
+  {
+    "id": "q_382",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que rio de África forma o célebre delta que desagua no Mar Mediterrâneo?",
+    "options": [
+      "Rio Congo",
+      "Rio Níger",
+      "Rio Nilo",
+      "Rio Zambeze"
+    ],
+    "answer": "Rio Nilo"
+  },
+  {
+    "id": "q_383",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Arábia Saudita?",
+    "options": [
+      "Jedá",
+      "Meca",
+      "Riade",
+      "Medina"
+    ],
+    "answer": "Riade"
+  },
+  {
+    "id": "q_384",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que arquipélago espanhol se localiza no Oceano Atlântico ao largo da costa do Saara Ocidental?",
+    "options": [
+      "Ilhas Baleares",
+      "Açores",
+      "Ilhas Canárias",
+      "Ilhas Cíclades"
+    ],
+    "answer": "Ilhas Canárias"
+  },
+  {
+    "id": "q_385",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital do México?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Cidade do México",
+      "Puebla"
+    ],
+    "answer": "Cidade do México"
+  },
+  {
+    "id": "q_386",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que país da Europa Central se estende a maciça Floresta Negra?",
+    "options": [
+      "Áustria",
+      "Polónia",
+      "Alemanha",
+      "Chéquia"
+    ],
+    "answer": "Alemanha"
+  },
+  {
+    "id": "q_387",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Venezuela?",
+    "options": [
+      "Maracaibo",
+      "Valência",
+      "Caracas",
+      "Barquisimeto"
+    ],
+    "answer": "Caracas"
+  },
+  {
+    "id": "q_388",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que estreito marítimo separa Dover em Inglaterra de Calais em França?",
+    "options": [
+      "Estreito de Gibraltar",
+      "Estreito de Bósforo",
+      "Estreito de Dover (Passo de Calais)",
+      "Estreito de Messina"
+    ],
+    "answer": "Estreito de Dover (Passo de Calais)"
+  },
+  {
+    "id": "q_389",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital do Peru?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Lima",
+      "Trujillo"
+    ],
+    "answer": "Lima"
+  },
+  {
+    "id": "q_390",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual destas cidades capitais de distrito portuguesas fica localizada mais a norte?",
+    "options": [
+      "Porto",
+      "Braga",
+      "Viana do Castelo",
+      "Coimbra"
+    ],
+    "answer": "Viana do Castelo"
+  },
+  {
+    "id": "q_391",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital das Filipinas?",
+    "options": [
+      "Cebu",
+      "Davao",
+      "Manila",
+      "Quezon"
+    ],
+    "answer": "Manila"
+  },
+  {
+    "id": "q_392",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que continente se localiza a densa bacia florestal e hidrográfica do rio Congo?",
+    "options": [
+      "América do Sul",
+      "Ásia",
+      "África",
+      "Oceânia"
+    ],
+    "answer": "África"
+  },
+  {
+    "id": "q_393",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Sérvia?",
+    "options": [
+      "Sarajevo",
+      "Skopje",
+      "Belgrado",
+      "Podgorica"
+    ],
+    "answer": "Belgrado"
+  },
+  {
+    "id": "q_394",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é a maior bacia de água fechada interior do mundo?",
+    "options": [
+      "Lago Aral",
+      "Lago Ladoga",
+      "Mar Cáspio",
+      "Lago Onega"
+    ],
+    "answer": "Mar Cáspio"
+  },
+  {
+    "id": "q_395",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da África do Sul sede do poder executivo do país?",
+    "options": [
+      "Joanesburgo",
+      "Cidade do Cabo",
+      "Pretória",
+      "Durban"
+    ],
+    "answer": "Pretória"
+  },
+  {
+    "id": "q_396",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Em que arquipélago português se localiza a ilha de Santa Maria?",
+    "options": [
+      "Madeira",
+      "Berlengas",
+      "Açores",
+      "Selvagens"
+    ],
+    "answer": "Açores"
+  },
+  {
+    "id": "q_397",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital da Bulgária?",
+    "options": [
+      "Varna",
+      "Plovdiv",
+      "Sófia",
+      "Burgas"
+    ],
+    "answer": "Sófia"
+  },
+  {
+    "id": "q_398",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país nórdico é popularmente chamado de \"país dos mil lagos\"?",
+    "options": [
+      "Suécia",
+      "Noruega",
+      "Finlândia",
+      "Dinamarca"
+    ],
+    "answer": "Finlândia"
+  },
+  {
+    "id": "q_399",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital do Quénia?",
+    "options": [
+      "Mombaça",
+      "Kisumu",
+      "Nairobi",
+      "Nakuru"
+    ],
+    "answer": "Nairobi"
+  },
+  {
+    "id": "q_400",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que cabo no concelho de Sintra representa o extremo mais ocidental da Europa continental?",
+    "options": [
+      "Cabo de São Vicente",
+      "Cabo Espichel",
+      "Cabo da Roca",
+      "Cabo Carvoeiro"
+    ],
+    "answer": "Cabo da Roca"
+  },
+  {
+    "id": "q_401",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos futebolistas de cada equipa iniciam em campo uma partida regulamentar?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "q_402",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "De quantos em quantos anos se realizam os Jogos Olímpicos de Verão?",
+    "options": [
+      "2 anos",
+      "3 anos",
+      "4 anos",
+      "5 anos"
+    ],
+    "answer": "4 anos"
+  },
+  {
+    "id": "q_403",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que seleção de futebol conquistou o Campeonato do Mundo da FIFA em 2022 no Catar?",
+    "options": [
+      "França",
+      "Argentina",
+      "Brasil",
+      "Croácia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": "q_404",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que modalidade desportiva se celebrizou mundialmente Michael Jordan?",
+    "options": [
+      "Basebol",
+      "Atletismo",
+      "Basquetebol",
+      "Futebol americano"
+    ],
+    "answer": "Basquetebol"
+  },
+  {
+    "id": "q_405",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos minutos dura o tempo regulamentar padrão de uma partida de futebol sénior?",
+    "options": [
+      "80 minutos",
+      "90 minutos",
+      "100 minutos",
+      "120 minutos"
+    ],
+    "answer": "90 minutos"
+  },
+  {
+    "id": "q_406",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que país foram codificadas as primeiras regras do futebol moderno?",
+    "options": [
+      "Brasil",
+      "Inglaterra",
+      "França",
+      "Escócia"
+    ],
+    "answer": "Inglaterra"
+  },
+  {
+    "id": "q_407",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos pontos vale um ensaio (try) na pontuação do râguebi de 15?",
+    "options": [
+      "3 pontos",
+      "4 pontos",
+      "5 pontos",
+      "6 pontos"
+    ],
+    "answer": "5 pontos"
+  },
+  {
+    "id": "q_408",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que piloto britânico detém 7 títulos mundiais de Fórmula 1, empatado com Schumacher?",
+    "options": [
+      "Sebastian Vettel",
+      "Max Verstappen",
+      "Lewis Hamilton",
+      "Fernando Alonso"
+    ],
+    "answer": "Lewis Hamilton"
+  },
+  {
+    "id": "q_409",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é a extensão oficial da prova clássica da maratona no atletismo?",
+    "options": [
+      "21,097 km",
+      "40,000 km",
+      "42,195 km",
+      "45,500 km"
+    ],
+    "answer": "42,195 km"
+  },
+  {
+    "id": "q_410",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que tenista suíço alcançou 20 vitórias individuais em torneios do Grand Slam?",
+    "options": [
+      "Stan Wawrinka",
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic"
+    ],
+    "answer": "Roger Federer"
+  },
+  {
+    "id": "q_411",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que cor tem a camisola que identifica o líder da Volta a França em bicicleta?",
+    "options": [
+      "Verde",
+      "Branca",
+      "Amarela",
+      "Vermelha"
+    ],
+    "answer": "Amarela"
+  },
+  {
+    "id": "q_412",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Quantos períodos (quartos) compõem um jogo de basquetebol regular na NBA?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "q_413",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Em que cidade decorreram os primeiros Jogos Olímpicos modernos em 1896?",
+    "options": [
+      "Paris",
+      "Londres",
+      "Atenas",
+      "Roma"
+    ],
+    "answer": "Atenas"
+  },
+  {
+    "id": "q_414",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Qual destes atletas jamaicanos bateu os recordes mundiais dos 100m e 200m?",
+    "options": [
+      "Yohan Blake",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Carl Lewis"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": "q_415",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos pinos se alinham no fundo da pista num jogo regulamentar de bowling?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "q_416",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que país venceu a seleção principal de Portugal o Euro 2016 de futebol?",
+    "options": [
+      "Alemanha",
+      "Áustria",
+      "França",
+      "Polónia"
+    ],
+    "answer": "França"
+  },
+  {
+    "id": "q_417",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é a pontuação máxima possível alcançada com três dardos na mesma jogada?",
+    "options": [
+      "150",
+      "160",
+      "180",
+      "200"
+    ],
+    "answer": "180"
+  },
+  {
+    "id": "q_418",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que nadador norte-americano é o desportista mais medalhado na história olímpica?",
+    "options": [
+      "Ian Thorpe",
+      "Ryan Lochte",
+      "Michael Phelps",
+      "Mark Spitz"
+    ],
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": "q_419",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que arte marcial de projeção e controlo significa literalmente \"caminho suave\"?",
+    "options": [
+      "Karaté",
+      "Aikido",
+      "Judo",
+      "Taekwondo"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": "q_420",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que clube português venceu a Taça dos Campeões Europeus em 1961 e 1962?",
+    "options": [
+      "Sporting CP",
+      "FC Porto",
+      "SL Benfica",
+      "CF Os Belenenses"
+    ],
+    "answer": "SL Benfica"
+  },
+  {
+    "id": "q_421",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos jogadores por equipa atuam em campo num jogo de voleibol de pavilhão?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "q_422",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que pugilista ficou mundialmente conhecido pela frase \"flutua como borboleta, pica como abelha\"?",
+    "options": [
+      "Mike Tyson",
+      "Joe Frazier",
+      "Muhammad Ali",
+      "George Foreman"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "q_423",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Em que modalidade desportiva se defrontam os EUA e a Europa na Ryder Cup?",
+    "options": [
+      "Ténis",
+      "Críquete",
+      "Golfe",
+      "Polo aquático"
+    ],
+    "answer": "Golfe"
+  },
+  {
+    "id": "q_424",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Qual é o piso característico dos courts do torneio de Roland Garros em Paris?",
+    "options": [
+      "Relva natural",
+      "Resina sintética",
+      "Terra batida",
+      "Madeira"
+    ],
+    "answer": "Terra batida"
+  },
+  {
+    "id": "q_425",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos minutos dura cada uma das duas partes regulamentares de um jogo de andebol?",
+    "options": [
+      "20 minutos",
+      "25 minutos",
+      "30 minutos",
+      "35 minutos"
+    ],
+    "answer": "30 minutos"
+  },
+  {
+    "id": "q_426",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que país possui o recorde de 5 títulos de Campeão do Mundo de Futebol masculino?",
+    "options": [
+      "Alemanha",
+      "Itália",
+      "Brasil",
+      "Argentina"
+    ],
+    "answer": "Brasil"
+  },
+  {
+    "id": "q_427",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é o nome do prestigiado troféu entregue ao campeão do Super Bowl na NFL?",
+    "options": [
+      "Larry O'Brien Trophy",
+      "Stanley Cup",
+      "Vince Lombardi Trophy",
+      "Commissioner's Trophy"
+    ],
+    "answer": "Vince Lombardi Trophy"
+  },
+  {
+    "id": "q_428",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que cidade nasceu Cristiano Ronaldo?",
+    "options": [
+      "Lisboa",
+      "Ponta Delgada",
+      "Funchal",
+      "Coimbra"
+    ],
+    "answer": "Funchal"
+  },
+  {
+    "id": "q_429",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos buracos tem habitualmente uma volta completa num campo regulamentar de golfe?",
+    "options": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "q_430",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que país é o berço tradicional da arte marcial olímpica do Taekwondo?",
+    "options": [
+      "Japão",
+      "China",
+      "Coreia do Sul",
+      "Tailândia"
+    ],
+    "answer": "Coreia do Sul"
+  },
+  {
+    "id": "q_431",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Como se designa o jogo decisivo da final do campeonato de futebol americano (NFL)?",
+    "options": [
+      "World Series",
+      "Finals",
+      "Super Bowl",
+      "Grey Cup"
+    ],
+    "answer": "Super Bowl"
+  },
+  {
+    "id": "q_432",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que clube conquistou a Taça UEFA em 2003 e a Liga dos Campeões em 2004 com José Mourinho?",
+    "options": [
+      "SL Benfica",
+      "Sporting CP",
+      "FC Porto",
+      "SC Braga"
+    ],
+    "answer": "FC Porto"
+  },
+  {
+    "id": "q_433",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "No badminton, qual é o projétil atingido pelos atletas em vez de uma bola?",
+    "options": [
+      "Disco",
+      "Pelo",
+      "Volante (ou pena)",
+      "Pelota"
+    ],
+    "answer": "Volante (ou pena)"
+  },
+  {
+    "id": "q_434",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que nação acolheu a primeira edição do Campeonato do Mundo de Futebol em 1930?",
+    "options": [
+      "Brasil",
+      "Itália",
+      "Uruguai",
+      "Argentina"
+    ],
+    "answer": "Uruguai"
+  },
+  {
+    "id": "q_435",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos pontos vale um lançamento convertido além da linha exterior de lançamento no basquetebol?",
+    "options": [
+      "1 ponto",
+      "2 pontos",
+      "3 pontos",
+      "4 pontos"
+    ],
+    "answer": "3 pontos"
+  },
+  {
+    "id": "q_436",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Quem foi a primeira campeã olímpica portuguesa, vencendo a maratona em Seul 1988?",
+    "options": [
+      "Fernanda Ribeiro",
+      "Manuela Machado",
+      "Rosa Mota",
+      "Jessica Augusto"
+    ],
+    "answer": "Rosa Mota"
+  },
+  {
+    "id": "q_437",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Como se designa no surf a manobra de surfar na cavidade gerada pela rebentação da onda?",
+    "options": [
+      "Cutback",
+      "Floater",
+      "Tubo (Tube ride)",
+      "Aerial"
+    ],
+    "answer": "Tubo (Tube ride)"
+  },
+  {
+    "id": "q_438",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que mítico circuito citadino de Fórmula 1 percorre as avenidas junto à marina e ao casino?",
+    "options": [
+      "Monza",
+      "Silverstone",
+      "Mónaco (Monte Carlo)",
+      "Spa-Francorchamps"
+    ],
+    "answer": "Mónaco (Monte Carlo)"
+  },
+  {
+    "id": "q_439",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que tenista espanhol venceu Roland Garros por 14 ocasiões?",
+    "options": [
+      "Carlos Alcaraz",
+      "David Ferrer",
+      "Rafael Nadal",
+      "Juan Carlos Ferrero"
+    ],
+    "answer": "Rafael Nadal"
+  },
+  {
+    "id": "q_440",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "No snooker clássico, qual é o valor em pontos atribuído à bola preta?",
+    "options": [
+      "5 pontos",
+      "6 pontos",
+      "7 pontos",
+      "4 pontos"
+    ],
+    "answer": "7 pontos"
+  },
+  {
+    "id": "q_441",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos nadadores por equipa disputam em simultâneo uma partida de polo aquático?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "q_442",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que desporto automobilístico se inserem as históricas 24 Horas de Le Mans?",
+    "options": [
+      "Fórmula 1",
+      "Ralis de velocidade",
+      "Automobilismo de resistência",
+      "Todo-o-terreno"
+    ],
+    "answer": "Automobilismo de resistência"
+  },
+  {
+    "id": "q_443",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que maratonista luso conquistou o primeiro ouro olímpico de Portugal em Los Angeles 1984?",
+    "options": [
+      "Rosa Mota",
+      "António Pinto",
+      "Carlos Lopes",
+      "Fernando Mamede"
+    ],
+    "answer": "Carlos Lopes"
+  },
+  {
+    "id": "q_444",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que franchisado histórico da NBA joga com equipamento roxo e dourado em Los Angeles?",
+    "options": [
+      "LA Clippers",
+      "Golden State Warriors",
+      "LA Lakers",
+      "Phoenix Suns"
+    ],
+    "answer": "LA Lakers"
+  },
+  {
+    "id": "q_445",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é o país originário da arte marcial designada Muay Thai?",
+    "options": [
+      "Camboja",
+      "Vietname",
+      "Tailândia",
+      "Myanmar"
+    ],
+    "answer": "Tailândia"
+  },
+  {
+    "id": "q_446",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que prova desportiva engloba sucessivamente natação, ciclismo e corrida de fundo?",
+    "options": [
+      "Decatlo",
+      "Pentatlo Moderno",
+      "Triatlo",
+      "Duatlo"
+    ],
+    "answer": "Triatlo"
+  },
+  {
+    "id": "q_447",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantas voltas completas e fração são efetuadas numa pista de 400m na prova de 1500m?",
+    "options": [
+      "3 voltas",
+      "4 voltas",
+      "3 voltas e 3/4",
+      "4 voltas e meia"
+    ],
+    "answer": "3 voltas e 3/4"
+  },
+  {
+    "id": "q_448",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que campeão belga de ciclismo foi apelidado pelas suas vitórias implacáveis como \"O Canibal\"?",
+    "options": [
+      "Bernard Hinault",
+      "Jacques Anquetil",
+      "Eddy Merckx",
+      "Miguel Indurain"
+    ],
+    "answer": "Eddy Merckx"
+  },
+  {
+    "id": "q_449",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Como se designa o torneio anual mais importante de clubes da UEFA?",
+    "options": [
+      "Liga Europa",
+      "Taça das Taças",
+      "Liga dos Campeões da UEFA",
+      "Liga Conferência"
+    ],
+    "answer": "Liga dos Campeões da UEFA"
+  },
+  {
+    "id": "q_450",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que seleção levantou a primeira Taça do Mundo de Râguebi masculino em 1987?",
+    "options": [
+      "Austrália",
+      "Inglaterra",
+      "Nova Zelândia",
+      "África do Sul"
+    ],
+    "answer": "Nova Zelândia"
+  },
+  {
+    "id": "q_451",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantas substituições por equipa são permitidas no decurso regular de um jogo de futebol de elite?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "q_452",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Qual destes é o torneio do Grand Slam de ténis disputado sobre courts de relva natural?",
+    "options": [
+      "Roland Garros",
+      "US Open",
+      "Wimbledon",
+      "Open da Austrália"
+    ],
+    "answer": "Wimbledon"
+  },
+  {
+    "id": "q_453",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos árbitros no terreno apitam um encontro da NBA?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "q_454",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que modalidade do atletismo Nelson Évora se sagrou campeão olímpico em Pequim 2008?",
+    "options": [
+      "Salto em Comprimento",
+      "Salto em Altura",
+      "Triplo Salto",
+      "Salto com Vara"
+    ],
+    "answer": "Triplo Salto"
+  },
+  {
+    "id": "q_455",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que cinto marca o nível de graduação imediatamente anterior aos graus Dan (mestrado) no Judo?",
+    "options": [
+      "Cinto Azul",
+      "Cinto Castanho",
+      "Cinto Preto",
+      "Cinto Vermelho"
+    ],
+    "answer": "Cinto Castanho"
+  },
+  {
+    "id": "q_456",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que seleção internacional de râguebi é universalmente conhecida como All Blacks?",
+    "options": [
+      "Austrália",
+      "Inglaterra",
+      "Nova Zelândia",
+      "África do Sul"
+    ],
+    "answer": "Nova Zelândia"
+  },
+  {
+    "id": "q_457",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos minutos dura cada uma das duas metades de um jogo oficial de futsal?",
+    "options": [
+      "15 minutos",
+      "25 minutos",
+      "20 minutos",
+      "30 minutos"
+    ],
+    "answer": "20 minutos"
+  },
+  {
+    "id": "q_458",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que clube europeu venceu três finais consecutivas da UEFA Champions League (2016-2018)?",
+    "options": [
+      "Barcelona",
+      "Bayern Munique",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": "q_459",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "No basebol, quantos defesas estão posicionados em campo pela equipa na defesa?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "q_460",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que ano a seleção espanhola de futebol conquistou o Mundial na África do Sul?",
+    "options": [
+      "2006",
+      "2008",
+      "2010",
+      "2012"
+    ],
+    "answer": "2010"
+  },
+  {
+    "id": "q_461",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Em que vertente desportiva se realizam exercícios com barra fixa e cavalo com arções?",
+    "options": [
+      "Ginástica Rítmica",
+      "Trampolim",
+      "Ginástica Artística",
+      "Ginástica Acrobática"
+    ],
+    "answer": "Ginástica Artística"
+  },
+  {
+    "id": "q_462",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que cidade americana conquistou Fernanda Ribeiro a medalha de ouro olímpica em 1996?",
+    "options": [
+      "Los Angeles",
+      "Salt Lake City",
+      "Atlanta",
+      "Chicago"
+    ],
+    "answer": "Atlanta"
+  },
+  {
+    "id": "q_463",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Ao fim de quantas faltas pessoais um jogador é desqualificado de uma partida na NBA?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "q_464",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Qual é o troféu máximo atribuído ao vencedor dos playoffs da NHL no hóquei em gelo?",
+    "options": [
+      "Memorial Cup",
+      "Calder Trophy",
+      "Stanley Cup",
+      "President's Cup"
+    ],
+    "answer": "Stanley Cup"
+  },
+  {
+    "id": "q_465",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que piloto gaulês somou 9 campeonatos mundiais consecutivos de ralis no WRC?",
+    "options": [
+      "Sébastien Ogier",
+      "Carlos Sainz",
+      "Sébastien Loeb",
+      "Colin McRae"
+    ],
+    "answer": "Sébastien Loeb"
+  },
+  {
+    "id": "q_466",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "A que altura exata do solo se situa o aro de basquetebol segundo os regulamentos oficiais?",
+    "options": [
+      "2,85 metros",
+      "2,95 metros",
+      "3,05 metros",
+      "3,20 metros"
+    ],
+    "answer": "3,05 metros"
+  },
+  {
+    "id": "q_467",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é o comprimento de uma piscina olímpica regulamentar de competição?",
+    "options": [
+      "25 metros",
+      "33 metros",
+      "50 metros",
+      "100 metros"
+    ],
+    "answer": "50 metros"
+  },
+  {
+    "id": "q_468",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que seleção de futebol conquistou o torneio masculino nos Jogos Olímpicos de 1992 em Barcelona?",
+    "options": [
+      "Roménia",
+      "Polónia",
+      "Espanha",
+      "Rússia"
+    ],
+    "answer": "Espanha"
+  },
+  {
+    "id": "q_469",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "No ténis de mesa oficial, quantos pontos no mínimo são precisos para ganhar uma partida (set)?",
+    "options": [
+      "7",
+      "9",
+      "11",
+      "15"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "q_470",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que astro argentino marcou os célebres golos à Inglaterra nos quartos-de-final do Mundial 1986?",
+    "options": [
+      "Gabriel Batistuta",
+      "Lionel Messi",
+      "Diego Armando Maradona",
+      "Mario Kempes"
+    ],
+    "answer": "Diego Armando Maradona"
+  },
+  {
+    "id": "q_471",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que cidade italiana foi anfitriã dos Jogos Olímpicos de Inverno em 2006?",
+    "options": [
+      "Milão",
+      "Cortina d'Ampezzo",
+      "Turim",
+      "Trento"
+    ],
+    "answer": "Turim"
+  },
+  {
+    "id": "q_472",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Quantos segundos dura a posse de bola no relógio de lançamento antes do remate na NBA e FIBA?",
+    "options": [
+      "14 segundos",
+      "20 segundos",
+      "24 segundos",
+      "30 segundos"
+    ],
+    "answer": "24 segundos"
+  },
+  {
+    "id": "q_473",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que atleta sérvio lidera a contagem de Grand Slams de ténis na era moderna masculina?",
+    "options": [
+      "Roger Federer",
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Andy Murray"
+    ],
+    "answer": "Novak Djokovic"
+  },
+  {
+    "id": "q_474",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Quantos cartões amarelos num mesmo jogo implicam a expulsão imediata de um futebolista?",
+    "options": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "q_475",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que desporto sobre o gelo faz uso de vassouras e pedras circulares de granito polido?",
+    "options": [
+      "Bobsleigh",
+      "Skeleton",
+      "Curling",
+      "Luge"
+    ],
+    "answer": "Curling"
+  },
+  {
+    "id": "q_476",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que país europeu teve origem a fabricante de vestuário e calçado Adidas?",
+    "options": [
+      "Áustria",
+      "Suíça",
+      "Alemanha",
+      "Suécia"
+    ],
+    "answer": "Alemanha"
+  },
+  {
+    "id": "q_477",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é a marca global de artigos desportivos reconhecida pelo logótipo Swoosh?",
+    "options": [
+      "Puma",
+      "Reebok",
+      "Nike",
+      "Asics"
+    ],
+    "answer": "Nike"
+  },
+  {
+    "id": "q_478",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que avançado do Benfica foi galardoado com a Bola de Ouro em 1965?",
+    "options": [
+      "Mário Coluna",
+      "António Simões",
+      "Eusébio da Silva Ferreira",
+      "José Augusto"
+    ],
+    "answer": "Eusébio da Silva Ferreira"
+  },
+  {
+    "id": "q_479",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos pontos rende a conversão de um field goal no futebol americano (NFL)?",
+    "options": [
+      "1 ponto",
+      "2 pontos",
+      "3 pontos",
+      "6 pontos"
+    ],
+    "answer": "3 pontos"
+  },
+  {
+    "id": "q_480",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que país do continente asiático acolheu os Jogos Olímpicos de Verão de 2008?",
+    "options": [
+      "Japão",
+      "Coreia do Sul",
+      "China",
+      "Singapura"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "q_481",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é a altura máxima da plataforma nos saltos para a água nos Jogos Olímpicos?",
+    "options": [
+      "3 metros",
+      "5 metros",
+      "10 metros",
+      "15 metros"
+    ],
+    "answer": "10 metros"
+  },
+  {
+    "id": "q_482",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que piloto de automobilismo brasileiro conquistou três títulos mundiais na Fórmula 1?",
+    "options": [
+      "Nelson Piquet",
+      "Emerson Fittipaldi",
+      "Ayrton Senna",
+      "Felipe Massa"
+    ],
+    "answer": "Ayrton Senna"
+  },
+  {
+    "id": "q_483",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é o limite de segundos que um guarda-redes pode reter a bola com as mãos segundo a lei?",
+    "options": [
+      "4 segundos",
+      "8 segundos",
+      "6 segundos",
+      "10 segundos"
+    ],
+    "answer": "6 segundos"
+  },
+  {
+    "id": "q_484",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que modalidade se disputa a histórica Copa América iniciada em 1851?",
+    "options": [
+      "Remo",
+      "Canoagem",
+      "Iatismo (Vela)",
+      "Windsurf"
+    ],
+    "answer": "Iatismo (Vela)"
+  },
+  {
+    "id": "q_485",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Quantos assaltos (rounds) de três minutos compõem um combate mundial de boxe sénior?",
+    "options": [
+      "8 rondas",
+      "10 rondas",
+      "12 rondas",
+      "15 rondas"
+    ],
+    "answer": "12 rondas"
+  },
+  {
+    "id": "q_486",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Qual é o mais antigo clube desportivo de futebol em atividade continuada em Portugal?",
+    "options": [
+      "FC Porto",
+      "Boavista FC",
+      "Académica de Coimbra",
+      "SL Benfica"
+    ],
+    "answer": "Académica de Coimbra"
+  },
+  {
+    "id": "q_487",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "No críquete, como é denominado o lançador da bola contra a estrutura defendida pelo batedor?",
+    "options": [
+      "Striker",
+      "Pitcher",
+      "Bowler",
+      "Catcher"
+    ],
+    "answer": "Bowler"
+  },
+  {
+    "id": "q_488",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que médio francês foi expulso na final do Campeonato do Mundo de 2006 por agressão a Materazzi?",
+    "options": [
+      "Thierry Henry",
+      "Patrick Vieira",
+      "Zinedine Zidane",
+      "Franck Ribéry"
+    ],
+    "answer": "Zinedine Zidane"
+  },
+  {
+    "id": "q_489",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que modalidade velocipédica decorre em velódromos ovais de madeira com bicicletas sem mudanças?",
+    "options": [
+      "BMX",
+      "BTT",
+      "Ciclismo de Pista",
+      "Ciclocrosse"
+    ],
+    "answer": "Ciclismo de Pista"
+  },
+  {
+    "id": "q_490",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Quantos timeouts de 1 minuto tem direito cada formação por período num jogo de andebol?",
+    "options": [
+      "2 por parte",
+      "Nenhum",
+      "1 por parte (máximo 3 no jogo)",
+      "3 por parte"
+    ],
+    "answer": "1 por parte (máximo 3 no jogo)"
+  },
+  {
+    "id": "q_491",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que prestigiado torneio de golfe premia o seu vencedor com o icónico casaco verde (Green Jacket)?",
+    "options": [
+      "Open Britânico",
+      "US Open",
+      "The Masters (Augusta)",
+      "PGA Championship"
+    ],
+    "answer": "The Masters (Augusta)"
+  },
+  {
+    "id": "q_492",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que país conquistou o ouro olímpico de futebol masculino em 2016 nos Jogos do Rio de Janeiro?",
+    "options": [
+      "Alemanha",
+      "Nigéria",
+      "Brasil",
+      "Argentina"
+    ],
+    "answer": "Brasil"
+  },
+  {
+    "id": "q_493",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que judoca português foi medalha de bronze em dois Jogos Olímpicos consecutivos (-100 kg)?",
+    "options": [
+      "Nuno Delgado",
+      "Telma Monteiro",
+      "Jorge Fonseca",
+      "Patrícia Sampaio"
+    ],
+    "answer": "Jorge Fonseca"
+  },
+  {
+    "id": "q_494",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que posição do voleibol tem camisola diferente e cumpre apenas tarefas de receção e defesa?",
+    "options": [
+      "Oposto",
+      "Levantador",
+      "Líbero",
+      "Central"
+    ],
+    "answer": "Líbero"
+  },
+  {
+    "id": "q_495",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é o estádio nacional histórico que costuma receber a final da Taça de Portugal?",
+    "options": [
+      "Estádio da Luz",
+      "Estádio de Alvalade",
+      "Estádio Nacional (Jamor)",
+      "Estádio do Dragão"
+    ],
+    "answer": "Estádio Nacional (Jamor)"
+  },
+  {
+    "id": "q_496",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que lendário jogador dos Chicago Bulls notabilizou o dorsal número 23 na NBA?",
+    "options": [
+      "Scottie Pippen",
+      "Dennis Rodman",
+      "Michael Jordan",
+      "Steve Kerr"
+    ],
+    "answer": "Michael Jordan"
+  },
+  {
+    "id": "q_497",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Qual é o estilo de natação em que os nadadores largam dentro de água de frente para a parede?",
+    "options": [
+      "Bruços",
+      "Mariposa",
+      "Costas",
+      "Livres (Crawl)"
+    ],
+    "answer": "Costas"
+  },
+  {
+    "id": "q_498",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Com quantas peças no tabuleiro cada jogador começa uma partida de xadrez?",
+    "options": [
+      "12 peças",
+      "14 peças",
+      "16 peças",
+      "18 peças"
+    ],
+    "answer": "16 peças"
+  },
+  {
+    "id": "q_499",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Que histórico clube de futebol de Turim é conhecido popularmente como a Vecchia Signora?",
+    "options": [
+      "AC Milan",
+      "Inter de Milão",
+      "Juventus",
+      "AS Roma"
+    ],
+    "answer": "Juventus"
+  },
+  {
+    "id": "q_500",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Que seleção nacional de râguebi venceu o Campeonato do Mundo consecutivamente em 2019 e 2023?",
+    "options": [
+      "Nova Zelândia",
+      "Inglaterra",
+      "África do Sul (Springboks)",
+      "Austrália"
+    ],
+    "answer": "África do Sul (Springboks)"
+  }
+]

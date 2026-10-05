@@ -1,0 +1,4997 @@
+﻿TEMA: Ciência e Tecnologia
+PERGUNTA: O que produz a fotossíntese nas plantas?
+OPCAO_A: Dióxido de carbono e água
+OPCAO_B: Oxigénio e glicose
+OPCAO_C: Azoto e sais minerais
+OPCAO_D: Metano e oxigénio
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o planeta mais próximo do Sol?
+OPCAO_A: Vénus
+OPCAO_B: Marte
+OPCAO_C: Mercúrio
+OPCAO_D: Terra
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a unidade de medida da corrente elétrica?
+OPCAO_A: Volt
+OPCAO_B: Watt
+OPCAO_C: Ohm
+OPCAO_D: Ampere
+CORRETA: D
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A água ferve a quantos graus Celsius ao nível do mar?
+OPCAO_A: 90 °C
+OPCAO_B: 100 °C
+OPCAO_C: 110 °C
+OPCAO_D: 120 °C
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o elemento químico mais leve?
+OPCAO_A: Hélio
+OPCAO_B: Oxigénio
+OPCAO_C: Hidrogénio
+OPCAO_D: Lítio
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que parte da célula armazena o ADN?
+OPCAO_A: Ribossoma
+OPCAO_B: Núcleo
+OPCAO_C: Citoplasma
+OPCAO_D: Mitocôndria
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Quem desenvolveu a teoria da relatividade?
+OPCAO_A: Isaac Newton
+OPCAO_B: Albert Einstein
+OPCAO_C: Niels Bohr
+OPCAO_D: Galileo Galilei
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a velocidade da luz no vácuo (aproximada)?
+OPCAO_A: 150 000 km/s
+OPCAO_B: 300 000 km/s
+OPCAO_C: 450 000 km/s
+OPCAO_D: 1 000 000 km/s
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Quantos ossos tem o corpo humano adulto?
+OPCAO_A: 186
+OPCAO_B: 206
+OPCAO_C: 226
+OPCAO_D: 246
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A que grupo de animais pertencem as baleias?
+OPCAO_A: Peixes
+OPCAO_B: Répteis
+OPCAO_C: Anfíbios
+OPCAO_D: Mamíferos
+CORRETA: D
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a molécula responsável pela transmissão genética?
+OPCAO_A: ADN
+OPCAO_B: ATP
+OPCAO_C: Hemoglobina
+OPCAO_D: Insulina
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que tipo de rocha é o granito?
+OPCAO_A: Sedimentar
+OPCAO_B: Ígnea (magmática)
+OPCAO_C: Metamórfica
+OPCAO_D: Orgânica
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o maior oceano do mundo?
+OPCAO_A: Oceano Atlântico
+OPCAO_B: Oceano Índico
+OPCAO_C: Oceano Pacífico
+OPCAO_D: Oceano Ártico
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O que estuda a astrofísica?
+OPCAO_A: O movimento dos ventos na Terra
+OPCAO_B: A composição física e evolução dos corpos celestes
+OPCAO_C: As placas tectónicas
+OPCAO_D: A classificação dos fósseis
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A que temperatura ferve a água a 3000 metros de altitude?
+OPCAO_A: Acima de 100 °C
+OPCAO_B: Exatamente a 100 °C
+OPCAO_C: Abaixo de 100 °C (cerca de 90 °C)
+OPCAO_D: A água não ferve a essa altitude
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que órgão humano produz a insulina?
+OPCAO_A: Fígado
+OPCAO_B: Pâncreas
+OPCAO_C: Rins
+OPCAO_D: Estômago
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o metal natural mais denso da tabela periódica?
+OPCAO_A: Chumbo
+OPCAO_B: Ouro
+OPCAO_C: Ósmio
+OPCAO_D: Platina
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Em que ano aterrou a primeira sonda com sucesso em Marte (Viking 1)?
+OPCAO_A: 1969
+OPCAO_B: 1976
+OPCAO_C: 1984
+OPCAO_D: 1997
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a menor unidade de informação num computador digital?
+OPCAO_A: Byte
+OPCAO_B: Bit
+OPCAO_C: Pixel
+OPCAO_D: Hertz
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que gás forma a camada que protege a Terra da radiação ultravioleta prejudicial?
+OPCAO_A: Dióxido de carbono
+OPCAO_B: Azoto
+OPCAO_C: Ozono
+OPCAO_D: Metano
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a velocidade aproximada do som no ar a 20 °C?
+OPCAO_A: 120 m/s
+OPCAO_B: 343 m/s
+OPCAO_C: 750 m/s
+OPCAO_D: 1200 m/s
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A luz visível situa-se entre quais faixas do espectro eletromagnético?
+OPCAO_A: Raios X e Raios Gama
+OPCAO_B: Micro-ondas e Ondas de rádio
+OPCAO_C: Infravermelho e Ultravioleta
+OPCAO_D: Ultravioleta e Raios X
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a distância média aproximada da Terra ao Sol?
+OPCAO_A: 50 milhões de km
+OPCAO_B: 100 milhões de km
+OPCAO_C: 150 milhões de km
+OPCAO_D: 300 milhões de km
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Quantos cromossomas tem uma célula somática humana normal?
+OPCAO_A: 23
+OPCAO_B: 44
+OPCAO_C: 46
+OPCAO_D: 48
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O que estuda a entomologia?
+OPCAO_A: Pássaros
+OPCAO_B: Insetos
+OPCAO_C: Fungos
+OPCAO_D: Répteis
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Quem inventou o primeiro telescópio refletor funcional?
+OPCAO_A: Galileo Galilei
+OPCAO_B: Isaac Newton
+OPCAO_C: Johannes Kepler
+OPCAO_D: Edwin Hubble
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O que resulta geralmente da reação entre um ácido e uma base?
+OPCAO_A: Sal e água
+OPCAO_B: Gás hidrogénio e sal
+OPCAO_C: Oxigénio e calor
+OPCAO_D: Apenas água pura
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a função principal das mitocôndrias?
+OPCAO_A: Síntese proteica
+OPCAO_B: Produção de energia celular (ATP)
+OPCAO_C: Digestão de detritos
+OPCAO_D: Fotossíntese
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o metal mais abundante na crosta terrestre?
+OPCAO_A: Ferro
+OPCAO_B: Cobre
+OPCAO_C: Alumínio
+OPCAO_D: Magnésio
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Quem descobriu a penicilina em 1928?
+OPCAO_A: Alexander Fleming
+OPCAO_B: Louis Pasteur
+OPCAO_C: Robert Koch
+OPCAO_D: Edward Jenner
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que planeta é conhecido como o "Planeta Vermelho"?
+OPCAO_A: Mercúrio
+OPCAO_B: Júpiter
+OPCAO_C: Marte
+OPCAO_D: Saturno
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama o processo de divisão celular que forma os gâmetas?
+OPCAO_A: Mitose
+OPCAO_B: Meiose
+OPCAO_C: Fagocitose
+OPCAO_D: Bipartição
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a unidade de medida da força no Sistema Internacional?
+OPCAO_A: Joule
+OPCAO_B: Pascal
+OPCAO_C: Newton
+OPCAO_D: Watt
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que elemento químico metálico é essencial para a hemoglobina?
+OPCAO_A: Zinco
+OPCAO_B: Ferro
+OPCAO_C: Cobre
+OPCAO_D: Cálcio
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A quem é atribuída a célebre equação E=mc²?
+OPCAO_A: Max Planck
+OPCAO_B: Albert Einstein
+OPCAO_C: Nikola Tesla
+OPCAO_D: Niels Bohr
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o ponto de ebulição da água na escala Fahrenheit ao nível do mar?
+OPCAO_A: 100 °F
+OPCAO_B: 180 °F
+OPCAO_C: 212 °F
+OPCAO_D: 32 °F
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que tipo de estrela é o nosso Sol?
+OPCAO_A: Gigante Vermelha
+OPCAO_B: Anã Branca
+OPCAO_C: Anã Amarela
+OPCAO_D: Supergigante Azul
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Em que fase da Lua ela se encontra alinhada entre a Terra e o Sol, ficando invisível?
+OPCAO_A: Lua Cheia
+OPCAO_B: Quarto Crescente
+OPCAO_C: Lua Nova
+OPCAO_D: Quarto Minguante
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que mamífero marinho utiliza ecolocalização sofisticada para navegar e caçar?
+OPCAO_A: Golfinho
+OPCAO_B: Foca
+OPCAO_C: Lontra marinha
+OPCAO_D: Morsa
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se designa uma mutação genética que altera apenas uma única base azotada?
+OPCAO_A: Deleção cromossómica
+OPCAO_B: Translocação
+OPCAO_C: Mutação pontual
+OPCAO_D: Duplicação génica
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a aceleração da gravidade aproximada na superfície da Terra?
+OPCAO_A: 8,2 m/s²
+OPCAO_B: 9,8 m/s²
+OPCAO_C: 11,5 m/s²
+OPCAO_D: 15,0 m/s²
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que partícula subatómica possui carga elétrica negativa?
+OPCAO_A: Protão
+OPCAO_B: Neutrão
+OPCAO_C: Eletrão
+OPCAO_D: Posição
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a camada mais externa e fina da Terra?
+OPCAO_A: Manto
+OPCAO_B: Núcleo externo
+OPCAO_C: Crosta
+OPCAO_D: Litosfera média
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o símbolo químico do ouro?
+OPCAO_A: Ag
+OPCAO_B: Fe
+OPCAO_C: Au
+OPCAO_D: Pt
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que físico britânico estabeleceu as três leis clássicas do movimento?
+OPCAO_A: Isaac Newton
+OPCAO_B: Robert Hooke
+OPCAO_C: Michael Faraday
+OPCAO_D: James Clerk Maxwell
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que órgão do corpo humano é responsável por impulsionar o sangue através do sistema circulatório?
+OPCAO_A: Pulmão
+OPCAO_B: Coração
+OPCAO_C: Fígado
+OPCAO_D: Baço
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a mudança de estado físico direto de sólido para gás?
+OPCAO_A: Fusão
+OPCAO_B: Condensação
+OPCAO_C: Sublimação
+OPCAO_D: Evaporação
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a principal missão dos leucócitos (glóbulos brancos) no sangue?
+OPCAO_A: Transportar oxigénio
+OPCAO_B: Coagulação do sangue
+OPCAO_C: Combater infeções e agentes estranhos
+OPCAO_D: Regular o pH sanguíneo
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que elemento químico serve de espinha dorsal para todas as moléculas orgânicas conhecidas?
+OPCAO_A: Oxigénio
+OPCAO_B: Silício
+OPCAO_C: Carbono
+OPCAO_D: Azoto
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a maior lua de Saturno, conhecida pela sua atmosfera densa?
+OPCAO_A: Europa
+OPCAO_B: Titã
+OPCAO_C: Ganimedes
+OPCAO_D: Encélado
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a reprodução assexuada simples em que uma bactéria se divide em duas?
+OPCAO_A: Esporulação
+OPCAO_B: Bipartição (ou fissão binária)
+OPCAO_C: Gemulação
+OPCAO_D: Fragmentação
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a unidade de medida do Sistema Internacional para a frequência de uma onda?
+OPCAO_A: Hertz
+OPCAO_B: Decibel
+OPCAO_C: Joule
+OPCAO_D: Lumen
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a galáxia espiral gigante mais próxima da nossa Via Láctea?
+OPCAO_A: Andrómeda
+OPCAO_B: Grande Nuvem de Magalhães
+OPCAO_C: Galáxia do Triângulo
+OPCAO_D: Centaurus A
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A energia associada à velocidade e movimento de um corpo denomina-se:
+OPCAO_A: Energia potencial
+OPCAO_B: Energia cinética
+OPCAO_C: Energia térmica
+OPCAO_D: Energia elástica
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o valor de pH correspondente a uma solução rigorosamente neutra a 25 °C?
+OPCAO_A: 0
+OPCAO_B: 5
+OPCAO_C: 7
+OPCAO_D: 14
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que químico russo organizou os elementos químicos em ordem crescente de massa atómica em 1869?
+OPCAO_A: Dmitri Mendeleiev
+OPCAO_B: Antoine Lavoisier
+OPCAO_C: John Dalton
+OPCAO_D: Marie Curie
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que organelo das células vegetais é responsável por absorver luz solar para a fotossíntese?
+OPCAO_A: Vacúolo
+OPCAO_B: Cloroplasto
+OPCAO_C: Complexo de Golgi
+OPCAO_D: Centríolo
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Em que camada da atmosfera terrestre ocorrem quase todos os fenómenos meteorológicos?
+OPCAO_A: Troposfera
+OPCAO_B: Estratosfera
+OPCAO_C: Mesosfera
+OPCAO_D: Termosfera
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que instrumento é utilizado para medir a pressão atmosférica?
+OPCAO_A: Anemómetro
+OPCAO_B: Barómetro
+OPCAO_C: Higrómetro
+OPCAO_D: Termómetro
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que tipo de lente ótica é comumente utilizada para corrigir a miopia?
+OPCAO_A: Lente convergente (biconvexa)
+OPCAO_B: Lente divergente (bicôncava)
+OPCAO_C: Lente cilíndrica simples
+OPCAO_D: Prisma plano
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o bosão responsável pela mediação da força eletromagnética?
+OPCAO_A: Gluão
+OPCAO_B: Fótão
+OPCAO_C: Bosão Z
+OPCAO_D: Gravitão
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se designa a força de resistência oposta ao deslizamento entre dois objetos em contacto?
+OPCAO_A: Força gravítica
+OPCAO_B: Força de atrito
+OPCAO_C: Força centrípeta
+OPCAO_D: Força de empuxo
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o gás com maior contributo antropogénico para o efeito de estufa global?
+OPCAO_A: Dióxido de carbono (CO2)
+OPCAO_B: Vapor de água
+OPCAO_C: Metano (CH4)
+OPCAO_D: Óxido nitroso (N2O)
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Quantos pares de nervos cranianos emergem diretamente do encéfalo humano?
+OPCAO_A: 8
+OPCAO_B: 10
+OPCAO_C: 12
+OPCAO_D: 14
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que metal puro é líquido à temperatura e pressão normais de uma sala?
+OPCAO_A: Chumbo
+OPCAO_B: Mercúrio
+OPCAO_C: Gálio
+OPCAO_D: Bromo
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se designa a região do espaço-tempo em torno de um buraco negro além da qual nada escapa?
+OPCAO_A: Singularidade
+OPCAO_B: Disco de acreção
+OPCAO_C: Horizonte de eventos
+OPCAO_D: Esfera de fótons
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que vitamina é produzida na pele humana através da exposição à radiação ultravioleta B (UVB)?
+OPCAO_A: Vitamina A
+OPCAO_B: Vitamina C
+OPCAO_C: Vitamina D
+OPCAO_D: Vitamina E
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a função primordial dos ribossomas na célula?
+OPCAO_A: Sintetizar proteínas
+OPCAO_B: Armazenar lípidos
+OPCAO_C: Produzir glicose
+OPCAO_D: Duplicar o ADN
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que escala sísmica mede a energia total libertada no hipocentro de um sismo?
+OPCAO_A: Escala de Mercalli
+OPCAO_B: Escala de Richter (Magnitude)
+OPCAO_C: Escala de Mohs
+OPCAO_D: Escala Kelvin
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o elemento químico mais abundante em todo o Universo observável?
+OPCAO_A: Hélio
+OPCAO_B: Oxigénio
+OPCAO_C: Hidrogénio
+OPCAO_D: Carbono
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a camada mais exterior da atmosfera do Sol, observável durante eclipses totais?
+OPCAO_A: Fotosfera
+OPCAO_B: Cromosfera
+OPCAO_C: Coroa solar
+OPCAO_D: Zona radiativa
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que astrónomo confirmou a expansão do Universo pelo desvio para o vermelho em galáxias distantes?
+OPCAO_A: Carl Sagan
+OPCAO_B: Edwin Hubble
+OPCAO_C: Tycho Brahe
+OPCAO_D: Stephen Hawking
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a designação química do sal de cozinha comum?
+OPCAO_A: Cloreto de potássio
+OPCAO_B: Bicarbonato de sódio
+OPCAO_C: Cloreto de sódio
+OPCAO_D: Sulfato de magnésio
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o maior intervalo de tempo geológico na escala do tempo geológico da Terra?
+OPCAO_A: Era
+OPCAO_B: Éon
+OPCAO_C: Período
+OPCAO_D: Época
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O cérebro e a medula espinhal formam em conjunto qual subdivisão do sistema nervoso?
+OPCAO_A: Sistema Nervoso Periférico
+OPCAO_B: Sistema Nervoso Autónomo
+OPCAO_C: Sistema Nervoso Central
+OPCAO_D: Sistema Nervoso Somático
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é a unidade molecular básica que codifica as instruções biológicas para um organismo?
+OPCAO_A: Gene
+OPCAO_B: Aminoácido
+OPCAO_C: Enzima
+OPCAO_D: Fosfato
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que tipo de onda eletromagnética apresenta comprimentos de onda ligeiramente mais curtos que a luz visível violeta?
+OPCAO_A: Infravermelho
+OPCAO_B: Ultravioleta
+OPCAO_C: Micro-ondas
+OPCAO_D: Ondas curtas
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o princípio que estabelece que o aumento na velocidade de um fluido coincide com a diminuição da pressão?
+OPCAO_A: Princípio de Pascal
+OPCAO_B: Princípio de Arquimedes
+OPCAO_C: Princípio de Bernoulli
+OPCAO_D: Efeito Doppler
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a transferência de calor através de ondas eletromagnéticas sem meio material?
+OPCAO_A: Condução
+OPCAO_B: Convecção
+OPCAO_C: Radiação (ou irradiação)
+OPCAO_D: Difusão
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que organelo membranoso possui enzimas digestivas ácidas para degradar resíduos?
+OPCAO_A: Lisossoma
+OPCAO_B: Centríolo
+OPCAO_C: Peroxissoma
+OPCAO_D: Complexo de Golgi
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Na mecânica quântica, a letra h representa qual constante fundamental?
+OPCAO_A: Constante de Boltzmann
+OPCAO_B: Constante de Planck
+OPCAO_C: Constante gravítica
+OPCAO_D: Constante de Rydberg
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que planeta do Sistema Solar detém o recorde de maior número de luas conhecidas confirmadas?
+OPCAO_A: Júpiter
+OPCAO_B: Neptuno
+OPCAO_C: Saturno
+OPCAO_D: Úrano
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a ligação química baseada na partilha mútua de pares de eletrões?
+OPCAO_A: Ligação iónica
+OPCAO_B: Ligação covalente
+OPCAO_C: Ligação metálica
+OPCAO_D: Ligação de hidrogénio
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O movimento passivo de solvente de uma solução menos concentrada para uma mais concentrada através de membrana é:
+OPCAO_A: Difusão facilitada
+OPCAO_B: Transporte ativo
+OPCAO_C: Osmose
+OPCAO_D: Diálise
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que componente eletrónico semicondutor converte fotões luminosos em corrente elétrica?
+OPCAO_A: Fotodíodo (ou célula fotovoltaica)
+OPCAO_B: Termístor
+OPCAO_C: Transístor BJT
+OPCAO_D: Indutor
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o maior e mais resistente osso do esqueleto humano?
+OPCAO_A: Tíbia
+OPCAO_B: Fémur
+OPCAO_C: Úmero
+OPCAO_D: Rádio
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que designação recebem as rochas que se formam pelo arrefecimento e consolidação do magma?
+OPCAO_A: Rochas metamórficas
+OPCAO_B: Rochas sedimentares
+OPCAO_C: Rochas ígneas (ou magmáticas)
+OPCAO_D: Rochas calcárias
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A quantos graus Celsius corresponde a temperatura limite do Zero Absoluto (0 Kelvin)?
+OPCAO_A: -100 °C
+OPCAO_B: -200 °C
+OPCAO_C: -273,15 °C
+OPCAO_D: -373,15 °C
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama o ramo da ciência que se dedica à análise e estudo de fósseis?
+OPCAO_A: Arqueologia
+OPCAO_B: Paleontologia
+OPCAO_C: Espeleologia
+OPCAO_D: Mineralogia
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Na física de partículas, partículas compostas por três quarks são chamadas:
+OPCAO_A: Mesões
+OPCAO_B: Bariões
+OPCAO_C: Leptões
+OPCAO_D: Neutrinos
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o nucleótido trifosfato que atua como principal transportador de energia química das células?
+OPCAO_A: ADP
+OPCAO_B: AMP
+OPCAO_C: ATP
+OPCAO_D: GTP
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: A alteração na frequência percebida de uma onda devido ao movimento relativo entre a fonte e o observador chama-se:
+OPCAO_A: Efeito Fotoelétrico
+OPCAO_B: Efeito Doppler
+OPCAO_C: Efeito Compton
+OPCAO_D: Refração
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se denomina a zona profunda dos oceanos onde a luz do sol é insuficiente para fotossíntese?
+OPCAO_A: Zona fótica
+OPCAO_B: Zona afótica
+OPCAO_C: Zona intertidal
+OPCAO_D: Plataforma continental
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual é o elemento com número atómico igual a 1?
+OPCAO_A: Hidrogénio
+OPCAO_B: Hélio
+OPCAO_C: Oxigénio
+OPCAO_D: Carbono
+CORRETA: A
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O fenómeno pelo qual núcleos atómicos instáveis emitem partículas e radiação gama denomina-se:
+OPCAO_A: Fusão nuclear
+OPCAO_B: Radioatividade
+OPCAO_C: Ionização estática
+OPCAO_D: Ressonância
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que hormona é secretada pelas glândulas suprarrenais perante situações agudas de stress e alerta?
+OPCAO_A: Melatonina
+OPCAO_B: Adrenalina (epinefrina)
+OPCAO_C: Prolactina
+OPCAO_D: Tiroxina
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Como se chama a membrana circular transparente anterior que protege a parte frontal do olho?
+OPCAO_A: Íris
+OPCAO_B: Retina
+OPCAO_C: Córnea
+OPCAO_D: Cristalino
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: O que postula fundamentalmente a primeira lei da termodinâmica?
+OPCAO_A: O calor flui sempre do corpo quente para o frio
+OPCAO_B: A entropia do Universo aumenta continuamente
+OPCAO_C: A energia não pode ser criada nem destruída, apenas transformada
+OPCAO_D: É impossível atingir o zero absoluto
+CORRETA: C
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Qual destes planetas gira sobre o seu eixo no sentido contrário ao da maioria dos outros?
+OPCAO_A: Marte
+OPCAO_B: Vénus
+OPCAO_C: Júpiter
+OPCAO_D: Terra
+CORRETA: B
+
+---
+
+TEMA: Ciência e Tecnologia
+PERGUNTA: Que campo vetorial descreve a influência criada por cargas elétricas em movimento ou ímanes?
+OPCAO_A: Campo Gravítico
+OPCAO_B: Campo Elétrico
+OPCAO_C: Campo Eletrostático
+OPCAO_D: Campo Magnético
+CORRETA: D
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou o filme clássico Pulp Fiction (1994)?
+OPCAO_A: Martin Scorsese
+OPCAO_B: Quentin Tarantino
+OPCAO_C: Steven Spielberg
+OPCAO_D: Christopher Nolan
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a banda britânica conhecida pelo lendário álbum The Dark Side of the Moon?
+OPCAO_A: The Beatles
+OPCAO_B: Led Zeppelin
+OPCAO_C: Pink Floyd
+OPCAO_D: Queen
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que ator interpretou Jack Dawson no filme Titanic (1997)?
+OPCAO_A: Brad Pitt
+OPCAO_B: Leonardo DiCaprio
+OPCAO_C: Matt Damon
+OPCAO_D: Johnny Depp
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem é conhecido mundialmente como o "Rei do Pop"?
+OPCAO_A: Prince
+OPCAO_B: Elvis Presley
+OPCAO_C: Michael Jackson
+OPCAO_D: Stevie Wonder
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual foi o primeiro filme da saga Star Wars a estrear nos cinemas, em 1977?
+OPCAO_A: O Império Contra-Ataca
+OPCAO_B: Uma Nova Esperança
+OPCAO_C: O Regresso de Jedi
+OPCAO_D: A Ameaça Fantasma
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem compôs as quatro estações na célebre obra barroca As Quatro Estações?
+OPCAO_A: Johann Sebastian Bach
+OPCAO_B: Antonio Vivaldi
+OPCAO_C: Wolfgang Amadeus Mozart
+OPCAO_D: Ludwig van Beethoven
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme venceu o Óscar de Melhor Filme em 2020, tornando-se o primeiro em língua não-inglesa a consegui-lo?
+OPCAO_A: Roma
+OPCAO_B: Parasitas (Parasite)
+OPCAO_C: 1917
+OPCAO_D: Era Uma Vez em... Hollywood
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem é o vocalista principal da banda irlandesa U2?
+OPCAO_A: The Edge
+OPCAO_B: Bono
+OPCAO_C: Chris Martin
+OPCAO_D: Sting
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que realizador dirigiu clássicos como Tubarão, E.T. e A Lista de Schindler?
+OPCAO_A: James Cameron
+OPCAO_B: George Lucas
+OPCAO_C: Steven Spielberg
+OPCAO_D: Ridley Scott
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o nome do icónico festival de música realizado no estado de Nova Iorque em 1969?
+OPCAO_A: Coachella
+OPCAO_B: Glastonbury
+OPCAO_C: Woodstock
+OPCAO_D: Live Aid
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem interpretou o vilão Joker no filme O Cavaleiro das Trevas (2008)?
+OPCAO_A: Joaquin Phoenix
+OPCAO_B: Jack Nicholson
+OPCAO_C: Heath Ledger
+OPCAO_D: Jared Leto
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: De que país é originária a cantora Björk?
+OPCAO_A: Noruega
+OPCAO_B: Islândia
+OPCAO_C: Suécia
+OPCAO_D: Dinamarca
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o filme de maior bilheteira de sempre a nível global (sem ajuste de inflação)?
+OPCAO_A: Vingadores: Endgame
+OPCAO_B: Titanic
+OPCAO_C: Avatar
+OPCAO_D: Star Wars: O Despertar da Força
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que instrumento musical tocava o lendário músico de jazz Miles Davis?
+OPCAO_A: Saxofone
+OPCAO_B: Trompete
+OPCAO_C: Piano
+OPCAO_D: Contrabaixo
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o nome do planeta fictício onde decorre a ação do filme Avatar?
+OPCAO_A: Pandora
+OPCAO_B: Tatooine
+OPCAO_C: Arrakis
+OPCAO_D: Krypton
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem canta o êxito mundial Bohemian Rhapsody?
+OPCAO_A: The Rolling Stones
+OPCAO_B: Queen
+OPCAO_C: The Who
+OPCAO_D: Deep Purple
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que atriz protagonizou o filme musical clássico Música no Coração (The Sound of Music)?
+OPCAO_A: Audrey Hepburn
+OPCAO_B: Julie Andrews
+OPCAO_C: Judy Garland
+OPCAO_D: Marilyn Monroe
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quantas cordas tem habitualmente uma guitarra clássica padrão?
+OPCAO_A: 4
+OPCAO_B: 5
+OPCAO_C: 6
+OPCAO_D: 8
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o nome do mafioso patriarca interpretado por Marlon Brando em O Padrinho (1972)?
+OPCAO_A: Michael Corleone
+OPCAO_B: Sonny Corleone
+OPCAO_C: Vito Corleone
+OPCAO_D: Tony Montana
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que artista norte-americano lançou o álbum revolucionário Thriller em 1982?
+OPCAO_A: Prince
+OPCAO_B: Stevie Wonder
+OPCAO_C: Michael Jackson
+OPCAO_D: Lionel Richie
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que franchise de cinema apresenta a personagem Katniss Everdeen?
+OPCAO_A: Divergente
+OPCAO_B: Os Jogos da Fome (The Hunger Games)
+OPCAO_C: Maze Runner
+OPCAO_D: Crepúsculo
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem compôs as bandas sonoras de Star Wars, Indiana Jones e Parque Jurássico?
+OPCAO_A: Hans Zimmer
+OPCAO_B: Ennio Morricone
+OPCAO_C: John Williams
+OPCAO_D: Howard Shore
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Em que cidade dos Estados Unidos nasceu a célebre editora musical Motown?
+OPCAO_A: Chicago
+OPCAO_B: Detroit
+OPCAO_C: Nova Iorque
+OPCAO_D: Memphis
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou o filme de ficção científica Interstellar (2014)?
+OPCAO_A: Denis Villeneuve
+OPCAO_B: Christopher Nolan
+OPCAO_C: Ridley Scott
+OPCAO_D: Alfonso Cuarón
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que lendário guitarrista tocou o hino dos EUA em Woodstock 1969?
+OPCAO_A: Eric Clapton
+OPCAO_B: Jimi Hendrix
+OPCAO_C: Jimmy Page
+OPCAO_D: Carlos Santana
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a cor da pílula que Neo escolhe tomar no filme Matrix (1999) para ver a verdade?
+OPCAO_A: Azul
+OPCAO_B: Verde
+OPCAO_C: Vermelha
+OPCAO_D: Amarela
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que cantor de reggae jamaicano gravou o hino No Woman, No Cry?
+OPCAO_A: Peter Tosh
+OPCAO_B: Bob Marley
+OPCAO_C: Jimmy Cliff
+OPCAO_D: Burning Spear
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual foi a primeira longa-metragem de animação totalmente produzida por computador?
+OPCAO_A: Toy Story
+OPCAO_B: Shrek
+OPCAO_C: Monstros e Companhia
+OPCAO_D: Uma Vida de Inseto
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem compôs a famosa Nona Sinfonia, cuja secção coral inclui a Ode à Alegria?
+OPCAO_A: Wolfgang Amadeus Mozart
+OPCAO_B: Ludwig van Beethoven
+OPCAO_C: Franz Schubert
+OPCAO_D: Johannes Brahms
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que ator dá vida ao agente secreto James Bond no filme Casino Royale (2006)?
+OPCAO_A: Pierce Brosnan
+OPCAO_B: Sean Connery
+OPCAO_C: Daniel Craig
+OPCAO_D: Roger Moore
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual destas bandas grunge era liderada por Kurt Cobain?
+OPCAO_A: Pearl Jam
+OPCAO_B: Soundgarden
+OPCAO_C: Nirvana
+OPCAO_D: Alice in Chains
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou o filme clássico de terror e suspense Psico (1960)?
+OPCAO_A: Stanley Kubrick
+OPCAO_B: Alfred Hitchcock
+OPCAO_C: Roman Polanski
+OPCAO_D: Brian De Palma
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Em que ano decorreu o histórico concerto solidário Live Aid?
+OPCAO_A: 1980
+OPCAO_B: 1985
+OPCAO_C: 1990
+OPCAO_D: 1995
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme ganhou o primeiro Óscar de Melhor Filme da história (em 1929)?
+OPCAO_A: Wings (Asas)
+OPCAO_B: Sunrise
+OPCAO_C: Metrópolis
+OPCAO_D: O Cantor de Jazz
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem é o famoso compositor italiano de bandas sonoras como O Bom, o Mau e o Vilão?
+OPCAO_A: Nino Rota
+OPCAO_B: Ennio Morricone
+OPCAO_C: Giorgio Moroder
+OPCAO_D: Ludovico Einaudi
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a famosa canção da banda Eagles que fala sobre um hotel do qual "nunca podes sair"?
+OPCAO_A: Take It Easy
+OPCAO_B: Hotel California
+OPCAO_C: Desperado
+OPCAO_D: One of These Nights
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que ator interpretou Forrest Gump no filme homónimo de 1994?
+OPCAO_A: Robin Williams
+OPCAO_B: Tom Hanks
+OPCAO_C: Kevin Costner
+OPCAO_D: John Travolta
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a nacionalidade do grupo pop ABBA?
+OPCAO_A: Norueguesa
+OPCAO_B: Finlandesa
+OPCAO_C: Sueca
+OPCAO_D: Neerlandesa
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme venceu 11 Óscares em 2004, igualando o recorde de Ben-Hur e Titanic?
+OPCAO_A: Gladiador
+OPCAO_B: O Senhor dos Anéis: O Regresso do Rei
+OPCAO_C: Beleza Americana
+OPCAO_D: Chicago
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que instrumento tocava o virtuoso Frédéric Chopin maioritariamente nas suas composições?
+OPCAO_A: Violino
+OPCAO_B: Órgão
+OPCAO_C: Piano
+OPCAO_D: Flauta
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou o épico de ficção científica 2001: Odisseia no Espaço (1968)?
+OPCAO_A: Stanley Kubrick
+OPCAO_B: Arthur C. Clarke
+OPCAO_C: George Lucas
+OPCAO_D: Andrei Tarkovsky
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que banda de rock pesado lançou o histórico álbum Back in Black em 1980?
+OPCAO_A: Guns N' Roses
+OPCAO_B: AC/DC
+OPCAO_C: Iron Maiden
+OPCAO_D: Black Sabbath
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem interpreta a personagem Wolverine nos filmes dos X-Men?
+OPCAO_A: Christian Bale
+OPCAO_B: Hugh Jackman
+OPCAO_C: Russell Crowe
+OPCAO_D: Gerard Butler
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que movimento musical nasceu nos anos 1970 em Nova Iorque com DJ Kool Herc?
+OPCAO_A: Punk
+OPCAO_B: Disco
+OPCAO_C: Hip-hop
+OPCAO_D: Grunge
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o nome da inteligência artificial a bordo da nave em 2001: Odisseia no Espaço?
+OPCAO_A: Skynet
+OPCAO_B: HAL 9000
+OPCAO_C: Jarvis
+OPCAO_D: WOPR
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que cantora norte-americana é conhecida por êxitos como Like a Virgin e Vogue?
+OPCAO_A: Cyndi Lauper
+OPCAO_B: Madonna
+OPCAO_C: Cher
+OPCAO_D: Janet Jackson
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou os filmes da trilogia O Padrinho?
+OPCAO_A: Francis Ford Coppola
+OPCAO_B: Brian De Palma
+OPCAO_C: Sergio Leone
+OPCAO_D: Martin Scorsese
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que músico britânico criou o alter ego Ziggy Stardust?
+OPCAO_A: Elton John
+OPCAO_B: David Bowie
+OPCAO_C: Freddie Mercury
+OPCAO_D: Marc Bolan
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme de animação da Disney conta a história de Simba e Mufasa?
+OPCAO_A: Tarzan
+OPCAO_B: O Rei Leão
+OPCAO_C: Mulan
+OPCAO_D: Aladino
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que estilo musical tradicional português é Património Imaterial da UNESCO?
+OPCAO_A: Cante Alentejano
+OPCAO_B: Fado
+OPCAO_C: Vira
+OPCAO_D: Chula
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o arqueólogo aventureiro interpretado por Harrison Ford?
+OPCAO_A: Han Solo
+OPCAO_B: Rick Deckard
+OPCAO_C: Indiana Jones
+OPCAO_D: Jack Ryan
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual destes cantores é famoso pela sua interpretação clássica de My Way?
+OPCAO_A: Dean Martin
+OPCAO_B: Frank Sinatra
+OPCAO_C: Nat King Cole
+OPCAO_D: Tony Bennett
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Em que ano foi lançado o clássico filme de animação Branca de Neve e os Sete Anões da Disney?
+OPCAO_A: 1928
+OPCAO_B: 1937
+OPCAO_C: 1945
+OPCAO_D: 1950
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que banda britânica foi formada por Mick Jagger e Keith Richards?
+OPCAO_A: The Kinks
+OPCAO_B: The Rolling Stones
+OPCAO_C: The Clash
+OPCAO_D: The Police
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a frase mais famosa de Arnold Schwarzenegger no filme O Exterminador Implacável 2?
+OPCAO_A: "I'll be back"
+OPCAO_B: "Hasta la vista, baby"
+OPCAO_C: "Get to the chopper"
+OPCAO_D: "Say hello to my little friend"
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem é considerado o "Pai da Música Sinfónica" e do "Quarteto de Cordas"?
+OPCAO_A: Joseph Haydn
+OPCAO_B: Johann Sebastian Bach
+OPCAO_C: George Frideric Handel
+OPCAO_D: Franz Liszt
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme acompanha a fuga de Andy Dufresne de uma prisão de alta segurança?
+OPCAO_A: À Espera de um Milagre
+OPCAO_B: Os Condenados de Shawshank
+OPCAO_C: Alcatraz
+OPCAO_D: Papillon
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a banda de heavy metal fundada por James Hetfield e Lars Ulrich?
+OPCAO_A: Megadeth
+OPCAO_B: Slayer
+OPCAO_C: Metallica
+OPCAO_D: Anthrax
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou o aclamado filme de ficção científica Blade Runner (1982)?
+OPCAO_A: Ridley Scott
+OPCAO_B: George Lucas
+OPCAO_C: David Lynch
+OPCAO_D: James Cameron
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que cantora de soul imortalizou temas como Respect e Natural Woman?
+OPCAO_A: Etta James
+OPCAO_B: Aretha Franklin
+OPCAO_C: Nina Simone
+OPCAO_D: Diana Ross
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Em que filme da Pixar conhecemos o velhinho Carl Fredricksen que viaja com uma casa presa a balões?
+OPCAO_A: Divertida-Mente
+OPCAO_B: Wall-E
+OPCAO_C: Up - Altamente
+OPCAO_D: Coco
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que instrumento caribenho é afinado em notas melódicas usando tambores de aço?
+OPCAO_A: Bongó
+OPCAO_B: Steelpan (ou Steel drum)
+OPCAO_C: Marimba
+OPCAO_D: Conga
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que ator interpreta Neo na saga Matrix?
+OPCAO_A: Keanu Reeves
+OPCAO_B: Ethan Hawke
+OPCAO_C: Brad Pitt
+OPCAO_D: Nicolas Cage
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual destas cidades norte-americanas é considerada o berço histórico do Jazz?
+OPCAO_A: Nova Iorque
+OPCAO_B: Nova Orleães
+OPCAO_C: Nashville
+OPCAO_D: Filadélfia
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou os filmes da saga épica O Senhor dos Anéis?
+OPCAO_A: George Lucas
+OPCAO_B: Peter Jackson
+OPCAO_C: Guillermo del Toro
+OPCAO_D: Sam Raimi
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem gravou o famoso álbum acústico e concerto em prisão At Folsom Prison em 1968?
+OPCAO_A: Willie Nelson
+OPCAO_B: Johnny Cash
+OPCAO_C: Waylon Jennings
+OPCAO_D: Kris Kristofferson
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o título da música tema do filme Titanic, cantada por Céline Dion?
+OPCAO_A: Because You Loved Me
+OPCAO_B: My Heart Will Go On
+OPCAO_C: The Power of Love
+OPCAO_D: All By Myself
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que banda de rock progressivo compôs a suíte orquestral Close to the Edge?
+OPCAO_A: Genesis
+OPCAO_B: Yes
+OPCAO_C: King Crimson
+OPCAO_D: Jethro Tull
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que realizador é conhecido pelo estilo gótico em O Estranho Mundo de Jack e A Noiva Cadáver?
+OPCAO_A: Tim Burton
+OPCAO_B: Wes Anderson
+OPCAO_C: Terry Gilliam
+OPCAO_D: David Cronenberg
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quantos membros compunham os Beatles na sua formação definitiva?
+OPCAO_A: 3
+OPCAO_B: 4
+OPCAO_C: 5
+OPCAO_D: 6
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que atriz interpretou a Princesa Leia na saga clássica de Star Wars?
+OPCAO_A: Natalie Portman
+OPCAO_B: Carrie Fisher
+OPCAO_C: Sigourney Weaver
+OPCAO_D: Daisy Ridley
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: De que país é originário o género musical Reggae?
+OPCAO_A: Cuba
+OPCAO_B: Jamaica
+OPCAO_C: Haiti
+OPCAO_D: Bahamas
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme tem como premissa assaltos a segredos industriais invadindo o subconsciente através de sonhos?
+OPCAO_A: Shutter Island
+OPCAO_B: A Origem (Inception)
+OPCAO_C: Memento
+OPCAO_D: Tenet
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual foi o baterista dos Beatles?
+OPCAO_A: John Lennon
+OPCAO_B: Paul McCartney
+OPCAO_C: George Harrison
+OPCAO_D: Ringo Starr
+CORRETA: D
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme sobre a máfia de Nova Iorque foi realizado por Martin Scorsese em 1990 com Robert De Niro?
+OPCAO_A: Casino
+OPCAO_B: Tudo Bons Rapazes (Goodfellas)
+OPCAO_C: O Irlandês
+OPCAO_D: Donnie Brasco
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Em que armação de clave não existem sustenidos nem bemóis?
+OPCAO_A: Sol Maior
+OPCAO_B: Ré Maior
+OPCAO_C: Dó Maior
+OPCAO_D: Fá Maior
+CORRETA: C
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem interpretou a heroína Ellen Ripley no filme de ficção científica Alien (1979)?
+OPCAO_A: Linda Hamilton
+OPCAO_B: Sigourney Weaver
+OPCAO_C: Jamie Lee Curtis
+OPCAO_D: Jodie Foster
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que grupo de rap pioneiro de Compton incluía Dr. Dre, Ice Cube e Eazy-E?
+OPCAO_A: Wu-Tang Clan
+OPCAO_B: N.W.A
+OPCAO_C: Run-D.M.C.
+OPCAO_D: Public Enemy
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que cineasta italiano dirigiu obras-primas como La Dolce Vita e 8½?
+OPCAO_A: Federico Fellini
+OPCAO_B: Michelangelo Antonioni
+OPCAO_C: Roberto Rossellini
+OPCAO_D: Luchino Visconti
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que compositor alemão continuou a compor grandes obras mesmo após perder quase totalmente a audição?
+OPCAO_A: Richard Wagner
+OPCAO_B: Ludwig van Beethoven
+OPCAO_C: Felix Mendelssohn
+OPCAO_D: Robert Schumann
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme dos anos 80 popularizou a máquina do tempo num carro DeLorean DMC-12?
+OPCAO_A: Os Caça-Fantasmas
+OPCAO_B: Regresso ao Futuro
+OPCAO_C: Blade Runner
+OPCAO_D: Mad Max
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem gravou o álbum Back to Black (2006), que inclui êxitos como Rehab?
+OPCAO_A: Adele
+OPCAO_B: Amy Winehouse
+OPCAO_C: Duffy
+OPCAO_D: Joss Stone
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a lendária espada mágica da lenda arturiana?
+OPCAO_A: Glamdring
+OPCAO_B: Excalibur
+OPCAO_C: Andúril
+OPCAO_D: Narsil
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que estilo de música eletrónica teve raízes em clubes de Chicago nos anos 80?
+OPCAO_A: Trance
+OPCAO_B: House
+OPCAO_C: Dubstep
+OPCAO_D: Drum and Bass
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que ator protagonizou Clube de Combate (Fight Club, 1999) com Brad Pitt?
+OPCAO_A: Edward Norton
+OPCAO_B: Christian Bale
+OPCAO_C: Guy Pearce
+OPCAO_D: Jared Leto
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a ópera mais famosa de Georges Bizet, passada em Sevilha?
+OPCAO_A: A Flauta Mágica
+OPCAO_B: Carmen
+OPCAO_C: La Traviata
+OPCAO_D: Madama Butterfly
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem realizou o épico Duna (2021) e a sequela Duna: Parte Dois?
+OPCAO_A: Denis Villeneuve
+OPCAO_B: Ridley Scott
+OPCAO_C: Christopher Nolan
+OPCAO_D: David Fincher
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que músico britânico compôs a célebre homenagem Candle in the Wind?
+OPCAO_A: Billy Joel
+OPCAO_B: Elton John
+OPCAO_C: Rod Stewart
+OPCAO_D: Phil Collins
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme retrata a história do pugilista Rocky Balboa em Filadélfia?
+OPCAO_A: Touro Enraivecido
+OPCAO_B: Rocky
+OPCAO_C: Million Dollar Baby
+OPCAO_D: Creed
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Quem é considerado o "Pai do Blues" e autor de St. Louis Blues?
+OPCAO_A: Robert Johnson
+OPCAO_B: W.C. Handy
+OPCAO_C: B.B. King
+OPCAO_D: Muddy Waters
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o nome do aventureiro interpretado por Nicolas Cage em O Tesouro?
+OPCAO_A: Benjamin Franklin Gates
+OPCAO_B: Rick O'Connell
+OPCAO_C: Alan Grant
+OPCAO_D: Robert Langdon
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual destes instrumentos pertence à família das madeiras apesar de ser metálico?
+OPCAO_A: Trompete
+OPCAO_B: Saxofone
+OPCAO_C: Trombone
+OPCAO_D: Tuba
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que filme de Tarantino reúne Christoph Waltz no papel do coronel Hans Landa?
+OPCAO_A: Django Libertado
+OPCAO_B: Sacanas Sem Lei (Inglourious Basterds)
+OPCAO_C: Os Oito Odiados
+OPCAO_D: Jackie Brown
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é a icónica guitarra lançada pela Fender em 1954 com dois cornos recortados?
+OPCAO_A: Les Paul
+OPCAO_B: Stratocaster
+OPCAO_C: Telecaster
+OPCAO_D: SG
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Em que clássico Humphrey Bogart diz a frase "Here's looking at you, kid"?
+OPCAO_A: Falcão Maltês
+OPCAO_B: Casablanca
+OPCAO_C: Crepúsculo dos Deuses
+OPCAO_D: O Grande Sono
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que lendário trompetista de voz rouca gravou What a Wonderful World?
+OPCAO_A: Dizzy Gillespie
+OPCAO_B: Louis Armstrong
+OPCAO_C: Chet Baker
+OPCAO_D: Cab Calloway
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que ator deu vida a Oppenheimer no filme biográfico de Christopher Nolan em 2023?
+OPCAO_A: Cillian Murphy
+OPCAO_B: Matt Damon
+OPCAO_C: Robert Downey Jr.
+OPCAO_D: Emily Blunt
+CORRETA: A
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: De que lendária banda punk britânica fazia parte Sid Vicious?
+OPCAO_A: The Clash
+OPCAO_B: Sex Pistols
+OPCAO_C: Ramones
+OPCAO_D: The Damned
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Qual é o nome do monstro gigante que ataca Tóquio no cinema japonês clássico de 1954?
+OPCAO_A: King Kong
+OPCAO_B: Godzilla (Gojira)
+OPCAO_C: Mothra
+OPCAO_D: Gamera
+CORRETA: B
+
+---
+
+TEMA: Música e Cinema
+PERGUNTA: Que compositor austríaco genial compôs Réquiem e A Flauta Mágica antes dos 35 anos?
+OPCAO_A: Ludwig van Beethoven
+OPCAO_B: Franz Joseph Haydn
+OPCAO_C: Wolfgang Amadeus Mozart
+OPCAO_D: Franz Schubert
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a capital de Portugal?
+OPCAO_A: Porto
+OPCAO_B: Coimbra
+OPCAO_C: Lisboa
+OPCAO_D: Braga
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem pintou o famoso quadro Mona Lisa?
+OPCAO_A: Vincent van Gogh
+OPCAO_B: Leonardo da Vinci
+OPCAO_C: Pablo Picasso
+OPCAO_D: Michelangelo
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que ano terminou a Segunda Guerra Mundial?
+OPCAO_A: 1939
+OPCAO_B: 1943
+OPCAO_C: 1945
+OPCAO_D: 1950
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantos dias tem um ano bissexto?
+OPCAO_A: 364
+OPCAO_B: 365
+OPCAO_C: 366
+OPCAO_D: 367
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a língua mais falada no mundo por número total de falantes?
+OPCAO_A: Espanhol
+OPCAO_B: Mandarim
+OPCAO_C: Inglês
+OPCAO_D: Hindi
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem escreveu a epopeia portuguesa Os Lusíadas?
+OPCAO_A: Fernando Pessoa
+OPCAO_B: Luís de Camões
+OPCAO_C: Eça de Queirós
+OPCAO_D: Gil Vicente
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se situam as famosas pirâmides de Gizé?
+OPCAO_A: México
+OPCAO_B: Peru
+OPCAO_C: Egito
+OPCAO_D: Sudão
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantos continentes existem habitualmente segundo a convenção mais comum?
+OPCAO_A: 5
+OPCAO_B: 6
+OPCAO_C: 7
+OPCAO_D: 8
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a moeda oficial do Japão?
+OPCAO_A: Yuan
+OPCAO_B: Won
+OPCAO_C: Iene
+OPCAO_D: Ringgit
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem foi o primeiro Presidente dos Estados Unidos da América?
+OPCAO_A: Thomas Jefferson
+OPCAO_B: Abraham Lincoln
+OPCAO_C: George Washington
+OPCAO_D: John Adams
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o animal terrestre mais rápido do planeta?
+OPCAO_A: Leão
+OPCAO_B: Chita (Guepardo)
+OPCAO_C: Gazela
+OPCAO_D: Cavalo
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que cidade italiana fica o célebre Coliseu romano?
+OPCAO_A: Milão
+OPCAO_B: Florença
+OPCAO_C: Roma
+OPCAO_D: Nápoles
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem esculpiu a célebre estátua de David em Florença?
+OPCAO_A: Donatello
+OPCAO_B: Leonardo da Vinci
+OPCAO_C: Michelangelo
+OPCAO_D: Bernini
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o livro sagrado do Islão?
+OPCAO_A: Torá
+OPCAO_B: Bíblia
+OPCAO_C: Alcorão
+OPCAO_D: Vedas
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que século ocorreu a Revolução Francesa?
+OPCAO_A: Século XVII
+OPCAO_B: Século XVIII
+OPCAO_C: Século XIX
+OPCAO_D: Século XX
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a fórmula química da água?
+OPCAO_A: CO2
+OPCAO_B: NaCl
+OPCAO_C: H2O
+OPCAO_D: CH4
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem foi o líder pacifista da independência da Índia através da não-violência?
+OPCAO_A: Jawaharlal Nehru
+OPCAO_B: Mahatma Gandhi
+OPCAO_C: Subhas Chandra Bose
+OPCAO_D: Indira Gandhi
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que monumento icónico de Paris foi erguido para a Exposição Universal de 1889?
+OPCAO_A: Arco do Triunfo
+OPCAO_B: Museu do Louvre
+OPCAO_C: Torre Eiffel
+OPCAO_D: Catedral de Notre-Dame
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantas cores tem habitualmente o arco-íris visível tradicional?
+OPCAO_A: 5
+OPCAO_B: 6
+OPCAO_C: 7
+OPCAO_D: 8
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que cidade fica a sede principal das Nações Unidas (ONU)?
+OPCAO_A: Genebra
+OPCAO_B: Nova Iorque
+OPCAO_C: Haia
+OPCAO_D: Londres
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem pintou o teto da Capela Sistina no Vaticano?
+OPCAO_A: Rafael
+OPCAO_B: Caravaggio
+OPCAO_C: Michelangelo
+OPCAO_D: Botticelli
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a principal religião com maior número de adeptos no mundo?
+OPCAO_A: Islamismo
+OPCAO_B: Cristianismo
+OPCAO_C: Hinduísmo
+OPCAO_D: Budismo
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se encontra o sítio arqueológico de Machu Picchu?
+OPCAO_A: Bolívia
+OPCAO_B: Colômbia
+OPCAO_C: Peru
+OPCAO_D: Chile
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem escreveu a tragédia teatral Romeu e Julieta?
+OPCAO_A: Charles Dickens
+OPCAO_B: William Shakespeare
+OPCAO_C: Oscar Wilde
+OPCAO_D: Christopher Marlowe
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que ano ocorreu o naufrágio do navio Titanic?
+OPCAO_A: 1905
+OPCAO_B: 1912
+OPCAO_C: 1918
+OPCAO_D: 1923
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o maior felino selvagem do mundo?
+OPCAO_A: Leão
+OPCAO_B: Leopardo
+OPCAO_C: Tigre
+OPCAO_D: Onça-pintada
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que navegador comandou a expedição europeia que alcançou a Índia em 1498?
+OPCAO_A: Pedro Álvares Cabral
+OPCAO_B: Bartolomeu Dias
+OPCAO_C: Vasco da Gama
+OPCAO_D: Fernão de Magalhães
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a capital do Reino Unido?
+OPCAO_A: Edimburgo
+OPCAO_B: Manchester
+OPCAO_C: Londres
+OPCAO_D: Dublin
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantos lados tem um hexágono regular?
+OPCAO_A: 5
+OPCAO_B: 6
+OPCAO_C: 7
+OPCAO_D: 8
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se originou o jogo de Xadrez na sua forma ancestral Chaturanga?
+OPCAO_A: Pérsia
+OPCAO_B: China
+OPCAO_C: Índia
+OPCAO_D: Egito
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual destes filósofos gregos foi o mestre direto de Platão?
+OPCAO_A: Aristóteles
+OPCAO_B: Sócrates
+OPCAO_C: Pitágoras
+OPCAO_D: Epicuro
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem foi o primeiro homem a pisar a Lua, em julho de 1969?
+OPCAO_A: Buzz Aldrin
+OPCAO_B: Yuri Gagarin
+OPCAO_C: Neil Armstrong
+OPCAO_D: Michael Collins
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país europeu se localiza o Museu do Prado?
+OPCAO_A: França
+OPCAO_B: Itália
+OPCAO_C: Espanha
+OPCAO_D: Portugal
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o metal cujo símbolo químico é Ag?
+OPCAO_A: Ouro
+OPCAO_B: Prata
+OPCAO_C: Cobre
+OPCAO_D: Platina
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que data se comemora o Dia de Portugal, de Camões e das Comunidades?
+OPCAO_A: 25 de Abril
+OPCAO_B: 10 de Junho
+OPCAO_C: 5 de Outubro
+OPCAO_D: 1 de Dezembro
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o país com maior área territorial do planeta?
+OPCAO_A: Canadá
+OPCAO_B: China
+OPCAO_C: Estados Unidos
+OPCAO_D: Rússia
+CORRETA: D
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem pintou o famoso quadro expressionista O Grito?
+OPCAO_A: Gustav Klimt
+OPCAO_B: Edvard Munch
+OPCAO_C: Egon Schiele
+OPCAO_D: Paul Cézanne
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o rio mais longo do continente europeu?
+OPCAO_A: Danúbio
+OPCAO_B: Reno
+OPCAO_C: Volga
+OPCAO_D: Sena
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que localidade se realizavam os Jogos Olímpicos na Antiguidade Clássica?
+OPCAO_A: Atenas
+OPCAO_B: Esparta
+OPCAO_C: Olímpia
+OPCAO_D: Corinto
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantas teclas tem um piano acústico clássico padrão completo?
+OPCAO_A: 76
+OPCAO_B: 84
+OPCAO_C: 88
+OPCAO_D: 92
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem escreveu o romance clássico Dom Quixote de La Mancha?
+OPCAO_A: Gabriel García Márquez
+OPCAO_B: Miguel de Cervantes
+OPCAO_C: Federico García Lorca
+OPCAO_D: Jorge Luis Borges
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o maior mamífero vivo do planeta Terra?
+OPCAO_A: Elefante africano
+OPCAO_B: Tubarão-baleia
+OPCAO_C: Baleia-azul
+OPCAO_D: Cachalote
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que ano caiu o Muro de Berlim?
+OPCAO_A: 1987
+OPCAO_B: 1989
+OPCAO_C: 1991
+OPCAO_D: 1993
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o arquipélago português cuja maior cidade é Ponta Delgada?
+OPCAO_A: Madeira
+OPCAO_B: Canárias
+OPCAO_C: Açores
+OPCAO_D: Berlengas
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que inventor desenvolveu a lâmpada incandescente comercializável?
+OPCAO_A: Nikola Tesla
+OPCAO_B: Thomas Edison
+OPCAO_C: Alexander Graham Bell
+OPCAO_D: Guglielmo Marconi
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que museu de Paris se encontra a escultura Vénus de Milo?
+OPCAO_A: Museu d'Orsay
+OPCAO_B: Centro Pompidou
+OPCAO_C: Museu do Louvre
+OPCAO_D: Museu Rodin
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem foi o líder sul-africano que combateu o Apartheid e recebeu o Nobel da Paz?
+OPCAO_A: Desmond Tutu
+OPCAO_B: Nelson Mandela
+OPCAO_C: Steve Biko
+OPCAO_D: Thabo Mbeki
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a moeda comum adotada pela maioria dos países da União Europeia?
+OPCAO_A: Libra
+OPCAO_B: Franco
+OPCAO_C: Euro
+OPCAO_D: Coroa
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que mineral apresenta dureza máxima (grau 10) na Escala de Mohs?
+OPCAO_A: Quartzo
+OPCAO_B: Topázio
+OPCAO_C: Diamante
+OPCAO_D: Corindo
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que ano ocorreu o grande terramoto de Lisboa que devastou a cidade?
+OPCAO_A: 1720
+OPCAO_B: 1755
+OPCAO_C: 1799
+OPCAO_D: 1807
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a capital da Austrália?
+OPCAO_A: Sydney
+OPCAO_B: Melbourne
+OPCAO_C: Camberra
+OPCAO_D: Brisbane
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem formulou a teoria da evolução através da seleção natural em 1859?
+OPCAO_A: Gregor Mendel
+OPCAO_B: Charles Darwin
+OPCAO_C: Jean-Baptiste Lamarck
+OPCAO_D: Alfred Russel Wallace
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se encontra a Grande Muralha, maravilha da humanidade?
+OPCAO_A: Coreia do Sul
+OPCAO_B: Japão
+OPCAO_C: China
+OPCAO_D: Mongólia
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a principal matéria-prima mineral usada na confeção do vidro?
+OPCAO_A: Argila
+OPCAO_B: Areia (sílica)
+OPCAO_C: Calcário
+OPCAO_D: Gesso
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que pintor surrealista espanhol pintou A Persistência da Memória?
+OPCAO_A: Joan Miró
+OPCAO_B: Salvador Dalí
+OPCAO_C: René Magritte
+OPCAO_D: Francisco de Goya
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantos estados compõem os Estados Unidos da América?
+OPCAO_A: 48
+OPCAO_B: 50
+OPCAO_C: 52
+OPCAO_D: 54
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a ave não voadora que é símbolo nacional da Nova Zelândia?
+OPCAO_A: Emu
+OPCAO_B: Kiwi
+OPCAO_C: Casuar
+OPCAO_D: Pinguim
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que cidade fica a monumental igreja da Sagrada Família, de Antoni Gaudí?
+OPCAO_A: Madrid
+OPCAO_B: Valência
+OPCAO_C: Barcelona
+OPCAO_D: Sevilha
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem liderou a frota portuguesa que chegou ao Brasil em abril de 1500?
+OPCAO_A: Vasco da Gama
+OPCAO_B: Pedro Álvares Cabral
+OPCAO_C: Afonso de Albuquerque
+OPCAO_D: Bartolomeu Dias
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o ponto montanhoso mais alto de Portugal continental?
+OPCAO_A: Serra do Gerês
+OPCAO_B: Serra da Estrela (Torre)
+OPCAO_C: Serra do Marão
+OPCAO_D: Montanha do Pico
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país nasceu o compositor Wolfgang Amadeus Mozart?
+OPCAO_A: Alemanha
+OPCAO_B: Áustria
+OPCAO_C: Suíça
+OPCAO_D: Hungria
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a capital do Canadá?
+OPCAO_A: Toronto
+OPCAO_B: Montreal
+OPCAO_C: Otava
+OPCAO_D: Vancouver
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem foi a última rainha da dinastia ptolemaica do Antigo Egito?
+OPCAO_A: Nefertiti
+OPCAO_B: Cleópatra
+OPCAO_C: Hatshepsut
+OPCAO_D: Nefertari
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que oceano se localiza o mítico Triângulo das Bermudas?
+OPCAO_A: Oceano Pacífico
+OPCAO_B: Oceano Índico
+OPCAO_C: Oceano Atlântico
+OPCAO_D: Oceano Ártico
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que revolução em 1917 derrubou a monarquia czarista no Império Russo?
+OPCAO_A: Revolução de Veludo
+OPCAO_B: Revolução Francesa
+OPCAO_C: Revolução Bolchevique (Russa)
+OPCAO_D: Revolução Industrial
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a sede do governo dos Países Baixos, embora a capital seja Amesterdão?
+OPCAO_A: Roterdão
+OPCAO_B: Utrecht
+OPCAO_C: Haia
+OPCAO_D: Eindhoven
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem escreveu a saga literária de fantasia Harry Potter?
+OPCAO_A: J.R.R. Tolkien
+OPCAO_B: J.K. Rowling
+OPCAO_C: C.S. Lewis
+OPCAO_D: George R.R. Martin
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a maior ilha do planeta em termos de superfície territorial?
+OPCAO_A: Madagáscar
+OPCAO_B: Gronelândia
+OPCAO_C: Bornéu
+OPCAO_D: Nova Guiné
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que data comemoramos a Revolução dos Cravos em Portugal?
+OPCAO_A: 5 de Outubro
+OPCAO_B: 25 de Abril
+OPCAO_C: 1 de Dezembro
+OPCAO_D: 10 de Junho
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que instrumento é especificamente concebido para aferir a velocidade do vento?
+OPCAO_A: Barómetro
+OPCAO_B: Termómetro
+OPCAO_C: Anemómetro
+OPCAO_D: Higrómetro
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se localiza o famoso monumento Taj Mahal?
+OPCAO_A: Paquistão
+OPCAO_B: Bangladesh
+OPCAO_C: Índia
+OPCAO_D: Nepal
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantos anos durou aproximadamente a Guerra dos Cem Anos?
+OPCAO_A: 90 anos
+OPCAO_B: 100 anos
+OPCAO_C: 116 anos
+OPCAO_D: 130 anos
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que animal dá o leite tradicional para a confecção da autêntica Mozzarella italiana?
+OPCAO_A: Ovelha
+OPCAO_B: Cabra
+OPCAO_C: Búfala
+OPCAO_D: Vaca
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem foi o primeiro ser humano a viajar no espaço em 1961 na Vostok 1?
+OPCAO_A: Neil Armstrong
+OPCAO_B: John Glenn
+OPCAO_C: Yuri Gagarin
+OPCAO_D: Alan Shepard
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o país mais populoso do mundo na atualidade?
+OPCAO_A: China
+OPCAO_B: Índia
+OPCAO_C: Estados Unidos
+OPCAO_D: Indonésia
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se situa a região histórica da Transilvânia?
+OPCAO_A: Hungria
+OPCAO_B: Bulgária
+OPCAO_C: Roménia
+OPCAO_D: Sérvia
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que invenção de Johannes Gutenberg no século XV popularizou os livros?
+OPCAO_A: O telégrafo
+OPCAO_B: A imprensa de tipos móveis
+OPCAO_C: A máquina de escrever
+OPCAO_D: O pergaminho
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a flor emblemática muito celebrada na primavera no Japão?
+OPCAO_A: Lótus
+OPCAO_B: Tulipa
+OPCAO_C: Flor de Cerejeira (Sakura)
+OPCAO_D: Crisântemo
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se situa a central nuclear de Chernobyl?
+OPCAO_A: Rússia
+OPCAO_B: Bielorrússia
+OPCAO_C: Ucrânia
+OPCAO_D: Cazaquistão
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que cidade nórdica se realiza a cerimónia do Prémio Nobel da Paz?
+OPCAO_A: Oslo
+OPCAO_B: Estocolmo
+OPCAO_C: Copenhaga
+OPCAO_D: Helsínquia
+CORRETA: A
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é o canal artificial navegável que liga o Mar Mediterrâneo ao Mar Vermelho?
+OPCAO_A: Canal do Panamá
+OPCAO_B: Canal de Kiel
+OPCAO_C: Canal do Suez
+OPCAO_D: Canal de Corinto
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que cientista polaca-francesa foi laureada com dois Prémios Nobel em Física e Química?
+OPCAO_A: Rosalind Franklin
+OPCAO_B: Marie Curie
+OPCAO_C: Lise Meitner
+OPCAO_D: Ada Lovelace
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a cidade sede do governo federal e capital da Suíça?
+OPCAO_A: Zurique
+OPCAO_B: Genebra
+OPCAO_C: Berna
+OPCAO_D: Basileia
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem escreveu a célebre epopeia clássica A Odisseia?
+OPCAO_A: Sófocles
+OPCAO_B: Homero
+OPCAO_C: Eurípides
+OPCAO_D: Hesíodo
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quantas pontas tem a Estrela de David do judaísmo?
+OPCAO_A: 5
+OPCAO_B: 6
+OPCAO_C: 7
+OPCAO_D: 8
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se realiza anualmente a famosa festa da cerveja Oktoberfest?
+OPCAO_A: Áustria
+OPCAO_B: Bélgica
+OPCAO_C: Alemanha
+OPCAO_D: Chéquia
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que líder britânico conduziu a nação durante a maior parte da Segunda Guerra Mundial?
+OPCAO_A: Neville Chamberlain
+OPCAO_B: Winston Churchill
+OPCAO_C: Clement Attlee
+OPCAO_D: Anthony Eden
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: De que árvore provêm as azeitonas?
+OPCAO_A: Sobreiro
+OPCAO_B: Oliveira
+OPCAO_C: Figueira
+OPCAO_D: Castanheiro
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que continente se estende o Deserto do Sara?
+OPCAO_A: Ásia
+OPCAO_B: África
+OPCAO_C: América do Sul
+OPCAO_D: Oceânia
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem é o autor do clássico livro O Principezinho?
+OPCAO_A: Victor Hugo
+OPCAO_B: Antoine de Saint-Exupéry
+OPCAO_C: Jules Verne
+OPCAO_D: Albert Camus
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a árvore florestal portuguesa da qual se extrai a cortiça?
+OPCAO_A: Pinheiro-bravo
+OPCAO_B: Eucalipto
+OPCAO_C: Sobreiro
+OPCAO_D: Azinheira
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que cidade dos Estados Unidos fica o arranha-céus Empire State Building?
+OPCAO_A: Chicago
+OPCAO_B: Los Angeles
+OPCAO_C: Nova Iorque
+OPCAO_D: São Francisco
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que físico e matemático inglês elaborou a teoria da gravitação universal?
+OPCAO_A: Michael Faraday
+OPCAO_B: Isaac Newton
+OPCAO_C: James Watt
+OPCAO_D: Charles Babbage
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a capital política da Turquia?
+OPCAO_A: Istambul
+OPCAO_B: Esmirna
+OPCAO_C: Ancara
+OPCAO_D: Antália
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que imperador francês foi definitivamente derrotado na Batalha de Waterloo em 1815?
+OPCAO_A: Luís XIV
+OPCAO_B: Napoleão Bonaparte
+OPCAO_C: Carlos Magno
+OPCAO_D: Luís XVI
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que constelação em forma de concha aponta para a Estrela Polar no hemisfério norte?
+OPCAO_A: Ursa Maior
+OPCAO_B: Ursa Menor
+OPCAO_C: Orion
+OPCAO_D: Cassiopeia
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Quem escreveu o influente romance realista português Os Maias?
+OPCAO_A: Camilo Castelo Branco
+OPCAO_B: Eça de Queirós
+OPCAO_C: Almeida Garrett
+OPCAO_D: Alexandre Herculano
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Qual é a bebida destilada tradicional do México elaborada com agave-azul?
+OPCAO_A: Rum
+OPCAO_B: Tequila
+OPCAO_C: Vodka
+OPCAO_D: Pisco
+CORRETA: B
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Em que país se localiza a cidade sagrada islâmica de Meca?
+OPCAO_A: Irão
+OPCAO_B: Iraque
+OPCAO_C: Arábia Saudita
+OPCAO_D: Jordânia
+CORRETA: C
+
+---
+
+TEMA: Cultura Geral
+PERGUNTA: Que famosa torre sineira em Itália é mundialmente famosa pela inclinação da sua estrutura?
+OPCAO_A: Torre de Pisa
+OPCAO_B: Campanário de Giotto
+OPCAO_C: Torre dos Lamberti
+OPCAO_D: Campanário de São Marcos
+CORRETA: A
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a montanha mais alta do planeta acima do nível do mar?
+OPCAO_A: K2
+OPCAO_B: Monte Evereste
+OPCAO_C: Monte Branco
+OPCAO_D: Kilimanjaro
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o rio mais longo do mundo em extensão total comprovada?
+OPCAO_A: Rio Nilo
+OPCAO_B: Rio Amazonas
+OPCAO_C: Rio Yangtzé
+OPCAO_D: Rio Mississípi
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do Canadá?
+OPCAO_A: Toronto
+OPCAO_B: Otava
+OPCAO_C: Vancouver
+OPCAO_D: Montreal
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que continente fica situado o deserto de Atacama?
+OPCAO_A: África
+OPCAO_B: Ásia
+OPCAO_C: América do Sul
+OPCAO_D: Oceânia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o país com maior área territorial do planeta?
+OPCAO_A: Canadá
+OPCAO_B: China
+OPCAO_C: Estados Unidos
+OPCAO_D: Rússia
+CORRETA: D
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que estreito separa a Europa da África no extremo sul da Península Ibérica?
+OPCAO_A: Estreito de Bósforo
+OPCAO_B: Estreito de Gibraltar
+OPCAO_C: Estreito de Magalhães
+OPCAO_D: Estreito de Ormuz
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Austrália?
+OPCAO_A: Sydney
+OPCAO_B: Melbourne
+OPCAO_C: Camberra
+OPCAO_D: Brisbane
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Quantos países fazem fronteira terrestre direta com Portugal?
+OPCAO_A: 1
+OPCAO_B: 2
+OPCAO_C: 3
+OPCAO_D: Nenhum
+CORRETA: A
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o maior lago de água doce do mundo em volume?
+OPCAO_A: Lago Vitória
+OPCAO_B: Lago Superior
+OPCAO_C: Lago Baikal
+OPCAO_D: Mar Cáspio
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que oceano banha a costa ocidental de Portugal continental?
+OPCAO_A: Oceano Índico
+OPCAO_B: Oceano Pacífico
+OPCAO_C: Oceano Atlântico
+OPCAO_D: Mar Mediterrâneo
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Islândia?
+OPCAO_A: Oslo
+OPCAO_B: Reiquiavique
+OPCAO_C: Helsínquia
+OPCAO_D: Copenhaga
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que cordilheira montanhosa se localiza o Monte Evereste?
+OPCAO_A: Andes
+OPCAO_B: Alpes
+OPCAO_C: Himalaias
+OPCAO_D: Rochosas
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital federal do Brasil?
+OPCAO_A: Rio de Janeiro
+OPCAO_B: São Paulo
+OPCAO_C: Brasília
+OPCAO_D: Salvador
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o menor Estado soberano do mundo em área territorial?
+OPCAO_A: Mónaco
+OPCAO_B: San Marino
+OPCAO_C: Cidade do Vaticano
+OPCAO_D: Liechtenstein
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que rio atravessa o centro histórico da cidade de Paris?
+OPCAO_A: Tamisa
+OPCAO_B: Sena
+OPCAO_C: Danúbio
+OPCAO_D: Reno
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que continente se localiza o vulcão e pico Kilimanjaro?
+OPCAO_A: América do Sul
+OPCAO_B: Ásia
+OPCAO_C: África
+OPCAO_D: Oceânia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital dos Países Baixos?
+OPCAO_A: Haia
+OPCAO_B: Roterdão
+OPCAO_C: Amesterdão
+OPCAO_D: Utrecht
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país europeu tem o perfil geográfico semelhante a uma bota de cano alto?
+OPCAO_A: Grécia
+OPCAO_B: Itália
+OPCAO_C: Espanha
+OPCAO_D: Portugal
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Nova Zelândia?
+OPCAO_A: Auckland
+OPCAO_B: Wellington
+OPCAO_C: Christchurch
+OPCAO_D: Queenstown
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que mar desagua o rio Danúbio?
+OPCAO_A: Mar Negro
+OPCAO_B: Mar Báltico
+OPCAO_C: Mar Cáspio
+OPCAO_D: Mar do Norte
+CORRETA: A
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o país insular banhado pelo Canal de Moçambique no sudeste africano?
+OPCAO_A: Maurícia
+OPCAO_B: Seicheles
+OPCAO_C: Madagáscar
+OPCAO_D: Comores
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que canal artificial liga o Oceano Atlântico ao Oceano Pacífico?
+OPCAO_A: Canal do Suez
+OPCAO_B: Canal do Panamá
+OPCAO_C: Canal de Kiel
+OPCAO_D: Canal da Mancha
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Argentina?
+OPCAO_A: Santiago
+OPCAO_B: Montevideu
+OPCAO_C: Buenos Aires
+OPCAO_D: Córdova
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que ilha portuguesa se situa o ponto mais alto de todo o território de Portugal?
+OPCAO_A: Ilha de São Miguel
+OPCAO_B: Ilha da Madeira
+OPCAO_C: Ilha do Pico
+OPCAO_D: Ilha Terceira
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o maior deserto quente do planeta?
+OPCAO_A: Deserto de Gobi
+OPCAO_B: Deserto do Sara
+OPCAO_C: Deserto do Calaári
+OPCAO_D: Grande Deserto de Areia
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da República da Irlanda?
+OPCAO_A: Belfast
+OPCAO_B: Dublin
+OPCAO_C: Cork
+OPCAO_D: Galway
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que cadeia de montanhas serve de fronteira natural entre Espanha e França?
+OPCAO_A: Apeninos
+OPCAO_B: Pirenéus
+OPCAO_C: Cárpatos
+OPCAO_D: Balcãs
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do Japão?
+OPCAO_A: Quioto
+OPCAO_B: Osaka
+OPCAO_C: Tóquio
+OPCAO_D: Hiroxima
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Quantos estados federados (Bundesländer) compõem a Alemanha?
+OPCAO_A: 12
+OPCAO_B: 14
+OPCAO_C: 16
+OPCAO_D: 18
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país da América do Sul não tem saída para o mar?
+OPCAO_A: Paraguai
+OPCAO_B: Equador
+OPCAO_C: Suriname
+OPCAO_D: Uruguai
+CORRETA: A
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Suécia?
+OPCAO_A: Gotemburgo
+OPCAO_B: Malmö
+OPCAO_C: Estocolmo
+OPCAO_D: Uppsala
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que país europeu se situam as famosas Cataratas do Reno?
+OPCAO_A: Alemanha
+OPCAO_B: Áustria
+OPCAO_C: Suíça
+OPCAO_D: Liechtenstein
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o rio mais longo da Península Ibérica que desagua no estuário em Lisboa?
+OPCAO_A: Douro
+OPCAO_B: Guadiana
+OPCAO_C: Tejo
+OPCAO_D: Mondego
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do Egito?
+OPCAO_A: Alexandria
+OPCAO_B: Cairo
+OPCAO_C: Gizé
+OPCAO_D: Luxor
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que dois países partilham a vasta região geográfica da Patagónia?
+OPCAO_A: Peru e Bolívia
+OPCAO_B: Argentina e Chile
+OPCAO_C: Colômbia e Venezuela
+OPCAO_D: Brasil e Paraguai
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Dinamarca?
+OPCAO_A: Copenhaga
+OPCAO_B: Aarhus
+OPCAO_C: Odense
+OPCAO_D: Aalborg
+CORRETA: A
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que linha geográfica divide o globo terrestre nos hemisférios norte e sul?
+OPCAO_A: Meridiano de Greenwich
+OPCAO_B: Trópico de Câncer
+OPCAO_C: Linha do Equador
+OPCAO_D: Trópico de Capricórnio
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Polónia?
+OPCAO_A: Cracóvia
+OPCAO_B: Varsóvia
+OPCAO_C: Gdańsk
+OPCAO_D: Breslávia
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país sul-americano é proprietário das ilhas Galápagos?
+OPCAO_A: Colômbia
+OPCAO_B: Equador
+OPCAO_C: Peru
+OPCAO_D: Costa Rica
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Noruega?
+OPCAO_A: Bergen
+OPCAO_B: Trondheim
+OPCAO_C: Oslo
+OPCAO_D: Stavanger
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que lago nos Andes é o lago navegável comercialmente mais alto do mundo?
+OPCAO_A: Lago Titicaca (Peru e Bolívia)
+OPCAO_B: Lago Nahuel Huapi
+OPCAO_C: Lago Maracaibo
+OPCAO_D: Lago Poopó
+CORRETA: A
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Finlândia?
+OPCAO_A: Tampere
+OPCAO_B: Turku
+OPCAO_C: Helsínquia
+OPCAO_D: Espoo
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que oceano se situa entre a África, a Ásia e a Oceânia?
+OPCAO_A: Oceano Atlântico
+OPCAO_B: Oceano Antártico
+OPCAO_C: Oceano Índico
+OPCAO_D: Oceano Pacífico
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Turquia?
+OPCAO_A: Istambul
+OPCAO_B: Esmirna
+OPCAO_C: Ancara
+OPCAO_D: Bursa
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país do mundo ocupa a totalidade do seu continente?
+OPCAO_A: Gronelândia
+OPCAO_B: Madagáscar
+OPCAO_C: Austrália
+OPCAO_D: África do Sul
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que rio escavou as gargantas do Grand Canyon nos Estados Unidos?
+OPCAO_A: Rio Mississípi
+OPCAO_B: Rio Colorado
+OPCAO_C: Rio Grande
+OPCAO_D: Rio Missouri
+CORRETA: B
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Grécia?
+OPCAO_A: Salonica
+OPCAO_B: Pireu
+OPCAO_C: Atenas
+OPCAO_D: Heraclião
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que massa de água entre Israel e a Jordânia é conhecida pelo elevado teor de salinidade?
+OPCAO_A: Mar Negro
+OPCAO_B: Mar Cáspio
+OPCAO_C: Mar Morto
+OPCAO_D: Mar Vermelho
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Bélgica e centro de instituições europeias?
+OPCAO_A: Antuérpia
+OPCAO_B: Gante
+OPCAO_C: Bruxelas
+OPCAO_D: Bruges
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que nação tem as suas capitais divididas entre Pretória, Cidade do Cabo e Bloemfontein?
+OPCAO_A: Nigéria
+OPCAO_B: Quénia
+OPCAO_C: África do Sul
+OPCAO_D: Gana
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Chéquia?
+OPCAO_A: Brno
+OPCAO_B: Plzeň
+OPCAO_C: Praga
+OPCAO_D: Ostrava
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que cordilheira montanhosa nasce o caudaloso rio Amazonas?
+OPCAO_A: Rochosas
+OPCAO_B: Montes Urais
+OPCAO_C: Cordilheira dos Andes
+OPCAO_D: Montes Atlas
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Áustria?
+OPCAO_A: Salzburgo
+OPCAO_B: Graz
+OPCAO_C: Viena
+OPCAO_D: Innsbruck
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o país do mundo que possui maior número de ilhas no seu território?
+OPCAO_A: Indonésia
+OPCAO_B: Filipinas
+OPCAO_C: Suécia
+OPCAO_D: Japão
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Hungria cortada pelo rio Danúbio?
+OPCAO_A: Debrecen
+OPCAO_B: Szeged
+OPCAO_C: Budapeste
+OPCAO_D: Miskolc
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país europeu possui milhares de ilhas nos mares Egeu e Jónico?
+OPCAO_A: Itália
+OPCAO_B: Chipre
+OPCAO_C: Grécia
+OPCAO_D: Malta
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Coreia do Sul?
+OPCAO_A: Busan
+OPCAO_B: Incheon
+OPCAO_C: Seul
+OPCAO_D: Daegu
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o ponto mais baixo da superfície emersa do planeta em relação ao nível do mar?
+OPCAO_A: Depressão de Qattara
+OPCAO_B: Vale da Morte
+OPCAO_C: Margens do Mar Morto
+OPCAO_D: Depressão de Danakil
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Colômbia?
+OPCAO_A: Medellín
+OPCAO_B: Cáli
+OPCAO_C: Bogotá
+OPCAO_D: Barranquilla
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que país se localiza a catarata mais alta do mundo (Salto Ángel)?
+OPCAO_A: Brasil
+OPCAO_B: Guiana
+OPCAO_C: Venezuela
+OPCAO_D: Bolívia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital de Marrocos?
+OPCAO_A: Casablanca
+OPCAO_B: Marraquexe
+OPCAO_C: Rabat
+OPCAO_D: Fez
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que linha meridiana serve de ponto zero para a determinação dos fusos horários?
+OPCAO_A: Linha Internacional de Data
+OPCAO_B: Trópico de Câncer
+OPCAO_C: Meridiano de Greenwich
+OPCAO_D: Meridiano de Paris
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Croácia?
+OPCAO_A: Split
+OPCAO_B: Dubrovnik
+OPCAO_C: Zagreb
+OPCAO_D: Rijeka
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que oceano se situa a Fossa das Marianas?
+OPCAO_A: Oceano Atlântico
+OPCAO_B: Oceano Índico
+OPCAO_C: Oceano Pacífico
+OPCAO_D: Oceano Antártico
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do Chile?
+OPCAO_A: Valparaíso
+OPCAO_B: Concepción
+OPCAO_C: Santiago
+OPCAO_D: Antofagasta
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que cordilheira montanhosa russa estabelece o limite físico tradicional entre Europa e Ásia?
+OPCAO_A: Montes Cárpatos
+OPCAO_B: Cáucaso
+OPCAO_C: Montes Urais
+OPCAO_D: Alpes Dináricos
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital federal de facto da Suíça?
+OPCAO_A: Zurique
+OPCAO_B: Genebra
+OPCAO_C: Berna
+OPCAO_D: Basileia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país insular do Sudeste Asiático é formado por mais de dezassete mil ilhas?
+OPCAO_A: Tailândia
+OPCAO_B: Malásia
+OPCAO_C: Indonésia
+OPCAO_D: Vietname
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital histórica da Escócia?
+OPCAO_A: Glasgow
+OPCAO_B: Aberdeen
+OPCAO_C: Edimburgo
+OPCAO_D: Dundee
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que braço de mar separa a Península Itálica da Península Balcânica?
+OPCAO_A: Mar Tirreno
+OPCAO_B: Mar Jónico
+OPCAO_C: Mar Adriático
+OPCAO_D: Mar Lígue
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Roménia?
+OPCAO_A: Cluj-Napoca
+OPCAO_B: Timișoara
+OPCAO_C: Bucareste
+OPCAO_D: Iași
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que rio português corre integralmente no país desde a Serra da Estrela até à Figueira da Foz?
+OPCAO_A: Rio Sado
+OPCAO_B: Rio Vouga
+OPCAO_C: Rio Mondego
+OPCAO_D: Rio Zêzere
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Ucrânia?
+OPCAO_A: Kharkiv
+OPCAO_B: Lviv
+OPCAO_C: Kiev
+OPCAO_D: Odessa
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país vizinho partilha com o Brasil as Cataratas do Iguaçu?
+OPCAO_A: Paraguai
+OPCAO_B: Uruguai
+OPCAO_C: Argentina
+OPCAO_D: Bolívia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Tailândia?
+OPCAO_A: Chiang Mai
+OPCAO_B: Phuket
+OPCAO_C: Banguecoque
+OPCAO_D: Pattaya
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que metrópole turca é cortada pelo estreito de Bósforo e ocupa dois continentes?
+OPCAO_A: Atenas
+OPCAO_B: Beirute
+OPCAO_C: Istambul
+OPCAO_D: Cairo
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital de Angola?
+OPCAO_A: Benguela
+OPCAO_B: Huambo
+OPCAO_C: Luanda
+OPCAO_D: Lubango
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é o país que possui a linha de costa marítima mais extensa do planeta?
+OPCAO_A: Rússia
+OPCAO_B: Austrália
+OPCAO_C: Canadá
+OPCAO_D: Indonésia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital de Moçambique?
+OPCAO_A: Beira
+OPCAO_B: Nampula
+OPCAO_C: Maputo
+OPCAO_D: Quelimane
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que país se localiza a vasta extensão de dunas do deserto Rub' al-Khali?
+OPCAO_A: Argélia
+OPCAO_B: Egito
+OPCAO_C: Arábia Saudita
+OPCAO_D: Iraque
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital de Cuba?
+OPCAO_A: Santiago de Cuba
+OPCAO_B: Camagüey
+OPCAO_C: Havana
+OPCAO_D: Varadero
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que rio de África forma o célebre delta que desagua no Mar Mediterrâneo?
+OPCAO_A: Rio Congo
+OPCAO_B: Rio Níger
+OPCAO_C: Rio Nilo
+OPCAO_D: Rio Zambeze
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Arábia Saudita?
+OPCAO_A: Jedá
+OPCAO_B: Meca
+OPCAO_C: Riade
+OPCAO_D: Medina
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que arquipélago espanhol se localiza no Oceano Atlântico ao largo da costa do Saara Ocidental?
+OPCAO_A: Ilhas Baleares
+OPCAO_B: Açores
+OPCAO_C: Ilhas Canárias
+OPCAO_D: Ilhas Cíclades
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do México?
+OPCAO_A: Guadalajara
+OPCAO_B: Monterrey
+OPCAO_C: Cidade do México
+OPCAO_D: Puebla
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que país da Europa Central se estende a maciça Floresta Negra?
+OPCAO_A: Áustria
+OPCAO_B: Polónia
+OPCAO_C: Alemanha
+OPCAO_D: Chéquia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Venezuela?
+OPCAO_A: Maracaibo
+OPCAO_B: Valência
+OPCAO_C: Caracas
+OPCAO_D: Barquisimeto
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que estreito marítimo separa Dover em Inglaterra de Calais em França?
+OPCAO_A: Estreito de Gibraltar
+OPCAO_B: Estreito de Bósforo
+OPCAO_C: Estreito de Dover (Passo de Calais)
+OPCAO_D: Estreito de Messina
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do Peru?
+OPCAO_A: Cusco
+OPCAO_B: Arequipa
+OPCAO_C: Lima
+OPCAO_D: Trujillo
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual destas cidades capitais de distrito portuguesas fica localizada mais a norte?
+OPCAO_A: Porto
+OPCAO_B: Braga
+OPCAO_C: Viana do Castelo
+OPCAO_D: Coimbra
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital das Filipinas?
+OPCAO_A: Cebu
+OPCAO_B: Davao
+OPCAO_C: Manila
+OPCAO_D: Quezon
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que continente se localiza a densa bacia florestal e hidrográfica do rio Congo?
+OPCAO_A: América do Sul
+OPCAO_B: Ásia
+OPCAO_C: África
+OPCAO_D: Oceânia
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Sérvia?
+OPCAO_A: Sarajevo
+OPCAO_B: Skopje
+OPCAO_C: Belgrado
+OPCAO_D: Podgorica
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a maior bacia de água fechada interior do mundo?
+OPCAO_A: Lago Aral
+OPCAO_B: Lago Ladoga
+OPCAO_C: Mar Cáspio
+OPCAO_D: Lago Onega
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da África do Sul sede do poder executivo do país?
+OPCAO_A: Joanesburgo
+OPCAO_B: Cidade do Cabo
+OPCAO_C: Pretória
+OPCAO_D: Durban
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Em que arquipélago português se localiza a ilha de Santa Maria?
+OPCAO_A: Madeira
+OPCAO_B: Berlengas
+OPCAO_C: Açores
+OPCAO_D: Selvagens
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital da Bulgária?
+OPCAO_A: Varna
+OPCAO_B: Plovdiv
+OPCAO_C: Sófia
+OPCAO_D: Burgas
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que país nórdico é popularmente chamado de "país dos mil lagos"?
+OPCAO_A: Suécia
+OPCAO_B: Noruega
+OPCAO_C: Finlândia
+OPCAO_D: Dinamarca
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Qual é a capital do Quénia?
+OPCAO_A: Mombaça
+OPCAO_B: Kisumu
+OPCAO_C: Nairobi
+OPCAO_D: Nakuru
+CORRETA: C
+
+---
+
+TEMA: Geografia
+PERGUNTA: Que cabo no concelho de Sintra representa o extremo mais ocidental da Europa continental?
+OPCAO_A: Cabo de São Vicente
+OPCAO_B: Cabo Espichel
+OPCAO_C: Cabo da Roca
+OPCAO_D: Cabo Carvoeiro
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos futebolistas de cada equipa iniciam em campo uma partida regulamentar?
+OPCAO_A: 9
+OPCAO_B: 10
+OPCAO_C: 11
+OPCAO_D: 12
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: De quantos em quantos anos se realizam os Jogos Olímpicos de Verão?
+OPCAO_A: 2 anos
+OPCAO_B: 3 anos
+OPCAO_C: 4 anos
+OPCAO_D: 5 anos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que seleção de futebol conquistou o Campeonato do Mundo da FIFA em 2022 no Catar?
+OPCAO_A: França
+OPCAO_B: Argentina
+OPCAO_C: Brasil
+OPCAO_D: Croácia
+CORRETA: B
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que modalidade desportiva se celebrizou mundialmente Michael Jordan?
+OPCAO_A: Basebol
+OPCAO_B: Atletismo
+OPCAO_C: Basquetebol
+OPCAO_D: Futebol americano
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos minutos dura o tempo regulamentar padrão de uma partida de futebol sénior?
+OPCAO_A: 80 minutos
+OPCAO_B: 90 minutos
+OPCAO_C: 100 minutos
+OPCAO_D: 120 minutos
+CORRETA: B
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que país foram codificadas as primeiras regras do futebol moderno?
+OPCAO_A: Brasil
+OPCAO_B: Inglaterra
+OPCAO_C: França
+OPCAO_D: Escócia
+CORRETA: B
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos pontos vale um ensaio (try) na pontuação do râguebi de 15?
+OPCAO_A: 3 pontos
+OPCAO_B: 4 pontos
+OPCAO_C: 5 pontos
+OPCAO_D: 6 pontos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que piloto britânico detém 7 títulos mundiais de Fórmula 1, empatado com Schumacher?
+OPCAO_A: Sebastian Vettel
+OPCAO_B: Max Verstappen
+OPCAO_C: Lewis Hamilton
+OPCAO_D: Fernando Alonso
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é a extensão oficial da prova clássica da maratona no atletismo?
+OPCAO_A: 21,097 km
+OPCAO_B: 40,000 km
+OPCAO_C: 42,195 km
+OPCAO_D: 45,500 km
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que tenista suíço alcançou 20 vitórias individuais em torneios do Grand Slam?
+OPCAO_A: Stan Wawrinka
+OPCAO_B: Roger Federer
+OPCAO_C: Rafael Nadal
+OPCAO_D: Novak Djokovic
+CORRETA: B
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que cor tem a camisola que identifica o líder da Volta a França em bicicleta?
+OPCAO_A: Verde
+OPCAO_B: Branca
+OPCAO_C: Amarela
+OPCAO_D: Vermelha
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos períodos (quartos) compõem um jogo de basquetebol regular na NBA?
+OPCAO_A: 2
+OPCAO_B: 3
+OPCAO_C: 4
+OPCAO_D: 5
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que cidade decorreram os primeiros Jogos Olímpicos modernos em 1896?
+OPCAO_A: Paris
+OPCAO_B: Londres
+OPCAO_C: Atenas
+OPCAO_D: Roma
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual destes atletas jamaicanos bateu os recordes mundiais dos 100m e 200m?
+OPCAO_A: Yohan Blake
+OPCAO_B: Asafa Powell
+OPCAO_C: Usain Bolt
+OPCAO_D: Carl Lewis
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos pinos se alinham no fundo da pista num jogo regulamentar de bowling?
+OPCAO_A: 8
+OPCAO_B: 9
+OPCAO_C: 10
+OPCAO_D: 12
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que país venceu a seleção principal de Portugal o Euro 2016 de futebol?
+OPCAO_A: Alemanha
+OPCAO_B: Áustria
+OPCAO_C: França
+OPCAO_D: Polónia
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é a pontuação máxima possível alcançada com três dardos na mesma jogada?
+OPCAO_A: 150
+OPCAO_B: 160
+OPCAO_C: 180
+OPCAO_D: 200
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que nadador norte-americano é o desportista mais medalhado na história olímpica?
+OPCAO_A: Ian Thorpe
+OPCAO_B: Ryan Lochte
+OPCAO_C: Michael Phelps
+OPCAO_D: Mark Spitz
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que arte marcial de projeção e controlo significa literalmente "caminho suave"?
+OPCAO_A: Karaté
+OPCAO_B: Aikido
+OPCAO_C: Judo
+OPCAO_D: Taekwondo
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que clube português venceu a Taça dos Campeões Europeus em 1961 e 1962?
+OPCAO_A: Sporting CP
+OPCAO_B: FC Porto
+OPCAO_C: SL Benfica
+OPCAO_D: CF Os Belenenses
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos jogadores por equipa atuam em campo num jogo de voleibol de pavilhão?
+OPCAO_A: 5
+OPCAO_B: 7
+OPCAO_C: 6
+OPCAO_D: 8
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que pugilista ficou mundialmente conhecido pela frase "flutua como borboleta, pica como abelha"?
+OPCAO_A: Mike Tyson
+OPCAO_B: Joe Frazier
+OPCAO_C: Muhammad Ali
+OPCAO_D: George Foreman
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que modalidade desportiva se defrontam os EUA e a Europa na Ryder Cup?
+OPCAO_A: Ténis
+OPCAO_B: Críquete
+OPCAO_C: Golfe
+OPCAO_D: Polo aquático
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o piso característico dos courts do torneio de Roland Garros em Paris?
+OPCAO_A: Relva natural
+OPCAO_B: Resina sintética
+OPCAO_C: Terra batida
+OPCAO_D: Madeira
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos minutos dura cada uma das duas partes regulamentares de um jogo de andebol?
+OPCAO_A: 20 minutos
+OPCAO_B: 25 minutos
+OPCAO_C: 30 minutos
+OPCAO_D: 35 minutos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que país possui o recorde de 5 títulos de Campeão do Mundo de Futebol masculino?
+OPCAO_A: Alemanha
+OPCAO_B: Itália
+OPCAO_C: Brasil
+OPCAO_D: Argentina
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o nome do prestigiado troféu entregue ao campeão do Super Bowl na NFL?
+OPCAO_A: Larry O'Brien Trophy
+OPCAO_B: Stanley Cup
+OPCAO_C: Vince Lombardi Trophy
+OPCAO_D: Commissioner's Trophy
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que cidade nasceu Cristiano Ronaldo?
+OPCAO_A: Lisboa
+OPCAO_B: Ponta Delgada
+OPCAO_C: Funchal
+OPCAO_D: Coimbra
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos buracos tem habitualmente uma volta completa num campo regulamentar de golfe?
+OPCAO_A: 9
+OPCAO_B: 12
+OPCAO_C: 18
+OPCAO_D: 24
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que país é o berço tradicional da arte marcial olímpica do Taekwondo?
+OPCAO_A: Japão
+OPCAO_B: China
+OPCAO_C: Coreia do Sul
+OPCAO_D: Tailândia
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Como se designa o jogo decisivo da final do campeonato de futebol americano (NFL)?
+OPCAO_A: World Series
+OPCAO_B: Finals
+OPCAO_C: Super Bowl
+OPCAO_D: Grey Cup
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que clube conquistou a Taça UEFA em 2003 e a Liga dos Campeões em 2004 com José Mourinho?
+OPCAO_A: SL Benfica
+OPCAO_B: Sporting CP
+OPCAO_C: FC Porto
+OPCAO_D: SC Braga
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: No badminton, qual é o projétil atingido pelos atletas em vez de uma bola?
+OPCAO_A: Disco
+OPCAO_B: Pelo
+OPCAO_C: Volante (ou pena)
+OPCAO_D: Pelota
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que nação acolheu a primeira edição do Campeonato do Mundo de Futebol em 1930?
+OPCAO_A: Brasil
+OPCAO_B: Itália
+OPCAO_C: Uruguai
+OPCAO_D: Argentina
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos pontos vale um lançamento convertido além da linha exterior de lançamento no basquetebol?
+OPCAO_A: 1 ponto
+OPCAO_B: 2 pontos
+OPCAO_C: 3 pontos
+OPCAO_D: 4 pontos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quem foi a primeira campeã olímpica portuguesa, vencendo a maratona em Seul 1988?
+OPCAO_A: Fernanda Ribeiro
+OPCAO_B: Manuela Machado
+OPCAO_C: Rosa Mota
+OPCAO_D: Jessica Augusto
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Como se designa no surf a manobra de surfar na cavidade gerada pela rebentação da onda?
+OPCAO_A: Cutback
+OPCAO_B: Floater
+OPCAO_C: Tubo (Tube ride)
+OPCAO_D: Aerial
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que mítico circuito citadino de Fórmula 1 percorre as avenidas junto à marina e ao casino?
+OPCAO_A: Monza
+OPCAO_B: Silverstone
+OPCAO_C: Mónaco (Monte Carlo)
+OPCAO_D: Spa-Francorchamps
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que tenista espanhol venceu Roland Garros por 14 ocasiões?
+OPCAO_A: Carlos Alcaraz
+OPCAO_B: David Ferrer
+OPCAO_C: Rafael Nadal
+OPCAO_D: Juan Carlos Ferrero
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: No snooker clássico, qual é o valor em pontos atribuído à bola preta?
+OPCAO_A: 5 pontos
+OPCAO_B: 6 pontos
+OPCAO_C: 7 pontos
+OPCAO_D: 4 pontos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos nadadores por equipa disputam em simultâneo uma partida de polo aquático?
+OPCAO_A: 5
+OPCAO_B: 6
+OPCAO_C: 7
+OPCAO_D: 8
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que desporto automobilístico se inserem as históricas 24 Horas de Le Mans?
+OPCAO_A: Fórmula 1
+OPCAO_B: Ralis de velocidade
+OPCAO_C: Automobilismo de resistência
+OPCAO_D: Todo-o-terreno
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que maratonista luso conquistou o primeiro ouro olímpico de Portugal em Los Angeles 1984?
+OPCAO_A: Rosa Mota
+OPCAO_B: António Pinto
+OPCAO_C: Carlos Lopes
+OPCAO_D: Fernando Mamede
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que franchisado histórico da NBA joga com equipamento roxo e dourado em Los Angeles?
+OPCAO_A: LA Clippers
+OPCAO_B: Golden State Warriors
+OPCAO_C: LA Lakers
+OPCAO_D: Phoenix Suns
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o país originário da arte marcial designada Muay Thai?
+OPCAO_A: Camboja
+OPCAO_B: Vietname
+OPCAO_C: Tailândia
+OPCAO_D: Myanmar
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que prova desportiva engloba sucessivamente natação, ciclismo e corrida de fundo?
+OPCAO_A: Decatlo
+OPCAO_B: Pentatlo Moderno
+OPCAO_C: Triatlo
+OPCAO_D: Duatlo
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantas voltas completas e fração são efetuadas numa pista de 400m na prova de 1500m?
+OPCAO_A: 3 voltas
+OPCAO_B: 4 voltas
+OPCAO_C: 3 voltas e 3/4
+OPCAO_D: 4 voltas e meia
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que campeão belga de ciclismo foi apelidado pelas suas vitórias implacáveis como "O Canibal"?
+OPCAO_A: Bernard Hinault
+OPCAO_B: Jacques Anquetil
+OPCAO_C: Eddy Merckx
+OPCAO_D: Miguel Indurain
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Como se designa o torneio anual mais importante de clubes da UEFA?
+OPCAO_A: Liga Europa
+OPCAO_B: Taça das Taças
+OPCAO_C: Liga dos Campeões da UEFA
+OPCAO_D: Liga Conferência
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que seleção levantou a primeira Taça do Mundo de Râguebi masculino em 1987?
+OPCAO_A: Austrália
+OPCAO_B: Inglaterra
+OPCAO_C: Nova Zelândia
+OPCAO_D: África do Sul
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantas substituições por equipa são permitidas no decurso regular de um jogo de futebol de elite?
+OPCAO_A: 3
+OPCAO_B: 4
+OPCAO_C: 5
+OPCAO_D: 6
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual destes é o torneio do Grand Slam de ténis disputado sobre courts de relva natural?
+OPCAO_A: Roland Garros
+OPCAO_B: US Open
+OPCAO_C: Wimbledon
+OPCAO_D: Open da Austrália
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos árbitros no terreno apitam um encontro da NBA?
+OPCAO_A: 1
+OPCAO_B: 2
+OPCAO_C: 3
+OPCAO_D: 4
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que modalidade do atletismo Nelson Évora se sagrou campeão olímpico em Pequim 2008?
+OPCAO_A: Salto em Comprimento
+OPCAO_B: Salto em Altura
+OPCAO_C: Triplo Salto
+OPCAO_D: Salto com Vara
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que cinto marca o nível de graduação imediatamente anterior aos graus Dan (mestrado) no Judo?
+OPCAO_A: Cinto Azul
+OPCAO_B: Cinto Castanho
+OPCAO_C: Cinto Preto
+OPCAO_D: Cinto Vermelho
+CORRETA: B
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que seleção internacional de râguebi é universalmente conhecida como All Blacks?
+OPCAO_A: Austrália
+OPCAO_B: Inglaterra
+OPCAO_C: Nova Zelândia
+OPCAO_D: África do Sul
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos minutos dura cada uma das duas metades de um jogo oficial de futsal?
+OPCAO_A: 15 minutos
+OPCAO_B: 25 minutos
+OPCAO_C: 20 minutos
+OPCAO_D: 30 minutos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que clube europeu venceu três finais consecutivas da UEFA Champions League (2016-2018)?
+OPCAO_A: Barcelona
+OPCAO_B: Bayern Munique
+OPCAO_C: Real Madrid
+OPCAO_D: Liverpool
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: No basebol, quantos defesas estão posicionados em campo pela equipa na defesa?
+OPCAO_A: 7
+OPCAO_B: 8
+OPCAO_C: 9
+OPCAO_D: 10
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que ano a seleção espanhola de futebol conquistou o Mundial na África do Sul?
+OPCAO_A: 2006
+OPCAO_B: 2008
+OPCAO_C: 2010
+OPCAO_D: 2012
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que vertente desportiva se realizam exercícios com barra fixa e cavalo com arções?
+OPCAO_A: Ginástica Rítmica
+OPCAO_B: Trampolim
+OPCAO_C: Ginástica Artística
+OPCAO_D: Ginástica Acrobática
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que cidade americana conquistou Fernanda Ribeiro a medalha de ouro olímpica em 1996?
+OPCAO_A: Los Angeles
+OPCAO_B: Salt Lake City
+OPCAO_C: Atlanta
+OPCAO_D: Chicago
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Ao fim de quantas faltas pessoais um jogador é desqualificado de uma partida na NBA?
+OPCAO_A: 4
+OPCAO_B: 5
+OPCAO_C: 6
+OPCAO_D: 7
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o troféu máximo atribuído ao vencedor dos playoffs da NHL no hóquei em gelo?
+OPCAO_A: Memorial Cup
+OPCAO_B: Calder Trophy
+OPCAO_C: Stanley Cup
+OPCAO_D: President's Cup
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que piloto gaulês somou 9 campeonatos mundiais consecutivos de ralis no WRC?
+OPCAO_A: Sébastien Ogier
+OPCAO_B: Carlos Sainz
+OPCAO_C: Sébastien Loeb
+OPCAO_D: Colin McRae
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: A que altura exata do solo se situa o aro de basquetebol segundo os regulamentos oficiais?
+OPCAO_A: 2,85 metros
+OPCAO_B: 2,95 metros
+OPCAO_C: 3,05 metros
+OPCAO_D: 3,20 metros
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o comprimento de uma piscina olímpica regulamentar de competição?
+OPCAO_A: 25 metros
+OPCAO_B: 33 metros
+OPCAO_C: 50 metros
+OPCAO_D: 100 metros
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que seleção de futebol conquistou o torneio masculino nos Jogos Olímpicos de 1992 em Barcelona?
+OPCAO_A: Roménia
+OPCAO_B: Polónia
+OPCAO_C: Espanha
+OPCAO_D: Rússia
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: No ténis de mesa oficial, quantos pontos no mínimo são precisos para ganhar uma partida (set)?
+OPCAO_A: 7
+OPCAO_B: 9
+OPCAO_C: 11
+OPCAO_D: 15
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que astro argentino marcou os célebres golos à Inglaterra nos quartos-de-final do Mundial 1986?
+OPCAO_A: Gabriel Batistuta
+OPCAO_B: Lionel Messi
+OPCAO_C: Diego Armando Maradona
+OPCAO_D: Mario Kempes
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que cidade italiana foi anfitriã dos Jogos Olímpicos de Inverno em 2006?
+OPCAO_A: Milão
+OPCAO_B: Cortina d'Ampezzo
+OPCAO_C: Turim
+OPCAO_D: Trento
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos segundos dura a posse de bola no relógio de lançamento antes do remate na NBA e FIBA?
+OPCAO_A: 14 segundos
+OPCAO_B: 20 segundos
+OPCAO_C: 24 segundos
+OPCAO_D: 30 segundos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que atleta sérvio lidera a contagem de Grand Slams de ténis na era moderna masculina?
+OPCAO_A: Roger Federer
+OPCAO_B: Rafael Nadal
+OPCAO_C: Novak Djokovic
+OPCAO_D: Andy Murray
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos cartões amarelos num mesmo jogo implicam a expulsão imediata de um futebolista?
+OPCAO_A: 1
+OPCAO_B: 3
+OPCAO_C: 2
+OPCAO_D: 4
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que desporto sobre o gelo faz uso de vassouras e pedras circulares de granito polido?
+OPCAO_A: Bobsleigh
+OPCAO_B: Skeleton
+OPCAO_C: Curling
+OPCAO_D: Luge
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que país europeu teve origem a fabricante de vestuário e calçado Adidas?
+OPCAO_A: Áustria
+OPCAO_B: Suíça
+OPCAO_C: Alemanha
+OPCAO_D: Suécia
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é a marca global de artigos desportivos reconhecida pelo logótipo Swoosh?
+OPCAO_A: Puma
+OPCAO_B: Reebok
+OPCAO_C: Nike
+OPCAO_D: Asics
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que avançado do Benfica foi galardoado com a Bola de Ouro em 1965?
+OPCAO_A: Mário Coluna
+OPCAO_B: António Simões
+OPCAO_C: Eusébio da Silva Ferreira
+OPCAO_D: José Augusto
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos pontos rende a conversão de um field goal no futebol americano (NFL)?
+OPCAO_A: 1 ponto
+OPCAO_B: 2 pontos
+OPCAO_C: 3 pontos
+OPCAO_D: 6 pontos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que país do continente asiático acolheu os Jogos Olímpicos de Verão de 2008?
+OPCAO_A: Japão
+OPCAO_B: Coreia do Sul
+OPCAO_C: China
+OPCAO_D: Singapura
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é a altura máxima da plataforma nos saltos para a água nos Jogos Olímpicos?
+OPCAO_A: 3 metros
+OPCAO_B: 5 metros
+OPCAO_C: 10 metros
+OPCAO_D: 15 metros
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que piloto de automobilismo brasileiro conquistou três títulos mundiais na Fórmula 1?
+OPCAO_A: Nelson Piquet
+OPCAO_B: Emerson Fittipaldi
+OPCAO_C: Ayrton Senna
+OPCAO_D: Felipe Massa
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o limite de segundos que um guarda-redes pode reter a bola com as mãos segundo a lei?
+OPCAO_A: 4 segundos
+OPCAO_B: 8 segundos
+OPCAO_C: 6 segundos
+OPCAO_D: 10 segundos
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Em que modalidade se disputa a histórica Copa América iniciada em 1851?
+OPCAO_A: Remo
+OPCAO_B: Canoagem
+OPCAO_C: Iatismo (Vela)
+OPCAO_D: Windsurf
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos assaltos (rounds) de três minutos compõem um combate mundial de boxe sénior?
+OPCAO_A: 8 rondas
+OPCAO_B: 10 rondas
+OPCAO_C: 12 rondas
+OPCAO_D: 15 rondas
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o mais antigo clube desportivo de futebol em atividade continuada em Portugal?
+OPCAO_A: FC Porto
+OPCAO_B: Boavista FC
+OPCAO_C: Académica de Coimbra
+OPCAO_D: SL Benfica
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: No críquete, como é denominado o lançador da bola contra a estrutura defendida pelo batedor?
+OPCAO_A: Striker
+OPCAO_B: Pitcher
+OPCAO_C: Bowler
+OPCAO_D: Catcher
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que médio francês foi expulso na final do Campeonato do Mundo de 2006 por agressão a Materazzi?
+OPCAO_A: Thierry Henry
+OPCAO_B: Patrick Vieira
+OPCAO_C: Zinedine Zidane
+OPCAO_D: Franck Ribéry
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que modalidade velocipédica decorre em velódromos ovais de madeira com bicicletas sem mudanças?
+OPCAO_A: BMX
+OPCAO_B: BTT
+OPCAO_C: Ciclismo de Pista
+OPCAO_D: Ciclocrosse
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Quantos timeouts de 1 minuto tem direito cada formação por período num jogo de andebol?
+OPCAO_A: 2 por parte
+OPCAO_B: Nenhum
+OPCAO_C: 1 por parte (máximo 3 no jogo)
+OPCAO_D: 3 por parte
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que prestigiado torneio de golfe premia o seu vencedor com o icónico casaco verde (Green Jacket)?
+OPCAO_A: Open Britânico
+OPCAO_B: US Open
+OPCAO_C: The Masters (Augusta)
+OPCAO_D: PGA Championship
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que país conquistou o ouro olímpico de futebol masculino em 2016 nos Jogos do Rio de Janeiro?
+OPCAO_A: Alemanha
+OPCAO_B: Nigéria
+OPCAO_C: Brasil
+OPCAO_D: Argentina
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que judoca português foi medalha de bronze em dois Jogos Olímpicos consecutivos (-100 kg)?
+OPCAO_A: Nuno Delgado
+OPCAO_B: Telma Monteiro
+OPCAO_C: Jorge Fonseca
+OPCAO_D: Patrícia Sampaio
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que posição do voleibol tem camisola diferente e cumpre apenas tarefas de receção e defesa?
+OPCAO_A: Oposto
+OPCAO_B: Levantador
+OPCAO_C: Líbero
+OPCAO_D: Central
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o estádio nacional histórico que costuma receber a final da Taça de Portugal?
+OPCAO_A: Estádio da Luz
+OPCAO_B: Estádio de Alvalade
+OPCAO_C: Estádio Nacional (Jamor)
+OPCAO_D: Estádio do Dragão
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que lendário jogador dos Chicago Bulls notabilizou o dorsal número 23 na NBA?
+OPCAO_A: Scottie Pippen
+OPCAO_B: Dennis Rodman
+OPCAO_C: Michael Jordan
+OPCAO_D: Steve Kerr
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Qual é o estilo de natação em que os nadadores largam dentro de água de frente para a parede?
+OPCAO_A: Bruços
+OPCAO_B: Mariposa
+OPCAO_C: Costas
+OPCAO_D: Livres (Crawl)
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Com quantas peças no tabuleiro cada jogador começa uma partida de xadrez?
+OPCAO_A: 12 peças
+OPCAO_B: 14 peças
+OPCAO_C: 16 peças
+OPCAO_D: 18 peças
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que histórico clube de futebol de Turim é conhecido popularmente como a Vecchia Signora?
+OPCAO_A: AC Milan
+OPCAO_B: Inter de Milão
+OPCAO_C: Juventus
+OPCAO_D: AS Roma
+CORRETA: C
+
+---
+
+TEMA: Desporto
+PERGUNTA: Que seleção nacional de râguebi venceu o Campeonato do Mundo consecutivamente em 2019 e 2023?
+OPCAO_A: Nova Zelândia
+OPCAO_B: Inglaterra
+OPCAO_C: África do Sul (Springboks)
+OPCAO_D: Austrália
+CORRETA: C
