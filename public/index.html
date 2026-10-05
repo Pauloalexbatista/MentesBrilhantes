@@ -26,6 +26,7 @@
         </div>
       </div>
       <div class="header-actions">
+        <a href="/" id="btnBackToHub" class="btn btn-sm btn-hub" title="Regressar ao Arcade Hub">🕹️ Arcade Hub</a>
         <button id="btnSoundToggle" class="icon-btn" title="Ligar/Desligar Sons">🔊</button>
       </div>
     </header>
@@ -54,14 +55,14 @@
         </div>
 
         <!-- AÇÕES PRINCIPAIS -->
-        <div class="action-buttons">
+        <div class="action-buttons" id="createRoomActions">
           <button id="btnCreateRoom" class="btn btn-primary btn-large">
             <span>✨ Criar Nova Sala</span>
             <small>Cria o jogo e convida amigos</small>
           </button>
         </div>
 
-        <div class="divider">
+        <div class="divider" id="welcomeDivider">
           <span>OU ENTRA NUMA SALA</span>
         </div>
 
@@ -318,6 +319,7 @@
           <button id="btnPlayAgain" class="btn btn-primary btn-large">
             <span>🔄 Jogar Outra Partida</span>
           </button>
+          <a href="/" id="btnGameOverHub" class="btn btn-hub-action"><span>🕹️ Regressar ao Arcade Hub</span></a>
           <button id="btnBackToHome" class="btn btn-secondary">
             <span>Sair para o Menu</span>
           </button>

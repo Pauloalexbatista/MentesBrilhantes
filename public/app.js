@@ -336,8 +336,15 @@ function checkUrlForRoomCode() {
     const codeInput = document.getElementById("roomCodeInput");
     if (codeInput) {
       codeInput.value = roomCodeParam.toUpperCase();
-      showToast(`Código ${roomCodeParam.toUpperCase()} detetado! Insere o teu nome.`);
     }
+    // Quando entra por convite com código/sala definido:
+    // Ocultar a criação de nova sala e o divisor para evitar enganos
+    const createActions = document.getElementById("createRoomActions");
+    const welcomeDivider = document.getElementById("welcomeDivider");
+    if (createActions) createActions.style.display = "none";
+    if (welcomeDivider) welcomeDivider.style.display = "none";
+
+    showToast(`Convite detetado (Sala ${roomCodeParam.toUpperCase()})! Escolhe o teu nome e clica em Entrar.`);
   }
 }
 

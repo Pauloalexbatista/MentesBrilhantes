@@ -963,3 +963,67 @@ input[type="text"]:focus, select:focus {
     grid-template-columns: 1fr 1fr;
   }
 }
+
+
+/* Botao Regressar ao Arcade Hub */
+.btn-hub {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  color: var(--text-main);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  font-weight: 700;
+  transition: var(--transition);
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+}
+
+.btn-hub:hover {
+  background: rgba(99, 102, 241, 0.2);
+  border-color: var(--primary);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.btn-hub-action {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1.5px solid rgba(255, 255, 255, 0.18);
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-weight: 800;
+  padding: 14px 20px;
+  border-radius: var(--radius-md);
+  font-size: 1rem;
+  transition: var(--transition);
+}
+
+.btn-hub-action:hover {
+  background: rgba(99, 102, 241, 0.25);
+  border-color: var(--primary);
+  box-shadow: 0 0 15px var(--primary-glow);
+  transform: translateY(-2px);
+}
+
+/* Ajustes Mobile e Safe Area para opcoes */
+@media (max-width: 639px) {
+  .options-grid {
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .option-btn {
+    padding: 12px 14px;
+    font-size: 0.92rem;
+    min-height: 48px;
+  }
+  .card-question {
+    padding-bottom: 24px;
+  }
+}
