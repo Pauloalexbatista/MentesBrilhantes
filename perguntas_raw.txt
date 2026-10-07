@@ -4995,3 +4995,1403 @@ OPCAO_B: Inglaterra
 OPCAO_C: África do Sul (Springboks)
 OPCAO_D: Austrália
 CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Em que ano foi assinada a Batalha de São Mamede, marco fundamental para a independência?
+OPCAO_A: 1143
+OPCAO_B: 1128
+OPCAO_C: 1179
+OPCAO_D: 1212
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que bula papal de 1179 reconheceu definitivamente Afonso Henriques como Rei de Portugal?
+OPCAO_A: Manifestis Probatum
+OPCAO_B: Inter Caetera
+OPCAO_C: Sublimis Deus
+OPCAO_D: Unam Sanctam
+CORRETA: A
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Qual destas rainhas portuguesas ficou associada ao "Milagre das Rosas"?
+OPCAO_A: D. Filipa de Lencastre
+OPCAO_B: D. Leonor Teles
+OPCAO_C: Rainha Santa Isabel
+OPCAO_D: D. Maria I
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Quem foi o célebre primeiro-ministro de D. José I que liderou a reconstrução pombalina de Lisboa?
+OPCAO_A: Marquês de Pombal
+OPCAO_B: Duque de Palmela
+OPCAO_C: Conde de Oeiras
+OPCAO_D: Passos Manuel
+CORRETA: A
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que fortaleza norte-africana foi conquistada por Portugal em 1415, iniciando a expansão marítima?
+OPCAO_A: Tânger
+OPCAO_B: Ceuta
+OPCAO_C: Ormuz
+OPCAO_D: Goa
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Em que ano ocorreu o regicídio em Lisboa, no qual morreram o rei D. Carlos I e o príncipe D. Luís Filipe?
+OPCAO_A: 1904
+OPCAO_B: 1908
+OPCAO_C: 1910
+OPCAO_D: 1912
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Quem foi o primeiro Presidente eleito da República Portuguesa após a constituição de 1911?
+OPCAO_A: Bernardino Machado
+OPCAO_B: Teófilo Braga
+OPCAO_C: Sidónio Pais
+OPCAO_D: Manuel de Arriaga
+CORRETA: D
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Que tratado firmado em 1373 entre Portugal e Inglaterra é a aliança diplomática mais antiga do mundo ainda em vigor?
+OPCAO_A: Tratado de Windsor
+OPCAO_B: Tratado de Londres
+OPCAO_C: Tratado de Zamora
+OPCAO_D: Tratado de Utrecht
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que navegante português dobrou pela primeira vez o Cabo das Tormentas (depois Cabo da Boa Esperança) em 1488?
+OPCAO_A: Gil Eanes
+OPCAO_B: Bartolomeu Dias
+OPCAO_C: Diogo Cão
+OPCAO_D: Pedro Álvares Cabral
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Qual era o cognome oficial do rei D. Fernando I, cuja morte abriu a crise de sucessão de 1383-1385?
+OPCAO_A: O Eloquente
+OPCAO_B: O Formoso (ou O Inconstante)
+OPCAO_C: O Bravo
+OPCAO_D: O Liberal
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que movimento cívico e militar acabou com a monarquia em Portugal a 5 de Outubro de 1910?
+OPCAO_A: Revolução Liberal
+OPCAO_B: Proclamação da República
+OPCAO_C: Golpe de 28 de Maio
+OPCAO_D: Revolta da Maria da Fonte
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Em que ano decorreu a Batalha das Linhas de Elvas, decisiva na Guerra da Restauração?
+OPCAO_A: 1644
+OPCAO_B: 1659
+OPCAO_C: 1665
+OPCAO_D: 1668
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Quem foi a primeira mulher a exercer o cargo de Primeira-Ministra em Portugal?
+OPCAO_A: Maria de Lourdes Pintasilgo
+OPCAO_B: Manuela Ferreira Leite
+OPCAO_C: Leonor Beleza
+OPCAO_D: Assunção Cristas
+CORRETA: A
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Que general britânico comandou as forças anglo-lusas contra as invasões napoleónicas em Portugal?
+OPCAO_A: General Beresford
+OPCAO_B: Duque de Wellington
+OPCAO_C: General Moore
+OPCAO_D: Almirante Nelson
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Qual destas ordens militares teve a sua sede histórica no Convento de Cristo em Tomar?
+OPCAO_A: Ordem de Avis
+OPCAO_B: Ordem de Santiago
+OPCAO_C: Ordem dos Templários (e Ordem de Cristo)
+OPCAO_D: Ordem de Malta
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Que nobre portuguesa foi assassinada em Coimbra em 1355 por ordem de D. Afonso IV, inspirando lendas e poemas?
+OPCAO_A: Leonor Teles
+OPCAO_B: Inês de Castro
+OPCAO_C: Filipa de Vilhena
+OPCAO_D: Maria da Fonte
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Em que ano aderiu Portugal formalmente à Comunidade Económica Europeia (CEE)?
+OPCAO_A: 1980
+OPCAO_B: 1986
+OPCAO_C: 1992
+OPCAO_D: 1999
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Em que batalha naval em 1509 os portugueses asseguraram o controlo hegemónico das rotas do Oceano Índico?
+OPCAO_A: Batalha de Chaul
+OPCAO_B: Batalha de Diu
+OPCAO_C: Batalha de Lepanto
+OPCAO_D: Batalha de Ormuz
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que capitão liderou o plano de operações militares na Revolução de 25 de Abril de 1974?
+OPCAO_A: Salgueiro Maia
+OPCAO_B: Otelo Saraiva de Carvalho
+OPCAO_C: Vasco Gonçalves
+OPCAO_D: Ramalho Eanes
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Que imperador do Sacro Império ou rei de Espanha anexou a coroa portuguesa em 1580, criando a União Ibérica?
+OPCAO_A: Filipe I (II de Espanha)
+OPCAO_B: Filipe II (III de Espanha)
+OPCAO_C: Carlos I
+OPCAO_D: Fernando VII
+CORRETA: A
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Que antiga civilização desenvolveu a escrita cuneiforme entre os rios Tigre e Eufrates?
+OPCAO_A: Sumérios (Mesopotâmia)
+OPCAO_B: Fenícios
+OPCAO_C: Egípcios
+OPCAO_D: Persas
+CORRETA: A
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Qual destas batalhas em 331 a.C. marcou a derrota decisiva do imperador persa Dario III frente a Alexandre, o Grande?
+OPCAO_A: Batalha de Termópilas
+OPCAO_B: Batalha de Queroneia
+OPCAO_C: Batalha de Gaugamela
+OPCAO_D: Batalha de Maratona
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Em que ano ocorreu o ataque militar japonês a Pearl Harbor, forçando a entrada dos EUA na 2ª Guerra Mundial?
+OPCAO_A: 1939
+OPCAO_B: 1941
+OPCAO_C: 1943
+OPCAO_D: 1945
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que documento assinado em 1215 pelo rei João de Inglaterra limitou o poder absoluto da monarquia britânica?
+OPCAO_A: Habeas Corpus
+OPCAO_B: Bill of Rights
+OPCAO_C: Magna Carta
+OPCAO_D: Edito de Nantes
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Que famosa cidade romana foi soterrada pelas cinzas do vulcão Vesúvio no ano 79 d.C.?
+OPCAO_A: Pompeia
+OPCAO_B: Óstia
+OPCAO_C: Ravena
+OPCAO_D: Siracusa
+CORRETA: A
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Quem liderou a Revolução Russa de outubro de 1917 e fundou o Estado Soviético?
+OPCAO_A: Josef Estaline
+OPCAO_B: Vladimir Lenine
+OPCAO_C: Leon Trotsky
+OPCAO_D: Mikhail Bakunin
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Em que data comemora anualmente os Estados Unidos a sua Declaração de Independência?
+OPCAO_A: 14 de Julho
+OPCAO_B: 4 de Julho
+OPCAO_C: 11 de Setembro
+OPCAO_D: 25 de Dezembro
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que epidemia assolou a Europa no século XIV (1347-1351), dizimando cerca de um terço da sua população?
+OPCAO_A: Cólera
+OPCAO_B: Gripe Espanhola
+OPCAO_C: Peste Negra
+OPCAO_D: Varíola
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Quem foi a jovem camponesa francesa executada na fogueira que liderou tropas na Guerra dos Cem Anos?
+OPCAO_A: Maria Antonieta
+OPCAO_B: Joana d'Arc
+OPCAO_C: Catarina de Médici
+OPCAO_D: Leonor da Aquitânia
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Em que conferência em 1884-1885 as potências europeias formalizaram a divisão colonial do continente africano?
+OPCAO_A: Conferência de Versalhes
+OPCAO_B: Conferência de Viena
+OPCAO_C: Conferência de Berlim
+OPCAO_D: Conferência de Yalta
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Que célebre líder militar macedónio conquistou um império que se estendeu da Grécia até ao rio Indo?
+OPCAO_A: Filipe II
+OPCAO_B: Ptolomeu I
+OPCAO_C: Alexandre, o Grande
+OPCAO_D: Aníbal Barca
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que czar russo foi responsável por fundar a cidade de São Petersburgo e ocidentalizar o império no século XVIII?
+OPCAO_A: Ivan, o Terrível
+OPCAO_B: Pedro, o Grande
+OPCAO_C: Nicolau II
+OPCAO_D: Alexandre I
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: O que desencadeou diretamente o início da Primeira Guerra Mundial em 1914?
+OPCAO_A: O afundamento do Lusitania
+OPCAO_B: O assassinato do Arquiduque Francisco Fernando
+OPCAO_C: A invasão da Bélgica
+OPCAO_D: O motim dos marinheiros russos
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que dinastia islâmica governou o Califado a partir de Damasco entre os anos 661 e 750?
+OPCAO_A: Dinastia Abássida
+OPCAO_B: Dinastia Omíada
+OPCAO_C: Dinastia Otomana
+OPCAO_D: Dinastia Fatímida
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Em que cidade japonesa foi lançada a primeira bomba atómica da história em agosto de 1945?
+OPCAO_A: Nagasaki
+OPCAO_B: Tóquio
+OPCAO_C: Hiroxima
+OPCAO_D: Quioto
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que batalha naval em 1805 consolidou a supremacia naval britânica sobre as frotas combinadas de França e Espanha?
+OPCAO_A: Batalha de Waterloo
+OPCAO_B: Batalha de Trafalgar
+OPCAO_C: Batalha de Jutlândia
+OPCAO_D: Batalha de Navarino
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Qual era o título supremo detido pelos governantes imperiais do Antigo Egito?
+OPCAO_A: Sultão
+OPCAO_B: Xá
+OPCAO_C: Faraó
+OPCAO_D: Khan
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Em que ano ocorreu o colapso formal e a dissolução da União Soviética (URSS)?
+OPCAO_A: 1989
+OPCAO_B: 1990
+OPCAO_C: 1991
+OPCAO_D: 1993
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Que general cartaginês cruzou os Alpes com elefantes de guerra para combater Roma na 2ª Guerra Púnica?
+OPCAO_A: Aníbal Barca
+OPCAO_B: Asdrúbal
+OPCAO_C: Amílcar Barca
+OPCAO_D: Cipião Africano
+CORRETA: A
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que tratado internacional assinado em 1919 fixou as duras condições de paz impostas à Alemanha após a 1ª Guerra Mundial?
+OPCAO_A: Tratado de Genebra
+OPCAO_B: Tratado de Brest-Litovsk
+OPCAO_C: Tratado de Versalhes
+OPCAO_D: Tratado de Maastricht
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Quem não tem cão, ..."
+OPCAO_A: ...fica em casa
+OPCAO_B: ...caça com gato
+OPCAO_C: ...vigia a quinta
+OPCAO_D: ...dorme sozinho
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Adivinha: "O que é que tem coroa mas não é rei, e tem escamas mas não é peixe?"
+OPCAO_A: O abacaxi (ananás)
+OPCAO_B: A pinha
+OPCAO_C: A romã
+OPCAO_D: O dragão
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Completa o provérbio: "Para grandes males, ..."
+OPCAO_A: ...grandes remédios
+OPCAO_B: ...muitas queixas
+OPCAO_C: ...poucas palavras
+OPCAO_D: ...espera sentado
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Adivinha: "O que é que nasce grande e morre pequeno?"
+OPCAO_A: A árvore
+OPCAO_B: A montanha
+OPCAO_C: O lápis
+OPCAO_D: O rio
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Mais vale um pássaro na mão..."
+OPCAO_A: ...que dois a voar
+OPCAO_B: ...que três no ninho
+OPCAO_C: ...que vê-lo fugir
+OPCAO_D: ...que ouvir cantar
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "O que é que tem capa mas não é padre, tem folhas mas não é árvore?"
+OPCAO_A: A couve
+OPCAO_B: O livro
+OPCAO_C: O caderno de rascunhos
+OPCAO_D: A mesa
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Gato escaldado..."
+OPCAO_A: ...corre depressa
+OPCAO_B: ...fica miando
+OPCAO_C: ...de água fria tem medo
+OPCAO_D: ...nunca mais caça ratos
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Adivinha: "O que é que enche uma casa inteira, mas não ocupa lugar?"
+OPCAO_A: O fumo
+OPCAO_B: A luz
+OPCAO_C: O perfume
+OPCAO_D: A voz
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Longe da vista, ..."
+OPCAO_A: ...perto do perigo
+OPCAO_B: ...longe do coração
+OPCAO_C: ...sempre esquecido
+OPCAO_D: ...mais depressa se corre
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "Quanto mais seca, mais molhada fica. O que é?"
+OPCAO_A: A esponja
+OPCAO_B: A toalha
+OPCAO_C: A relva
+OPCAO_D: A nuvem
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "A cavalo dado..."
+OPCAO_A: ...não se agradece
+OPCAO_B: ...não se olha o dente
+OPCAO_C: ...monta-se logo
+OPCAO_D: ...cuida-se bem
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Adivinha: "O que é que sobe quando a chuva desce?"
+OPCAO_A: O nível do rio
+OPCAO_B: O guarda-chuva
+OPCAO_C: O vapor
+OPCAO_D: O relâmpago
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Cada macaco..."
+OPCAO_A: ...come a sua banana
+OPCAO_B: ...salta onde quer
+OPCAO_C: ...no seu galho
+OPCAO_D: ...vigia a floresta
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "Tem cabeça, tem dente, não é bicho e nem é gente. O que é?"
+OPCAO_A: O alho
+OPCAO_B: O serrote
+OPCAO_C: O pente
+OPCAO_D: A chave
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Completa o provérbio: "Vozes de burro..."
+OPCAO_A: ...ninguém quer ouvir
+OPCAO_B: ...não chegam ao céu
+OPCAO_C: ...assustam o gado
+OPCAO_D: ...perdem-se no campo
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "O que é que pertence a ti, mas as outras pessoas usam muito mais do que tu?"
+OPCAO_A: O teu telemóvel
+OPCAO_B: O teu casaco
+OPCAO_C: O teu nome
+OPCAO_D: O teu dinheiro
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "O saber..."
+OPCAO_A: ...pesa muito
+OPCAO_B: ...dá trabalho
+OPCAO_C: ...não ocupa lugar
+OPCAO_D: ...tarda mas chega
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Adivinha: "O que é que é surdo e mudo, mas conta tudo?"
+OPCAO_A: O espelho
+OPCAO_B: O retrato
+OPCAO_C: O livro
+OPCAO_D: O segredo
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Quem semeia ventos, ..."
+OPCAO_A: ...colhe tempestades
+OPCAO_B: ...perde as sementes
+OPCAO_C: ...fica no escuro
+OPCAO_D: ...vive com frio
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Adivinha: "Tenho cidades, mas não tenho casas. Tenho montanhas, mas não tenho árvores. Tenho água, mas não peixes. O que sou?"
+OPCAO_A: Um mapa
+OPCAO_B: Um deserto
+OPCAO_C: Um globo espacial
+OPCAO_D: Um quadro a óleo
+CORRETA: A
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual é o único mamífero verdadeiramente capaz de voo batido e sustentado?
+OPCAO_A: Esquilo-voador
+OPCAO_B: Morcego
+OPCAO_C: Lémure-voador
+OPCAO_D: Petauro-do-açúcar
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Qual é o animal vertebrado que detém a maior esperança de vida conhecida, podendo ultrapassar 300 anos?
+OPCAO_A: Tartaruga-das-galápagos
+OPCAO_B: Baleia-da-gronelândia
+OPCAO_C: Tubarão-da-gronelândia
+OPCAO_D: Peixe-rei-do-ártico
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: De que classe de animais fazem parte os sapos e as rãs?
+OPCAO_A: Répteis
+OPCAO_B: Anfíbios
+OPCAO_C: Peixes
+OPCAO_D: Insetos
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Que designação biológica é dada aos animais cuja temperatura corporal varia com a do meio ambiente?
+OPCAO_A: Homeotérmicos
+OPCAO_B: Endotérmicos
+OPCAO_C: Poiquilotérmicos (ou Ectotérmicos)
+OPCAO_D: Osmotróficos
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual é o principal alimento na dieta do Panda-gigante na natureza?
+OPCAO_A: Eucalipto
+OPCAO_B: Bambu
+OPCAO_C: Frutos silvestres
+OPCAO_D: Raízes aquáticas
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Médio
+PERGUNTA: Que órgão sensorial especializado na língua das cobras permite captar partículas odoríferas no ar?
+OPCAO_A: Órgão de Jacobson (vomeronasal)
+OPCAO_B: Linha lateral
+OPCAO_C: Fosseta loreal
+OPCAO_D: Ampola de Lorenzini
+CORRETA: A
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual é o maior pássaro vivo do planeta Terra?
+OPCAO_A: Albatroz-errante
+OPCAO_B: Emu
+OPCAO_C: Condor-dos-andes
+OPCAO_D: Avestruz
+CORRETA: D
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Que criatura marinha invertebrada possui três corações e sangue de cor azul devido à hemocianina?
+OPCAO_A: Lula-gigante
+OPCAO_B: Polvo
+OPCAO_C: Medusa
+OPCAO_D: Ouriço-do-mar
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Como se chamam os dentes caninos protuberantes e comparsas de marfim dos elefantes?
+OPCAO_A: Presas
+OPCAO_B: Incisivos
+OPCAO_C: Chifres
+OPCAO_D: Quelíceras
+CORRETA: A
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Quantos compartimentos estomacais tem o aparelho digestivo de uma vaca e outros ruminantes?
+OPCAO_A: 2
+OPCAO_B: 3
+OPCAO_C: 4
+OPCAO_D: 5
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual é a principal característica que define a reprodução dos mamíferos marsupiais (como os cangurus)?
+OPCAO_A: Botam ovos com casca rija
+OPCAO_B: Nascem imaturos e completam o desenvolvimento numa bolsa (marsúpio)
+OPCAO_C: Não produzem leite para as crias
+OPCAO_D: A gestação ocorre integralmente dentro de ovos internos
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Qual é o animal terrestre com a mordida com maior força registada pela ciência?
+OPCAO_A: Leão-africano
+OPCAO_B: Tubarão-branco
+OPCAO_C: Crocodilo-de-água-salgada
+OPCAO_D: Hiena-malhada
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Que processo biológico transforma uma lagarta numa borboleta adulta?
+OPCAO_A: Osmose
+OPCAO_B: Metamorfose
+OPCAO_C: Ecdise
+OPCAO_D: Bipartição
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Médio
+PERGUNTA: De que se alimentam os animais chamados hematófagos?
+OPCAO_A: Fruta madura
+OPCAO_B: Sangue
+OPCAO_C: Folhas e raízes
+OPCAO_D: Madeira morta
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Onde se localizam as glândulas de veneno na maioria das serpentes peçonhentas?
+OPCAO_A: No estômago
+OPCAO_B: Na ponta da cauda
+OPCAO_C: Na cabeça (atrás dos olhos)
+OPCAO_D: Por baixo da língua
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Que pequeno invertebrado microscópico é famoso por resistir a temperaturas extremas, vácuo espacial e radiação?
+OPCAO_A: Rotífero
+OPCAO_B: Tardígrado (urso-d'água)
+OPCAO_C: Nematódeo
+OPCAO_D: Paramecium
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: As abelhas usam que produto vegetal doce recolhido das flores para fazer mel?
+OPCAO_A: Seiva bruta
+OPCAO_B: Pólen seco
+OPCAO_C: Néctar
+OPCAO_D: Clorofila
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Que nome se dá à emissão de luz fria por animais como pirilampos e certas medusas?
+OPCAO_A: Fosforescência estática
+OPCAO_B: Bioluminescência
+OPCAO_C: Incandescência
+OPCAO_D: Termoluminescência
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Médio
+PERGUNTA: Quantas câmaras tem o coração da maioria dos répteis (à exceção dos crocodilianos)?
+OPCAO_A: 2 câmaras
+OPCAO_B: 3 câmaras
+OPCAO_C: 4 câmaras
+OPCAO_D: Apenas 1 ventrículo isolado
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: A baleia-azul alimenta-se principalmente de que minúsculos crustáceos marinhos?
+OPCAO_A: Copépodes de areia
+OPCAO_B: Krill
+OPCAO_C: Anfípodes
+OPCAO_D: Artemia
+CORRETA: B
+
+---
+TEMA: Cultura Geral
+DIFICULDADE: Fácil
+PERGUNTA: Quantos minutos tem uma hora e meia?
+OPCAO_A: 75 minutos
+OPCAO_B: 90 minutos
+OPCAO_C: 100 minutos
+OPCAO_D: 120 minutos
+CORRETA: B
+
+---
+TEMA: Cultura Geral
+DIFICULDADE: Difícil
+PERGUNTA: Em que museu em São Petersburgo se encontra uma das maiores coleções de arte do mundo?
+OPCAO_A: Hermitage
+OPCAO_B: Louvre
+OPCAO_C: Rijksmuseum
+OPCAO_D: Guggenheim
+CORRETA: A
+
+---
+TEMA: Geografia
+DIFICULDADE: Fácil
+PERGUNTA: Em que país se situam as famosas ruínas incas de Ollantaytambo e Machu Picchu?
+OPCAO_A: Bolívia
+OPCAO_B: Equador
+OPCAO_C: Peru
+OPCAO_D: Colômbia
+CORRETA: C
+
+---
+TEMA: Geografia
+DIFICULDADE: Difícil
+PERGUNTA: Qual é o país do mundo que tem o maior número de fusos horários oficiais contínuos e ultramarinos?
+OPCAO_A: Rússia
+OPCAO_B: Estados Unidos
+OPCAO_C: França (devido aos territórios ultramarinos)
+OPCAO_D: Reino Unido
+CORRETA: C
+
+---
+TEMA: Desporto
+DIFICULDADE: Fácil
+PERGUNTA: No futebol, com que parte do corpo os jogadores de campo não podem jogar a bola deliberadamente?
+OPCAO_A: Cabeça
+OPCAO_B: Braços e mãos
+OPCAO_C: Coxa
+OPCAO_D: Peito
+CORRETA: B
+
+---
+TEMA: Desporto
+DIFICULDADE: Difícil
+PERGUNTA: Quantos pontos de contacto no solo com os pés e mãos tem um corredor de atletismo na largada em blocos?
+OPCAO_A: 2 pontos
+OPCAO_B: 3 pontos
+OPCAO_C: 4 pontos
+OPCAO_D: 5 pontos (incluindo joelho no início)
+CORRETA: D
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Fácil
+PERGUNTA: Que famoso ratinho da Disney estreou na curta-metragem Steamboat Willie em 1928?
+OPCAO_A: Mickey Mouse
+OPCAO_B: Pato Donald
+OPCAO_C: Pateta
+OPCAO_D: Pluto
+CORRETA: A
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Difícil
+PERGUNTA: Quem realizou o épico de ficção científica Metropolis em 1927?
+OPCAO_A: F.W. Murnau
+OPCAO_B: Fritz Lang
+OPCAO_C: Robert Wiene
+OPCAO_D: Sergei Eisenstein
+CORRETA: B
+
+---
+TEMA: Geografia
+DIFICULDADE: Fácil
+PERGUNTA: Qual é o maior lago de África por área de superfície?
+OPCAO_A: Lago Tanganica
+OPCAO_B: Lago Niassa
+OPCAO_C: Lago Vitória
+OPCAO_D: Lago Chade
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Como se chamavam os barcos típicos de madeira com velas quadradas e latinas usados nos Descobrimentos?
+OPCAO_A: Galeões
+OPCAO_B: Fragatas
+OPCAO_C: Caravelas
+OPCAO_D: Naus de linha
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Quem foi o primeiro Rei de Portugal?
+OPCAO_A: D. Dinis
+OPCAO_B: D. Afonso Henriques
+OPCAO_C: D. João I
+OPCAO_D: D. Manuel I
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Em que ano se deu a Revolução dos Cravos que pôs fim à ditadura do Estado Novo?
+OPCAO_A: 1910
+OPCAO_B: 1968
+OPCAO_C: 1974
+OPCAO_D: 1986
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Em que ano foi assinado o Tratado de Tordesilhas entre Portugal e Castela?
+OPCAO_A: 1494
+OPCAO_B: 1415
+OPCAO_C: 1500
+OPCAO_D: 1482
+CORRETA: A
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que rei português desapareceu misteriosamente na Batalha de Alcácer-Quibir em 1578?
+OPCAO_A: D. Pedro I
+OPCAO_B: D. Sebastião
+OPCAO_C: D. Duarte
+OPCAO_D: D. Miguel
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Qual destas figuras militares liderou as tropas portuguesas na vitória de Aljubarrota em 1385?
+OPCAO_A: Marquês de Pombal
+OPCAO_B: D. Nuno Álvares Pereira
+OPCAO_C: Afonso de Albuquerque
+OPCAO_D: Fernão Mendes Pinto
+CORRETA: B
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Médio
+PERGUNTA: Em que ano foi proclamada a Primeira República Portuguesa?
+OPCAO_A: 1820
+OPCAO_B: 1890
+OPCAO_C: 1910
+OPCAO_D: 1926
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Em que ano ocorreu o terramoto devastador que destruiu grande parte de Lisboa?
+OPCAO_A: 1755
+OPCAO_B: 1640
+OPCAO_C: 1807
+OPCAO_D: 1700
+CORRETA: A
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Difícil
+PERGUNTA: Que monarca governava Portugal durante a Restauração da Independência em 1640?
+OPCAO_A: D. Afonso VI
+OPCAO_B: D. José I
+OPCAO_C: D. João IV
+OPCAO_D: D. Pedro II
+CORRETA: C
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Fácil
+PERGUNTA: Que navegador português liderou a esquadra que alcançou o Brasil em 1500?
+OPCAO_A: Vasco da Gama
+OPCAO_B: Bartolomeu Dias
+OPCAO_C: Fernão de Magalhães
+OPCAO_D: Pedro Álvares Cabral
+CORRETA: D
+
+---
+TEMA: História de Portugal
+DIFICULDADE: Médio
+PERGUNTA: Qual era a alcunha do rei D. Dinis?
+OPCAO_A: O Conquistador
+OPCAO_B: O Lavrador
+OPCAO_C: O Desejado
+OPCAO_D: O Povoador
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Em que país se situava a antiga civilização dos Faraós e das grandes pirâmides?
+OPCAO_A: Grécia
+OPCAO_B: Egito
+OPCAO_C: Itália
+OPCAO_D: Mesopotâmia
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Em que ano caiu o Muro de Berlim?
+OPCAO_A: 1989
+OPCAO_B: 1991
+OPCAO_C: 1975
+OPCAO_D: 1968
+CORRETA: A
+
+---
+TEMA: História Mundial
+DIFICULDADE: Médio
+PERGUNTA: Quem foi o primeiro imperador de Roma após o fim da República?
+OPCAO_A: Júlio César
+OPCAO_B: Nero
+OPCAO_C: César Augusto
+OPCAO_D: Marco Aurélio
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Que conflito armado durou de 1337 a 1453 entre os reinos da Inglaterra e da França?
+OPCAO_A: Guerra das Rosas
+OPCAO_B: Guerra dos Trinta Anos
+OPCAO_C: Guerra dos Sete Anos
+OPCAO_D: Guerra dos Cem Anos
+CORRETA: D
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Que acontecimento marcou o início formal da Segunda Guerra Mundial em 1939?
+OPCAO_A: Invasão da Polónia pela Alemanha
+OPCAO_B: Ataque a Pearl Harbor
+OPCAO_C: Queda de Paris
+OPCAO_D: Batalha de Estalinegrado
+CORRETA: A
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: Em que ano começou a Revolução Francesa com a Tomada da Bastilha?
+OPCAO_A: 1776
+OPCAO_B: 1789
+OPCAO_C: 1804
+OPCAO_D: 1799
+CORRETA: B
+
+---
+TEMA: História Mundial
+DIFICULDADE: Médio
+PERGUNTA: Que civilização pré-colombiana construiu a cidadela de Machu Picchu nos Andes?
+OPCAO_A: Asteca
+OPCAO_B: Maia
+OPCAO_C: Inca
+OPCAO_D: Olmeca
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Difícil
+PERGUNTA: A queda de qual cidade em 1453 marcou o fim do Império Bizantino?
+OPCAO_A: Alexandria
+OPCAO_B: Atenas
+OPCAO_C: Constantinopla
+OPCAO_D: Roma
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Fácil
+PERGUNTA: Que ativista liderou a luta contra o Apartheid e foi o primeiro presidente negro da África do Sul?
+OPCAO_A: Desmond Tutu
+OPCAO_B: Kofi Annan
+OPCAO_C: Nelson Mandela
+OPCAO_D: Patrice Lumumba
+CORRETA: C
+
+---
+TEMA: História Mundial
+DIFICULDADE: Médio
+PERGUNTA: Qual foi a primeira dinastia imperial a unificar a China e iniciar a construção da Grande Muralha?
+OPCAO_A: Dinastia Han
+OPCAO_B: Dinastia Qin
+OPCAO_C: Dinastia Ming
+OPCAO_D: Dinastia Tang
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Grão a grão, ..."
+OPCAO_A: ...fica a terra cheia
+OPCAO_B: ...enche a galinha o papo
+OPCAO_C: ...se constrói um saco
+OPCAO_D: ...come o passarinho
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Adivinha: "O que é que quanto mais se tira, maior fica?"
+OPCAO_A: Um buraco
+OPCAO_B: Um novelo
+OPCAO_C: O poço
+OPCAO_D: O tempo
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Deitar cedo e cedo erguer, ..."
+OPCAO_A: ...dá saúde e faz crescer
+OPCAO_B: ...não dá trabalho a ninguém
+OPCAO_C: ...aproveita a luz do dia
+OPCAO_D: ...faz a vida render
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "Tem dentes mas não come, tem barba mas não é homem. O que é?"
+OPCAO_A: O pente
+OPCAO_B: O serrote
+OPCAO_C: O alho
+OPCAO_D: O milho
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Quem tem boca vai a..."
+OPCAO_A: ...Lisboa
+OPCAO_B: ...Roma
+OPCAO_C: ...Paris
+OPCAO_D: ...todo o lado
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Difícil
+PERGUNTA: Adivinha: "O que é, o que é: anda com os pés na cabeça?"
+OPCAO_A: O piolho
+OPCAO_B: O chapéu
+OPCAO_C: A ideia
+OPCAO_D: O carrapato
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Água mole em pedra dura, ..."
+OPCAO_A: ...faz caminho seguro
+OPCAO_B: ...tanto bate até que fura
+OPCAO_C: ...nunca para de correr
+OPCAO_D: ...molha tudo à sua volta
+CORRETA: B
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "O que é que passa a vida a girar mas nunca sai do mesmo sítio?"
+OPCAO_A: O relógio
+OPCAO_B: O pião
+OPCAO_C: A roda gigante
+OPCAO_D: O moinho
+CORRETA: A
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Fácil
+PERGUNTA: Completa o provérbio: "Em casa de ferreiro, ..."
+OPCAO_A: ...o carvão é barato
+OPCAO_B: ...trabalha-se o dia inteiro
+OPCAO_C: ...espeto de pau
+OPCAO_D: ...martelo de ferro
+CORRETA: C
+
+---
+TEMA: Provérbios e Adivinhas
+DIFICULDADE: Médio
+PERGUNTA: Adivinha: "Cai de pé e corre deitado. O que é?"
+OPCAO_A: O vento
+OPCAO_B: O rio
+OPCAO_C: A chuva
+OPCAO_D: O caracol
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual é o maior mamífero existente no planeta?
+OPCAO_A: Elefante-africano
+OPCAO_B: Tubarão-baleia
+OPCAO_C: Baleia-azul
+OPCAO_D: Cachalote
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Quantas patas tem uma aranha adulta?
+OPCAO_A: 6
+OPCAO_B: 8
+OPCAO_C: 10
+OPCAO_D: 12
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Médio
+PERGUNTA: Quantos corações tem um polvo?
+OPCAO_A: 1
+OPCAO_B: 2
+OPCAO_C: 3
+OPCAO_D: 4
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Que mamífero semiaquático da Austrália bota ovos e produz veneno nos membros posteriores?
+OPCAO_A: Coala
+OPCAO_B: Ornitorrinco
+OPCAO_C: Vombate
+OPCAO_D: Diabo-da-tasmânia
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual é a ave mais rápida do mundo em mergulho aéreo?
+OPCAO_A: Águia-real
+OPCAO_B: Falcão-peregrino
+OPCAO_C: Albatroz
+OPCAO_D: Gaivota
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Médio
+PERGUNTA: Que animal tem a língua tão comprida que pode chegar a limpar as próprias orelhas?
+OPCAO_A: Girafa
+OPCAO_B: Camaleão
+OPCAO_C: Tamanduá
+OPCAO_D: Hipopótamo
+CORRETA: A
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Os tubarões têm o esqueleto inteiramente formado por que substância (sem osso verdadeiro)?
+OPCAO_A: Queratina
+OPCAO_B: Cartilagem
+OPCAO_C: Quitina
+OPCAO_D: Carbonato de cálcio
+CORRETA: B
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Fácil
+PERGUNTA: Qual destes animais hiberna tipicamente durante o inverno nos climas frios?
+OPCAO_A: Tigre
+OPCAO_B: Camelo
+OPCAO_C: Urso-pardo
+OPCAO_D: Zebra
+CORRETA: C
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Médio
+PERGUNTA: Que animal marinho macho incuba os ovos e dá à luz as crias na sua bolsa?
+OPCAO_A: Cavalo-marinho
+OPCAO_B: Golfinho
+OPCAO_C: Estrela-do-mar
+OPCAO_D: Peixe-palhaço
+CORRETA: A
+
+---
+TEMA: Ciência e Animais
+DIFICULDADE: Difícil
+PERGUNTA: Qual destas cobras é considerada a serpente venenosa mais comprida do mundo?
+OPCAO_A: Mamba-negra
+OPCAO_B: Cobra-real
+OPCAO_C: Víbora-do-gabão
+OPCAO_D: Sucuri
+CORRETA: B
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Fácil
+PERGUNTA: Que famoso agente secreto britânico tem licença para matar e o código 007?
+OPCAO_A: Ethan Hunt
+OPCAO_B: Jason Bourne
+OPCAO_C: James Bond
+OPCAO_D: Jack Reacher
+CORRETA: C
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Fácil
+PERGUNTA: Quem cantava o êxito de rock clássico "Bohemian Rhapsody"?
+OPCAO_A: Queen
+OPCAO_B: Pink Floyd
+OPCAO_C: The Beatles
+OPCAO_D: Led Zeppelin
+CORRETA: A
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Difícil
+PERGUNTA: Que realizador dirigiu clássicos do cinema como "Vertigo" e "Janela Indiscreta"?
+OPCAO_A: Billy Wilder
+OPCAO_B: Stanley Kubrick
+OPCAO_C: Alfred Hitchcock
+OPCAO_D: Orson Welles
+CORRETA: C
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Médio
+PERGUNTA: Que instrumento musical é tradicionalmente associado ao mestre do fado Carlos Paredes?
+OPCAO_A: Guitarra portuguesa
+OPCAO_B: Viola de fado
+OPCAO_C: Cavaquinho
+OPCAO_D: Bandolim
+CORRETA: A
+
+---
+TEMA: Música e Cinema
+DIFICULDADE: Difícil
+PERGUNTA: Que filme venceu o primeiro Óscar de Melhor Filme de Animação em 2002?
+OPCAO_A: Monstros e Companhia
+OPCAO_B: Shrek
+OPCAO_C: A Viagem de Chihiro
+OPCAO_D: Toy Story 2
+CORRETA: B
+
+---
+TEMA: Geografia
+DIFICULDADE: Fácil
+PERGUNTA: Qual é a capital de Espanha?
+OPCAO_A: Barcelona
+OPCAO_B: Sevilha
+OPCAO_C: Valência
+OPCAO_D: Madrid
+CORRETA: D
+
+---
+TEMA: Geografia
+DIFICULDADE: Difícil
+PERGUNTA: Que país africano tem como capital a cidade de Ouagadougou?
+OPCAO_A: Burkina Faso
+OPCAO_B: Mali
+OPCAO_C: Níger
+OPCAO_D: Chade
+CORRETA: A
+
+---
+TEMA: Geografia
+DIFICULDADE: Médio
+PERGUNTA: Qual é o maior arquipélago em número de ilhas do mundo?
+OPCAO_A: Filipinas
+OPCAO_B: Indonésia
+OPCAO_C: Maldivas
+OPCAO_D: Japão
+CORRETA: B
+
+---
+TEMA: Desporto
+DIFICULDADE: Fácil
+PERGUNTA: Em que país nasceu o futebolista Cristiano Ronaldo?
+OPCAO_A: Brasil
+OPCAO_B: Espanha
+OPCAO_C: Portugal
+OPCAO_D: França
+CORRETA: C
+
+---
+TEMA: Desporto
+DIFICULDADE: Difícil
+PERGUNTA: Em que ano organizou e venceu a Inglaterra o seu único Campeonato do Mundo de futebol?
+OPCAO_A: 1958
+OPCAO_B: 1966
+OPCAO_C: 1970
+OPCAO_D: 1974
+CORRETA: B

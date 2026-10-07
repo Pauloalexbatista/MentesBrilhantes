@@ -6498,5 +6498,1825 @@
       "Austrália"
     ],
     "answer": "África do Sul (Springboks)"
+  },
+  {
+    "id": "q_501",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Em que ano foi assinada a Batalha de São Mamede, marco fundamental para a independência?",
+    "options": [
+      "1143",
+      "1128",
+      "1179",
+      "1212"
+    ],
+    "answer": "1128"
+  },
+  {
+    "id": "q_502",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que bula papal de 1179 reconheceu definitivamente Afonso Henriques como Rei de Portugal?",
+    "options": [
+      "Manifestis Probatum",
+      "Inter Caetera",
+      "Sublimis Deus",
+      "Unam Sanctam"
+    ],
+    "answer": "Manifestis Probatum"
+  },
+  {
+    "id": "q_503",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Qual destas rainhas portuguesas ficou associada ao \"Milagre das Rosas\"?",
+    "options": [
+      "D. Filipa de Lencastre",
+      "D. Leonor Teles",
+      "Rainha Santa Isabel",
+      "D. Maria I"
+    ],
+    "answer": "Rainha Santa Isabel"
+  },
+  {
+    "id": "q_504",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Quem foi o célebre primeiro-ministro de D. José I que liderou a reconstrução pombalina de Lisboa?",
+    "options": [
+      "Marquês de Pombal",
+      "Duque de Palmela",
+      "Conde de Oeiras",
+      "Passos Manuel"
+    ],
+    "answer": "Marquês de Pombal"
+  },
+  {
+    "id": "q_505",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que fortaleza norte-africana foi conquistada por Portugal em 1415, iniciando a expansão marítima?",
+    "options": [
+      "Tânger",
+      "Ceuta",
+      "Ormuz",
+      "Goa"
+    ],
+    "answer": "Ceuta"
+  },
+  {
+    "id": "q_506",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Em que ano ocorreu o regicídio em Lisboa, no qual morreram o rei D. Carlos I e o príncipe D. Luís Filipe?",
+    "options": [
+      "1904",
+      "1908",
+      "1910",
+      "1912"
+    ],
+    "answer": "1908"
+  },
+  {
+    "id": "q_507",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Quem foi o primeiro Presidente eleito da República Portuguesa após a constituição de 1911?",
+    "options": [
+      "Bernardino Machado",
+      "Teófilo Braga",
+      "Sidónio Pais",
+      "Manuel de Arriaga"
+    ],
+    "answer": "Manuel de Arriaga"
+  },
+  {
+    "id": "q_508",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Que tratado firmado em 1373 entre Portugal e Inglaterra é a aliança diplomática mais antiga do mundo ainda em vigor?",
+    "options": [
+      "Tratado de Windsor",
+      "Tratado de Londres",
+      "Tratado de Zamora",
+      "Tratado de Utrecht"
+    ],
+    "answer": "Tratado de Londres"
+  },
+  {
+    "id": "q_509",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que navegante português dobrou pela primeira vez o Cabo das Tormentas (depois Cabo da Boa Esperança) em 1488?",
+    "options": [
+      "Gil Eanes",
+      "Bartolomeu Dias",
+      "Diogo Cão",
+      "Pedro Álvares Cabral"
+    ],
+    "answer": "Bartolomeu Dias"
+  },
+  {
+    "id": "q_510",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Qual era o cognome oficial do rei D. Fernando I, cuja morte abriu a crise de sucessão de 1383-1385?",
+    "options": [
+      "O Eloquente",
+      "O Formoso (ou O Inconstante)",
+      "O Bravo",
+      "O Liberal"
+    ],
+    "answer": "O Formoso (ou O Inconstante)"
+  },
+  {
+    "id": "q_511",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que movimento cívico e militar acabou com a monarquia em Portugal a 5 de Outubro de 1910?",
+    "options": [
+      "Revolução Liberal",
+      "Proclamação da República",
+      "Golpe de 28 de Maio",
+      "Revolta da Maria da Fonte"
+    ],
+    "answer": "Proclamação da República"
+  },
+  {
+    "id": "q_512",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Em que ano decorreu a Batalha das Linhas de Elvas, decisiva na Guerra da Restauração?",
+    "options": [
+      "1644",
+      "1659",
+      "1665",
+      "1668"
+    ],
+    "answer": "1659"
+  },
+  {
+    "id": "q_513",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Quem foi a primeira mulher a exercer o cargo de Primeira-Ministra em Portugal?",
+    "options": [
+      "Maria de Lourdes Pintasilgo",
+      "Manuela Ferreira Leite",
+      "Leonor Beleza",
+      "Assunção Cristas"
+    ],
+    "answer": "Maria de Lourdes Pintasilgo"
+  },
+  {
+    "id": "q_514",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Que general britânico comandou as forças anglo-lusas contra as invasões napoleónicas em Portugal?",
+    "options": [
+      "General Beresford",
+      "Duque de Wellington",
+      "General Moore",
+      "Almirante Nelson"
+    ],
+    "answer": "Duque de Wellington"
+  },
+  {
+    "id": "q_515",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Qual destas ordens militares teve a sua sede histórica no Convento de Cristo em Tomar?",
+    "options": [
+      "Ordem de Avis",
+      "Ordem de Santiago",
+      "Ordem dos Templários (e Ordem de Cristo)",
+      "Ordem de Malta"
+    ],
+    "answer": "Ordem dos Templários (e Ordem de Cristo)"
+  },
+  {
+    "id": "q_516",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Que nobre portuguesa foi assassinada em Coimbra em 1355 por ordem de D. Afonso IV, inspirando lendas e poemas?",
+    "options": [
+      "Leonor Teles",
+      "Inês de Castro",
+      "Filipa de Vilhena",
+      "Maria da Fonte"
+    ],
+    "answer": "Inês de Castro"
+  },
+  {
+    "id": "q_517",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Em que ano aderiu Portugal formalmente à Comunidade Económica Europeia (CEE)?",
+    "options": [
+      "1980",
+      "1986",
+      "1992",
+      "1999"
+    ],
+    "answer": "1986"
+  },
+  {
+    "id": "q_518",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Em que batalha naval em 1509 os portugueses asseguraram o controlo hegemónico das rotas do Oceano Índico?",
+    "options": [
+      "Batalha de Chaul",
+      "Batalha de Diu",
+      "Batalha de Lepanto",
+      "Batalha de Ormuz"
+    ],
+    "answer": "Batalha de Diu"
+  },
+  {
+    "id": "q_519",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que capitão liderou o plano de operações militares na Revolução de 25 de Abril de 1974?",
+    "options": [
+      "Salgueiro Maia",
+      "Otelo Saraiva de Carvalho",
+      "Vasco Gonçalves",
+      "Ramalho Eanes"
+    ],
+    "answer": "Otelo Saraiva de Carvalho"
+  },
+  {
+    "id": "q_520",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Que imperador do Sacro Império ou rei de Espanha anexou a coroa portuguesa em 1580, criando a União Ibérica?",
+    "options": [
+      "Filipe I (II de Espanha)",
+      "Filipe II (III de Espanha)",
+      "Carlos I",
+      "Fernando VII"
+    ],
+    "answer": "Filipe I (II de Espanha)"
+  },
+  {
+    "id": "q_521",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Que antiga civilização desenvolveu a escrita cuneiforme entre os rios Tigre e Eufrates?",
+    "options": [
+      "Sumérios (Mesopotâmia)",
+      "Fenícios",
+      "Egípcios",
+      "Persas"
+    ],
+    "answer": "Sumérios (Mesopotâmia)"
+  },
+  {
+    "id": "q_522",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Qual destas batalhas em 331 a.C. marcou a derrota decisiva do imperador persa Dario III frente a Alexandre, o Grande?",
+    "options": [
+      "Batalha de Termópilas",
+      "Batalha de Queroneia",
+      "Batalha de Gaugamela",
+      "Batalha de Maratona"
+    ],
+    "answer": "Batalha de Gaugamela"
+  },
+  {
+    "id": "q_523",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Em que ano ocorreu o ataque militar japonês a Pearl Harbor, forçando a entrada dos EUA na 2ª Guerra Mundial?",
+    "options": [
+      "1939",
+      "1941",
+      "1943",
+      "1945"
+    ],
+    "answer": "1941"
+  },
+  {
+    "id": "q_524",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que documento assinado em 1215 pelo rei João de Inglaterra limitou o poder absoluto da monarquia britânica?",
+    "options": [
+      "Habeas Corpus",
+      "Bill of Rights",
+      "Magna Carta",
+      "Edito de Nantes"
+    ],
+    "answer": "Magna Carta"
+  },
+  {
+    "id": "q_525",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Que famosa cidade romana foi soterrada pelas cinzas do vulcão Vesúvio no ano 79 d.C.?",
+    "options": [
+      "Pompeia",
+      "Óstia",
+      "Ravena",
+      "Siracusa"
+    ],
+    "answer": "Pompeia"
+  },
+  {
+    "id": "q_526",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Quem liderou a Revolução Russa de outubro de 1917 e fundou o Estado Soviético?",
+    "options": [
+      "Josef Estaline",
+      "Vladimir Lenine",
+      "Leon Trotsky",
+      "Mikhail Bakunin"
+    ],
+    "answer": "Vladimir Lenine"
+  },
+  {
+    "id": "q_527",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Em que data comemora anualmente os Estados Unidos a sua Declaração de Independência?",
+    "options": [
+      "14 de Julho",
+      "4 de Julho",
+      "11 de Setembro",
+      "25 de Dezembro"
+    ],
+    "answer": "4 de Julho"
+  },
+  {
+    "id": "q_528",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que epidemia assolou a Europa no século XIV (1347-1351), dizimando cerca de um terço da sua população?",
+    "options": [
+      "Cólera",
+      "Gripe Espanhola",
+      "Peste Negra",
+      "Varíola"
+    ],
+    "answer": "Peste Negra"
+  },
+  {
+    "id": "q_529",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Quem foi a jovem camponesa francesa executada na fogueira que liderou tropas na Guerra dos Cem Anos?",
+    "options": [
+      "Maria Antonieta",
+      "Joana d'Arc",
+      "Catarina de Médici",
+      "Leonor da Aquitânia"
+    ],
+    "answer": "Joana d'Arc"
+  },
+  {
+    "id": "q_530",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Em que conferência em 1884-1885 as potências europeias formalizaram a divisão colonial do continente africano?",
+    "options": [
+      "Conferência de Versalhes",
+      "Conferência de Viena",
+      "Conferência de Berlim",
+      "Conferência de Yalta"
+    ],
+    "answer": "Conferência de Berlim"
+  },
+  {
+    "id": "q_531",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Que célebre líder militar macedónio conquistou um império que se estendeu da Grécia até ao rio Indo?",
+    "options": [
+      "Filipe II",
+      "Ptolomeu I",
+      "Alexandre, o Grande",
+      "Aníbal Barca"
+    ],
+    "answer": "Alexandre, o Grande"
+  },
+  {
+    "id": "q_532",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que czar russo foi responsável por fundar a cidade de São Petersburgo e ocidentalizar o império no século XVIII?",
+    "options": [
+      "Ivan, o Terrível",
+      "Pedro, o Grande",
+      "Nicolau II",
+      "Alexandre I"
+    ],
+    "answer": "Pedro, o Grande"
+  },
+  {
+    "id": "q_533",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "O que desencadeou diretamente o início da Primeira Guerra Mundial em 1914?",
+    "options": [
+      "O afundamento do Lusitania",
+      "O assassinato do Arquiduque Francisco Fernando",
+      "A invasão da Bélgica",
+      "O motim dos marinheiros russos"
+    ],
+    "answer": "O assassinato do Arquiduque Francisco Fernando"
+  },
+  {
+    "id": "q_534",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que dinastia islâmica governou o Califado a partir de Damasco entre os anos 661 e 750?",
+    "options": [
+      "Dinastia Abássida",
+      "Dinastia Omíada",
+      "Dinastia Otomana",
+      "Dinastia Fatímida"
+    ],
+    "answer": "Dinastia Omíada"
+  },
+  {
+    "id": "q_535",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Em que cidade japonesa foi lançada a primeira bomba atómica da história em agosto de 1945?",
+    "options": [
+      "Nagasaki",
+      "Tóquio",
+      "Hiroxima",
+      "Quioto"
+    ],
+    "answer": "Hiroxima"
+  },
+  {
+    "id": "q_536",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que batalha naval em 1805 consolidou a supremacia naval britânica sobre as frotas combinadas de França e Espanha?",
+    "options": [
+      "Batalha de Waterloo",
+      "Batalha de Trafalgar",
+      "Batalha de Jutlândia",
+      "Batalha de Navarino"
+    ],
+    "answer": "Batalha de Trafalgar"
+  },
+  {
+    "id": "q_537",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Qual era o título supremo detido pelos governantes imperiais do Antigo Egito?",
+    "options": [
+      "Sultão",
+      "Xá",
+      "Faraó",
+      "Khan"
+    ],
+    "answer": "Faraó"
+  },
+  {
+    "id": "q_538",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Em que ano ocorreu o colapso formal e a dissolução da União Soviética (URSS)?",
+    "options": [
+      "1989",
+      "1990",
+      "1991",
+      "1993"
+    ],
+    "answer": "1991"
+  },
+  {
+    "id": "q_539",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Que general cartaginês cruzou os Alpes com elefantes de guerra para combater Roma na 2ª Guerra Púnica?",
+    "options": [
+      "Aníbal Barca",
+      "Asdrúbal",
+      "Amílcar Barca",
+      "Cipião Africano"
+    ],
+    "answer": "Aníbal Barca"
+  },
+  {
+    "id": "q_540",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que tratado internacional assinado em 1919 fixou as duras condições de paz impostas à Alemanha após a 1ª Guerra Mundial?",
+    "options": [
+      "Tratado de Genebra",
+      "Tratado de Brest-Litovsk",
+      "Tratado de Versalhes",
+      "Tratado de Maastricht"
+    ],
+    "answer": "Tratado de Versalhes"
+  },
+  {
+    "id": "q_541",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Quem não tem cão, ...\"",
+    "options": [
+      "...fica em casa",
+      "...caça com gato",
+      "...vigia a quinta",
+      "...dorme sozinho"
+    ],
+    "answer": "...caça com gato"
+  },
+  {
+    "id": "q_542",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Adivinha: \"O que é que tem coroa mas não é rei, e tem escamas mas não é peixe?\"",
+    "options": [
+      "O abacaxi (ananás)",
+      "A pinha",
+      "A romã",
+      "O dragão"
+    ],
+    "answer": "O abacaxi (ananás)"
+  },
+  {
+    "id": "q_543",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Completa o provérbio: \"Para grandes males, ...\"",
+    "options": [
+      "...grandes remédios",
+      "...muitas queixas",
+      "...poucas palavras",
+      "...espera sentado"
+    ],
+    "answer": "...grandes remédios"
+  },
+  {
+    "id": "q_544",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Adivinha: \"O que é que nasce grande e morre pequeno?\"",
+    "options": [
+      "A árvore",
+      "A montanha",
+      "O lápis",
+      "O rio"
+    ],
+    "answer": "O lápis"
+  },
+  {
+    "id": "q_545",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Mais vale um pássaro na mão...\"",
+    "options": [
+      "...que dois a voar",
+      "...que três no ninho",
+      "...que vê-lo fugir",
+      "...que ouvir cantar"
+    ],
+    "answer": "...que dois a voar"
+  },
+  {
+    "id": "q_546",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"O que é que tem capa mas não é padre, tem folhas mas não é árvore?\"",
+    "options": [
+      "A couve",
+      "O livro",
+      "O caderno de rascunhos",
+      "A mesa"
+    ],
+    "answer": "O livro"
+  },
+  {
+    "id": "q_547",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Gato escaldado...\"",
+    "options": [
+      "...corre depressa",
+      "...fica miando",
+      "...de água fria tem medo",
+      "...nunca mais caça ratos"
+    ],
+    "answer": "...de água fria tem medo"
+  },
+  {
+    "id": "q_548",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Adivinha: \"O que é que enche uma casa inteira, mas não ocupa lugar?\"",
+    "options": [
+      "O fumo",
+      "A luz",
+      "O perfume",
+      "A voz"
+    ],
+    "answer": "A luz"
+  },
+  {
+    "id": "q_549",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Longe da vista, ...\"",
+    "options": [
+      "...perto do perigo",
+      "...longe do coração",
+      "...sempre esquecido",
+      "...mais depressa se corre"
+    ],
+    "answer": "...longe do coração"
+  },
+  {
+    "id": "q_550",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"Quanto mais seca, mais molhada fica. O que é?\"",
+    "options": [
+      "A esponja",
+      "A toalha",
+      "A relva",
+      "A nuvem"
+    ],
+    "answer": "A toalha"
+  },
+  {
+    "id": "q_551",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"A cavalo dado...\"",
+    "options": [
+      "...não se agradece",
+      "...não se olha o dente",
+      "...monta-se logo",
+      "...cuida-se bem"
+    ],
+    "answer": "...não se olha o dente"
+  },
+  {
+    "id": "q_552",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Adivinha: \"O que é que sobe quando a chuva desce?\"",
+    "options": [
+      "O nível do rio",
+      "O guarda-chuva",
+      "O vapor",
+      "O relâmpago"
+    ],
+    "answer": "O guarda-chuva"
+  },
+  {
+    "id": "q_553",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Cada macaco...\"",
+    "options": [
+      "...come a sua banana",
+      "...salta onde quer",
+      "...no seu galho",
+      "...vigia a floresta"
+    ],
+    "answer": "...no seu galho"
+  },
+  {
+    "id": "q_554",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"Tem cabeça, tem dente, não é bicho e nem é gente. O que é?\"",
+    "options": [
+      "O alho",
+      "O serrote",
+      "O pente",
+      "A chave"
+    ],
+    "answer": "O alho"
+  },
+  {
+    "id": "q_555",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Completa o provérbio: \"Vozes de burro...\"",
+    "options": [
+      "...ninguém quer ouvir",
+      "...não chegam ao céu",
+      "...assustam o gado",
+      "...perdem-se no campo"
+    ],
+    "answer": "...não chegam ao céu"
+  },
+  {
+    "id": "q_556",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"O que é que pertence a ti, mas as outras pessoas usam muito mais do que tu?\"",
+    "options": [
+      "O teu telemóvel",
+      "O teu casaco",
+      "O teu nome",
+      "O teu dinheiro"
+    ],
+    "answer": "O teu nome"
+  },
+  {
+    "id": "q_557",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"O saber...\"",
+    "options": [
+      "...pesa muito",
+      "...dá trabalho",
+      "...não ocupa lugar",
+      "...tarda mas chega"
+    ],
+    "answer": "...não ocupa lugar"
+  },
+  {
+    "id": "q_558",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Adivinha: \"O que é que é surdo e mudo, mas conta tudo?\"",
+    "options": [
+      "O espelho",
+      "O retrato",
+      "O livro",
+      "O segredo"
+    ],
+    "answer": "O livro"
+  },
+  {
+    "id": "q_559",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Quem semeia ventos, ...\"",
+    "options": [
+      "...colhe tempestades",
+      "...perde as sementes",
+      "...fica no escuro",
+      "...vive com frio"
+    ],
+    "answer": "...colhe tempestades"
+  },
+  {
+    "id": "q_560",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Adivinha: \"Tenho cidades, mas não tenho casas. Tenho montanhas, mas não tenho árvores. Tenho água, mas não peixes. O que sou?\"",
+    "options": [
+      "Um mapa",
+      "Um deserto",
+      "Um globo espacial",
+      "Um quadro a óleo"
+    ],
+    "answer": "Um mapa"
+  },
+  {
+    "id": "q_561",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual é o único mamífero verdadeiramente capaz de voo batido e sustentado?",
+    "options": [
+      "Esquilo-voador",
+      "Morcego",
+      "Lémure-voador",
+      "Petauro-do-açúcar"
+    ],
+    "answer": "Morcego"
+  },
+  {
+    "id": "q_562",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Qual é o animal vertebrado que detém a maior esperança de vida conhecida, podendo ultrapassar 300 anos?",
+    "options": [
+      "Tartaruga-das-galápagos",
+      "Baleia-da-gronelândia",
+      "Tubarão-da-gronelândia",
+      "Peixe-rei-do-ártico"
+    ],
+    "answer": "Tubarão-da-gronelândia"
+  },
+  {
+    "id": "q_563",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "De que classe de animais fazem parte os sapos e as rãs?",
+    "options": [
+      "Répteis",
+      "Anfíbios",
+      "Peixes",
+      "Insetos"
+    ],
+    "answer": "Anfíbios"
+  },
+  {
+    "id": "q_564",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Que designação biológica é dada aos animais cuja temperatura corporal varia com a do meio ambiente?",
+    "options": [
+      "Homeotérmicos",
+      "Endotérmicos",
+      "Poiquilotérmicos (ou Ectotérmicos)",
+      "Osmotróficos"
+    ],
+    "answer": "Poiquilotérmicos (ou Ectotérmicos)"
+  },
+  {
+    "id": "q_565",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual é o principal alimento na dieta do Panda-gigante na natureza?",
+    "options": [
+      "Eucalipto",
+      "Bambu",
+      "Frutos silvestres",
+      "Raízes aquáticas"
+    ],
+    "answer": "Bambu"
+  },
+  {
+    "id": "q_566",
+    "theme": "Ciência e Animais",
+    "difficulty": "médio",
+    "question": "Que órgão sensorial especializado na língua das cobras permite captar partículas odoríferas no ar?",
+    "options": [
+      "Órgão de Jacobson (vomeronasal)",
+      "Linha lateral",
+      "Fosseta loreal",
+      "Ampola de Lorenzini"
+    ],
+    "answer": "Órgão de Jacobson (vomeronasal)"
+  },
+  {
+    "id": "q_567",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual é o maior pássaro vivo do planeta Terra?",
+    "options": [
+      "Albatroz-errante",
+      "Emu",
+      "Condor-dos-andes",
+      "Avestruz"
+    ],
+    "answer": "Avestruz"
+  },
+  {
+    "id": "q_568",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Que criatura marinha invertebrada possui três corações e sangue de cor azul devido à hemocianina?",
+    "options": [
+      "Lula-gigante",
+      "Polvo",
+      "Medusa",
+      "Ouriço-do-mar"
+    ],
+    "answer": "Polvo"
+  },
+  {
+    "id": "q_569",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Como se chamam os dentes caninos protuberantes e comparsas de marfim dos elefantes?",
+    "options": [
+      "Presas",
+      "Incisivos",
+      "Chifres",
+      "Quelíceras"
+    ],
+    "answer": "Presas"
+  },
+  {
+    "id": "q_570",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Quantos compartimentos estomacais tem o aparelho digestivo de uma vaca e outros ruminantes?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "q_571",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual é a principal característica que define a reprodução dos mamíferos marsupiais (como os cangurus)?",
+    "options": [
+      "Botam ovos com casca rija",
+      "Nascem imaturos e completam o desenvolvimento numa bolsa (marsúpio)",
+      "Não produzem leite para as crias",
+      "A gestação ocorre integralmente dentro de ovos internos"
+    ],
+    "answer": "Nascem imaturos e completam o desenvolvimento numa bolsa (marsúpio)"
+  },
+  {
+    "id": "q_572",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Qual é o animal terrestre com a mordida com maior força registada pela ciência?",
+    "options": [
+      "Leão-africano",
+      "Tubarão-branco",
+      "Crocodilo-de-água-salgada",
+      "Hiena-malhada"
+    ],
+    "answer": "Crocodilo-de-água-salgada"
+  },
+  {
+    "id": "q_573",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Que processo biológico transforma uma lagarta numa borboleta adulta?",
+    "options": [
+      "Osmose",
+      "Metamorfose",
+      "Ecdise",
+      "Bipartição"
+    ],
+    "answer": "Metamorfose"
+  },
+  {
+    "id": "q_574",
+    "theme": "Ciência e Animais",
+    "difficulty": "médio",
+    "question": "De que se alimentam os animais chamados hematófagos?",
+    "options": [
+      "Fruta madura",
+      "Sangue",
+      "Folhas e raízes",
+      "Madeira morta"
+    ],
+    "answer": "Sangue"
+  },
+  {
+    "id": "q_575",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Onde se localizam as glândulas de veneno na maioria das serpentes peçonhentas?",
+    "options": [
+      "No estômago",
+      "Na ponta da cauda",
+      "Na cabeça (atrás dos olhos)",
+      "Por baixo da língua"
+    ],
+    "answer": "Na cabeça (atrás dos olhos)"
+  },
+  {
+    "id": "q_576",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Que pequeno invertebrado microscópico é famoso por resistir a temperaturas extremas, vácuo espacial e radiação?",
+    "options": [
+      "Rotífero",
+      "Tardígrado (urso-d'água)",
+      "Nematódeo",
+      "Paramecium"
+    ],
+    "answer": "Tardígrado (urso-d'água)"
+  },
+  {
+    "id": "q_577",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "As abelhas usam que produto vegetal doce recolhido das flores para fazer mel?",
+    "options": [
+      "Seiva bruta",
+      "Pólen seco",
+      "Néctar",
+      "Clorofila"
+    ],
+    "answer": "Néctar"
+  },
+  {
+    "id": "q_578",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Que nome se dá à emissão de luz fria por animais como pirilampos e certas medusas?",
+    "options": [
+      "Fosforescência estática",
+      "Bioluminescência",
+      "Incandescência",
+      "Termoluminescência"
+    ],
+    "answer": "Bioluminescência"
+  },
+  {
+    "id": "q_579",
+    "theme": "Ciência e Animais",
+    "difficulty": "médio",
+    "question": "Quantas câmaras tem o coração da maioria dos répteis (à exceção dos crocodilianos)?",
+    "options": [
+      "2 câmaras",
+      "3 câmaras",
+      "4 câmaras",
+      "Apenas 1 ventrículo isolado"
+    ],
+    "answer": "3 câmaras"
+  },
+  {
+    "id": "q_580",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "A baleia-azul alimenta-se principalmente de que minúsculos crustáceos marinhos?",
+    "options": [
+      "Copépodes de areia",
+      "Krill",
+      "Anfípodes",
+      "Artemia"
+    ],
+    "answer": "Krill"
+  },
+  {
+    "id": "q_581",
+    "theme": "Cultura Geral",
+    "difficulty": "fácil",
+    "question": "Quantos minutos tem uma hora e meia?",
+    "options": [
+      "75 minutos",
+      "90 minutos",
+      "100 minutos",
+      "120 minutos"
+    ],
+    "answer": "90 minutos"
+  },
+  {
+    "id": "q_582",
+    "theme": "Cultura Geral",
+    "difficulty": "difícil",
+    "question": "Em que museu em São Petersburgo se encontra uma das maiores coleções de arte do mundo?",
+    "options": [
+      "Hermitage",
+      "Louvre",
+      "Rijksmuseum",
+      "Guggenheim"
+    ],
+    "answer": "Hermitage"
+  },
+  {
+    "id": "q_583",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Em que país se situam as famosas ruínas incas de Ollantaytambo e Machu Picchu?",
+    "options": [
+      "Bolívia",
+      "Equador",
+      "Peru",
+      "Colômbia"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": "q_584",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Qual é o país do mundo que tem o maior número de fusos horários oficiais contínuos e ultramarinos?",
+    "options": [
+      "Rússia",
+      "Estados Unidos",
+      "França (devido aos territórios ultramarinos)",
+      "Reino Unido"
+    ],
+    "answer": "França (devido aos territórios ultramarinos)"
+  },
+  {
+    "id": "q_585",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "No futebol, com que parte do corpo os jogadores de campo não podem jogar a bola deliberadamente?",
+    "options": [
+      "Cabeça",
+      "Braços e mãos",
+      "Coxa",
+      "Peito"
+    ],
+    "answer": "Braços e mãos"
+  },
+  {
+    "id": "q_586",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Quantos pontos de contacto no solo com os pés e mãos tem um corredor de atletismo na largada em blocos?",
+    "options": [
+      "2 pontos",
+      "3 pontos",
+      "4 pontos",
+      "5 pontos (incluindo joelho no início)"
+    ],
+    "answer": "5 pontos (incluindo joelho no início)"
+  },
+  {
+    "id": "q_587",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que famoso ratinho da Disney estreou na curta-metragem Steamboat Willie em 1928?",
+    "options": [
+      "Mickey Mouse",
+      "Pato Donald",
+      "Pateta",
+      "Pluto"
+    ],
+    "answer": "Mickey Mouse"
+  },
+  {
+    "id": "q_588",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Quem realizou o épico de ficção científica Metropolis em 1927?",
+    "options": [
+      "F.W. Murnau",
+      "Fritz Lang",
+      "Robert Wiene",
+      "Sergei Eisenstein"
+    ],
+    "answer": "Fritz Lang"
+  },
+  {
+    "id": "q_589",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é o maior lago de África por área de superfície?",
+    "options": [
+      "Lago Tanganica",
+      "Lago Niassa",
+      "Lago Vitória",
+      "Lago Chade"
+    ],
+    "answer": "Lago Vitória"
+  },
+  {
+    "id": "q_590",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Como se chamavam os barcos típicos de madeira com velas quadradas e latinas usados nos Descobrimentos?",
+    "options": [
+      "Galeões",
+      "Fragatas",
+      "Caravelas",
+      "Naus de linha"
+    ],
+    "answer": "Caravelas"
+  },
+  {
+    "id": "q_591",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Quem foi o primeiro Rei de Portugal?",
+    "options": [
+      "D. Dinis",
+      "D. Afonso Henriques",
+      "D. João I",
+      "D. Manuel I"
+    ],
+    "answer": "D. Afonso Henriques"
+  },
+  {
+    "id": "q_592",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Em que ano se deu a Revolução dos Cravos que pôs fim à ditadura do Estado Novo?",
+    "options": [
+      "1910",
+      "1968",
+      "1974",
+      "1986"
+    ],
+    "answer": "1974"
+  },
+  {
+    "id": "q_593",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Em que ano foi assinado o Tratado de Tordesilhas entre Portugal e Castela?",
+    "options": [
+      "1494",
+      "1415",
+      "1500",
+      "1482"
+    ],
+    "answer": "1494"
+  },
+  {
+    "id": "q_594",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que rei português desapareceu misteriosamente na Batalha de Alcácer-Quibir em 1578?",
+    "options": [
+      "D. Pedro I",
+      "D. Sebastião",
+      "D. Duarte",
+      "D. Miguel"
+    ],
+    "answer": "D. Sebastião"
+  },
+  {
+    "id": "q_595",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Qual destas figuras militares liderou as tropas portuguesas na vitória de Aljubarrota em 1385?",
+    "options": [
+      "Marquês de Pombal",
+      "D. Nuno Álvares Pereira",
+      "Afonso de Albuquerque",
+      "Fernão Mendes Pinto"
+    ],
+    "answer": "D. Nuno Álvares Pereira"
+  },
+  {
+    "id": "q_596",
+    "theme": "História de Portugal",
+    "difficulty": "médio",
+    "question": "Em que ano foi proclamada a Primeira República Portuguesa?",
+    "options": [
+      "1820",
+      "1890",
+      "1910",
+      "1926"
+    ],
+    "answer": "1910"
+  },
+  {
+    "id": "q_597",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Em que ano ocorreu o terramoto devastador que destruiu grande parte de Lisboa?",
+    "options": [
+      "1755",
+      "1640",
+      "1807",
+      "1700"
+    ],
+    "answer": "1755"
+  },
+  {
+    "id": "q_598",
+    "theme": "História de Portugal",
+    "difficulty": "difícil",
+    "question": "Que monarca governava Portugal durante a Restauração da Independência em 1640?",
+    "options": [
+      "D. Afonso VI",
+      "D. José I",
+      "D. João IV",
+      "D. Pedro II"
+    ],
+    "answer": "D. João IV"
+  },
+  {
+    "id": "q_599",
+    "theme": "História de Portugal",
+    "difficulty": "fácil",
+    "question": "Que navegador português liderou a esquadra que alcançou o Brasil em 1500?",
+    "options": [
+      "Vasco da Gama",
+      "Bartolomeu Dias",
+      "Fernão de Magalhães",
+      "Pedro Álvares Cabral"
+    ],
+    "answer": "Pedro Álvares Cabral"
+  },
+  {
+    "id": "q_600",
+    "theme": "História de Portugal",
+    "difficulty": "médio",
+    "question": "Qual era a alcunha do rei D. Dinis?",
+    "options": [
+      "O Conquistador",
+      "O Lavrador",
+      "O Desejado",
+      "O Povoador"
+    ],
+    "answer": "O Lavrador"
+  },
+  {
+    "id": "q_601",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Em que país se situava a antiga civilização dos Faraós e das grandes pirâmides?",
+    "options": [
+      "Grécia",
+      "Egito",
+      "Itália",
+      "Mesopotâmia"
+    ],
+    "answer": "Egito"
+  },
+  {
+    "id": "q_602",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Em que ano caiu o Muro de Berlim?",
+    "options": [
+      "1989",
+      "1991",
+      "1975",
+      "1968"
+    ],
+    "answer": "1989"
+  },
+  {
+    "id": "q_603",
+    "theme": "História Mundial",
+    "difficulty": "médio",
+    "question": "Quem foi o primeiro imperador de Roma após o fim da República?",
+    "options": [
+      "Júlio César",
+      "Nero",
+      "César Augusto",
+      "Marco Aurélio"
+    ],
+    "answer": "César Augusto"
+  },
+  {
+    "id": "q_604",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Que conflito armado durou de 1337 a 1453 entre os reinos da Inglaterra e da França?",
+    "options": [
+      "Guerra das Rosas",
+      "Guerra dos Trinta Anos",
+      "Guerra dos Sete Anos",
+      "Guerra dos Cem Anos"
+    ],
+    "answer": "Guerra dos Cem Anos"
+  },
+  {
+    "id": "q_605",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Que acontecimento marcou o início formal da Segunda Guerra Mundial em 1939?",
+    "options": [
+      "Invasão da Polónia pela Alemanha",
+      "Ataque a Pearl Harbor",
+      "Queda de Paris",
+      "Batalha de Estalinegrado"
+    ],
+    "answer": "Invasão da Polónia pela Alemanha"
+  },
+  {
+    "id": "q_606",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "Em que ano começou a Revolução Francesa com a Tomada da Bastilha?",
+    "options": [
+      "1776",
+      "1789",
+      "1804",
+      "1799"
+    ],
+    "answer": "1789"
+  },
+  {
+    "id": "q_607",
+    "theme": "História Mundial",
+    "difficulty": "médio",
+    "question": "Que civilização pré-colombiana construiu a cidadela de Machu Picchu nos Andes?",
+    "options": [
+      "Asteca",
+      "Maia",
+      "Inca",
+      "Olmeca"
+    ],
+    "answer": "Inca"
+  },
+  {
+    "id": "q_608",
+    "theme": "História Mundial",
+    "difficulty": "difícil",
+    "question": "A queda de qual cidade em 1453 marcou o fim do Império Bizantino?",
+    "options": [
+      "Alexandria",
+      "Atenas",
+      "Constantinopla",
+      "Roma"
+    ],
+    "answer": "Constantinopla"
+  },
+  {
+    "id": "q_609",
+    "theme": "História Mundial",
+    "difficulty": "fácil",
+    "question": "Que ativista liderou a luta contra o Apartheid e foi o primeiro presidente negro da África do Sul?",
+    "options": [
+      "Desmond Tutu",
+      "Kofi Annan",
+      "Nelson Mandela",
+      "Patrice Lumumba"
+    ],
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": "q_610",
+    "theme": "História Mundial",
+    "difficulty": "médio",
+    "question": "Qual foi a primeira dinastia imperial a unificar a China e iniciar a construção da Grande Muralha?",
+    "options": [
+      "Dinastia Han",
+      "Dinastia Qin",
+      "Dinastia Ming",
+      "Dinastia Tang"
+    ],
+    "answer": "Dinastia Qin"
+  },
+  {
+    "id": "q_611",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Grão a grão, ...\"",
+    "options": [
+      "...fica a terra cheia",
+      "...enche a galinha o papo",
+      "...se constrói um saco",
+      "...come o passarinho"
+    ],
+    "answer": "...enche a galinha o papo"
+  },
+  {
+    "id": "q_612",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Adivinha: \"O que é que quanto mais se tira, maior fica?\"",
+    "options": [
+      "Um buraco",
+      "Um novelo",
+      "O poço",
+      "O tempo"
+    ],
+    "answer": "Um buraco"
+  },
+  {
+    "id": "q_613",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Deitar cedo e cedo erguer, ...\"",
+    "options": [
+      "...dá saúde e faz crescer",
+      "...não dá trabalho a ninguém",
+      "...aproveita a luz do dia",
+      "...faz a vida render"
+    ],
+    "answer": "...dá saúde e faz crescer"
+  },
+  {
+    "id": "q_614",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"Tem dentes mas não come, tem barba mas não é homem. O que é?\"",
+    "options": [
+      "O pente",
+      "O serrote",
+      "O alho",
+      "O milho"
+    ],
+    "answer": "O alho"
+  },
+  {
+    "id": "q_615",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Quem tem boca vai a...\"",
+    "options": [
+      "...Lisboa",
+      "...Roma",
+      "...Paris",
+      "...todo o lado"
+    ],
+    "answer": "...Roma"
+  },
+  {
+    "id": "q_616",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "difícil",
+    "question": "Adivinha: \"O que é, o que é: anda com os pés na cabeça?\"",
+    "options": [
+      "O piolho",
+      "O chapéu",
+      "A ideia",
+      "O carrapato"
+    ],
+    "answer": "O piolho"
+  },
+  {
+    "id": "q_617",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Água mole em pedra dura, ...\"",
+    "options": [
+      "...faz caminho seguro",
+      "...tanto bate até que fura",
+      "...nunca para de correr",
+      "...molha tudo à sua volta"
+    ],
+    "answer": "...tanto bate até que fura"
+  },
+  {
+    "id": "q_618",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"O que é que passa a vida a girar mas nunca sai do mesmo sítio?\"",
+    "options": [
+      "O relógio",
+      "O pião",
+      "A roda gigante",
+      "O moinho"
+    ],
+    "answer": "O relógio"
+  },
+  {
+    "id": "q_619",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "fácil",
+    "question": "Completa o provérbio: \"Em casa de ferreiro, ...\"",
+    "options": [
+      "...o carvão é barato",
+      "...trabalha-se o dia inteiro",
+      "...espeto de pau",
+      "...martelo de ferro"
+    ],
+    "answer": "...espeto de pau"
+  },
+  {
+    "id": "q_620",
+    "theme": "Provérbios e Adivinhas",
+    "difficulty": "médio",
+    "question": "Adivinha: \"Cai de pé e corre deitado. O que é?\"",
+    "options": [
+      "O vento",
+      "O rio",
+      "A chuva",
+      "O caracol"
+    ],
+    "answer": "A chuva"
+  },
+  {
+    "id": "q_621",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual é o maior mamífero existente no planeta?",
+    "options": [
+      "Elefante-africano",
+      "Tubarão-baleia",
+      "Baleia-azul",
+      "Cachalote"
+    ],
+    "answer": "Baleia-azul"
+  },
+  {
+    "id": "q_622",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Quantas patas tem uma aranha adulta?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "q_623",
+    "theme": "Ciência e Animais",
+    "difficulty": "médio",
+    "question": "Quantos corações tem um polvo?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "q_624",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Que mamífero semiaquático da Austrália bota ovos e produz veneno nos membros posteriores?",
+    "options": [
+      "Coala",
+      "Ornitorrinco",
+      "Vombate",
+      "Diabo-da-tasmânia"
+    ],
+    "answer": "Ornitorrinco"
+  },
+  {
+    "id": "q_625",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual é a ave mais rápida do mundo em mergulho aéreo?",
+    "options": [
+      "Águia-real",
+      "Falcão-peregrino",
+      "Albatroz",
+      "Gaivota"
+    ],
+    "answer": "Falcão-peregrino"
+  },
+  {
+    "id": "q_626",
+    "theme": "Ciência e Animais",
+    "difficulty": "médio",
+    "question": "Que animal tem a língua tão comprida que pode chegar a limpar as próprias orelhas?",
+    "options": [
+      "Girafa",
+      "Camaleão",
+      "Tamanduá",
+      "Hipopótamo"
+    ],
+    "answer": "Girafa"
+  },
+  {
+    "id": "q_627",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Os tubarões têm o esqueleto inteiramente formado por que substância (sem osso verdadeiro)?",
+    "options": [
+      "Queratina",
+      "Cartilagem",
+      "Quitina",
+      "Carbonato de cálcio"
+    ],
+    "answer": "Cartilagem"
+  },
+  {
+    "id": "q_628",
+    "theme": "Ciência e Animais",
+    "difficulty": "fácil",
+    "question": "Qual destes animais hiberna tipicamente durante o inverno nos climas frios?",
+    "options": [
+      "Tigre",
+      "Camelo",
+      "Urso-pardo",
+      "Zebra"
+    ],
+    "answer": "Urso-pardo"
+  },
+  {
+    "id": "q_629",
+    "theme": "Ciência e Animais",
+    "difficulty": "médio",
+    "question": "Que animal marinho macho incuba os ovos e dá à luz as crias na sua bolsa?",
+    "options": [
+      "Cavalo-marinho",
+      "Golfinho",
+      "Estrela-do-mar",
+      "Peixe-palhaço"
+    ],
+    "answer": "Cavalo-marinho"
+  },
+  {
+    "id": "q_630",
+    "theme": "Ciência e Animais",
+    "difficulty": "difícil",
+    "question": "Qual destas cobras é considerada a serpente venenosa mais comprida do mundo?",
+    "options": [
+      "Mamba-negra",
+      "Cobra-real",
+      "Víbora-do-gabão",
+      "Sucuri"
+    ],
+    "answer": "Cobra-real"
+  },
+  {
+    "id": "q_631",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Que famoso agente secreto britânico tem licença para matar e o código 007?",
+    "options": [
+      "Ethan Hunt",
+      "Jason Bourne",
+      "James Bond",
+      "Jack Reacher"
+    ],
+    "answer": "James Bond"
+  },
+  {
+    "id": "q_632",
+    "theme": "Música e Cinema",
+    "difficulty": "fácil",
+    "question": "Quem cantava o êxito de rock clássico \"Bohemian Rhapsody\"?",
+    "options": [
+      "Queen",
+      "Pink Floyd",
+      "The Beatles",
+      "Led Zeppelin"
+    ],
+    "answer": "Queen"
+  },
+  {
+    "id": "q_633",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que realizador dirigiu clássicos do cinema como \"Vertigo\" e \"Janela Indiscreta\"?",
+    "options": [
+      "Billy Wilder",
+      "Stanley Kubrick",
+      "Alfred Hitchcock",
+      "Orson Welles"
+    ],
+    "answer": "Alfred Hitchcock"
+  },
+  {
+    "id": "q_634",
+    "theme": "Música e Cinema",
+    "difficulty": "médio",
+    "question": "Que instrumento musical é tradicionalmente associado ao mestre do fado Carlos Paredes?",
+    "options": [
+      "Guitarra portuguesa",
+      "Viola de fado",
+      "Cavaquinho",
+      "Bandolim"
+    ],
+    "answer": "Guitarra portuguesa"
+  },
+  {
+    "id": "q_635",
+    "theme": "Música e Cinema",
+    "difficulty": "difícil",
+    "question": "Que filme venceu o primeiro Óscar de Melhor Filme de Animação em 2002?",
+    "options": [
+      "Monstros e Companhia",
+      "Shrek",
+      "A Viagem de Chihiro",
+      "Toy Story 2"
+    ],
+    "answer": "Shrek"
+  },
+  {
+    "id": "q_636",
+    "theme": "Geografia",
+    "difficulty": "fácil",
+    "question": "Qual é a capital de Espanha?",
+    "options": [
+      "Barcelona",
+      "Sevilha",
+      "Valência",
+      "Madrid"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "id": "q_637",
+    "theme": "Geografia",
+    "difficulty": "difícil",
+    "question": "Que país africano tem como capital a cidade de Ouagadougou?",
+    "options": [
+      "Burkina Faso",
+      "Mali",
+      "Níger",
+      "Chade"
+    ],
+    "answer": "Burkina Faso"
+  },
+  {
+    "id": "q_638",
+    "theme": "Geografia",
+    "difficulty": "médio",
+    "question": "Qual é o maior arquipélago em número de ilhas do mundo?",
+    "options": [
+      "Filipinas",
+      "Indonésia",
+      "Maldivas",
+      "Japão"
+    ],
+    "answer": "Indonésia"
+  },
+  {
+    "id": "q_639",
+    "theme": "Desporto",
+    "difficulty": "fácil",
+    "question": "Em que país nasceu o futebolista Cristiano Ronaldo?",
+    "options": [
+      "Brasil",
+      "Espanha",
+      "Portugal",
+      "França"
+    ],
+    "answer": "Portugal"
+  },
+  {
+    "id": "q_640",
+    "theme": "Desporto",
+    "difficulty": "difícil",
+    "question": "Em que ano organizou e venceu a Inglaterra o seu único Campeonato do Mundo de futebol?",
+    "options": [
+      "1958",
+      "1966",
+      "1970",
+      "1974"
+    ],
+    "answer": "1966"
   }
 ]

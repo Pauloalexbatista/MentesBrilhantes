@@ -25,12 +25,16 @@
 }
 `
 
-### Categorias Oficiais (100 perguntas cada, 500 no total):
-1. Ciência e Tecnologia
-2. Música e Cinema
-3. Cultura Geral
-4. Geografia
-5. Desporto
+### Categorias Oficiais (640 perguntas no total):
+1. Ciência e Tecnologia (100 perguntas)
+2. Música e Cinema (107 perguntas)
+3. Cultura Geral (102 perguntas)
+4. Geografia (106 perguntas)
+5. Desporto (104 perguntas)
+6. História de Portugal (31 perguntas)
+7. História Mundial (30 perguntas)
+8. Provérbios e Adivinhas (30 perguntas)
+9. Ciência e Animais (30 perguntas)
 
 ### Schema da Sala (Game Room):
 `json

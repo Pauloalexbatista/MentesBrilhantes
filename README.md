@@ -1,6 +1,6 @@
 ﻿# 🧠 Mentes Brilhantes — Web Quiz Multiplayer
 
-> Jogo de Quiz Multijogador em Tempo Real para grupos, família e amigos, com salas privadas, convites diretos por WhatsApp e 500 perguntas estruturadas.
+> Jogo de Quiz Multijogador em Tempo Real para grupos, família e amigos, com salas privadas, convites diretos por WhatsApp e 640 perguntas estruturadas.
 
 ![Node.js](https://img.shields.io/badge/Node.js-20+-green.svg)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.7-black.svg)
@@ -14,12 +14,16 @@
 - ⚡ **Multiplayer em Tempo Real**: Conexão instantânea de múltiplos jogadores via WebSockets (Socket.io).
 - 📱 **Convite Direto por WhatsApp**: Botão com 1 clique para partilhar o link e código da sala em qualquer grupo ou contacto do WhatsApp.
 - 🔀 **Shuffle Obrigatório**: O motor de jogo baralha deterministicamente as opções (A, B, C, D) para garantir que as posições nunca sejam previsíveis.
-- 🎯 **500 Perguntas Estruturadas**:
+- 🎯 **640 Perguntas Estruturadas**:
   - 🔬 **Ciência e Tecnologia** (100 perguntas)
-  - 🎬 **Música e Cinema** (100 perguntas)
-  - 🌍 **Cultura Geral** (100 perguntas)
-  - 🗺️ **Geografia** (100 perguntas)
-  - ⚽ **Desporto** (100 perguntas)
+  - 🎬 **Música e Cinema** (107 perguntas)
+  - 🌍 **Cultura Geral** (102 perguntas)
+  - 🗺️ **Geografia** (106 perguntas)
+  - ⚽ **Desporto** (104 perguntas)
+  - 🇵🇹 **História de Portugal** (31 perguntas)
+  - 🏛️ **História Mundial** (30 perguntas)
+  - 🦉 **Provérbios e Adivinhas** (30 perguntas)
+  - 🦁 **Ciência e Animais** (30 perguntas)
 - ⚖️ **Sistema de Pontuação Justo**:
   - Pergunta Fácil: 10 pontos
   - Pergunta Difícil: 20 pontos
@@ -94,7 +98,7 @@ O projeto está desenhado para integração em servidores VPS com reverse proxy 
 │   ├── index.html          # Estrutura e telas do jogo
 │   ├── style.css           # Design moderno, modo escuro e animações
 │   └── app.js              # Cliente Socket.io, motor de áudio e UI
-├── questions.json          # Banco com as 500 perguntas estruturadas
+├── questions.json          # Banco com as 640 perguntas estruturadas
 ├── server.js               # Servidor Express + Socket.io (Game Server)
 ├── Dockerfile              # Imagem Docker de produção
 ├── docker-compose.yml      # Orquestração do contentor Docker

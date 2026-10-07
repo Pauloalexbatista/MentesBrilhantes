@@ -99,7 +99,7 @@ io.on("connection", (socket) => {
       code: roomCode,
       hostId: socket.id,
       status: "lobby", // lobby | question | reveal | game_over
-      selectedThemes: ["Ciência e Tecnologia", "Música e Cinema", "Cultura Geral", "Geografia", "Desporto"],
+      selectedThemes: [...new Set(questionsData.map(q => q.theme))],
       roundsCount: 10,
       timeLimit: 20,
       currentRound: 0,
@@ -235,8 +235,10 @@ io.on("connection", (socket) => {
 
     let pointsEarned = 0;
     if (isCorrect) {
-      // Pergunta fácil: 10 pts | difícil: 20 pts
-      const basePoints = room.currentQuestion.difficulty === "fácil" ? 10 : 20;
+      // Pergunta fácil: 10 pts | médio: 15 pts | difícil: 20 pts
+      let basePoints = 20;
+      if (room.currentQuestion.difficulty === "fácil") basePoints = 10;
+      else if (room.currentQuestion.difficulty === "médio") basePoints = 15;
       // Bónus de velocidade: até 5 pontos baseado no tempo que sobrou
       const speedBonus = Math.round((remainingSeconds / room.timeLimit) * 5);
       pointsEarned = basePoints + speedBonus;

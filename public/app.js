@@ -459,6 +459,16 @@ socket.on("settings_updated", ({ selectedThemes, roundsCount, timeLimit }) => {
     // Sincronizar UI dos convidados se necessário
     document.getElementById("selectRounds").value = roundsCount;
     document.getElementById("selectTimeLimit").value = timeLimit;
+    if (selectedThemes && Array.isArray(selectedThemes)) {
+      document.querySelectorAll("#themesSelector .theme-chip").forEach(chip => {
+        const input = chip.querySelector("input");
+        if (input) {
+          const isSelected = selectedThemes.includes(input.value);
+          input.checked = isSelected;
+          chip.classList.toggle("selected", isSelected);
+        }
+      });
+    }
   }
 });
 
@@ -495,12 +505,35 @@ socket.on("new_question", (data) => {
 
   // Preenchimento de dados
   document.getElementById("roundIndicator").textContent = `Ronda ${data.round} / ${data.totalRounds}`;
-  document.getElementById("questionThemeTag").textContent = `🏷️ ${data.theme}`;
+
+  const themeIcons = {
+    "Ciência e Tecnologia": "🔬",
+    "Música e Cinema": "🎬",
+    "Cultura Geral": "🌍",
+    "Geografia": "🗺️",
+    "Desporto": "⚽",
+    "História de Portugal": "🇵🇹",
+    "História Mundial": "🏛️",
+    "Provérbios e Adivinhas": "🦉",
+    "Ciência e Animais": "🦁"
+  };
+  const icon = themeIcons[data.theme] || "🏷️";
+  document.getElementById("questionThemeTag").textContent = `${icon} ${data.theme}`;
   
   const diffTag = document.getElementById("questionDiffTag");
-  diffTag.textContent = data.difficulty === "fácil" ? "10 pts (Fácil)" : "20 pts (Difícil)";
-  diffTag.style.background = data.difficulty === "fácil" ? "rgba(16, 185, 129, 0.2)" : "rgba(239, 68, 68, 0.2)";
-  diffTag.style.color = data.difficulty === "fácil" ? "var(--accent-green)" : "var(--accent-red)";
+  if (data.difficulty === "fácil") {
+    diffTag.textContent = "10 pts (Fácil)";
+    diffTag.style.background = "rgba(16, 185, 129, 0.2)";
+    diffTag.style.color = "var(--accent-green)";
+  } else if (data.difficulty === "médio") {
+    diffTag.textContent = "15 pts (Médio)";
+    diffTag.style.background = "rgba(245, 158, 11, 0.2)";
+    diffTag.style.color = "#f59e0b";
+  } else {
+    diffTag.textContent = "20 pts (Difícil)";
+    diffTag.style.background = "rgba(239, 68, 68, 0.2)";
+    diffTag.style.color = "var(--accent-red)";
+  }
 
   document.getElementById("questionText").textContent = data.question;
 
