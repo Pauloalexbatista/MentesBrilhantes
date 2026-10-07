@@ -30,6 +30,102 @@ app.use(cors());
 app.use(express.static(path.join(__dirname, "public")));
 app.use(express.json());
 
+/* ========================================================
+   SISTEMA DE RECORDES / HALL OF FAME (TOP 10 JACKPOTS)
+   ======================================================== */
+const LEADERBOARD_FILE = path.join(__dirname, "leaderboard.json");
+let leaderboard = [];
+
+function loadLeaderboard() {
+  try {
+    if (fs.existsSync(LEADERBOARD_FILE)) {
+      const raw = fs.readFileSync(LEADERBOARD_FILE, "utf-8");
+      leaderboard = JSON.parse(raw);
+      if (!Array.isArray(leaderboard)) leaderboard = [];
+    } else {
+      leaderboard = [];
+      saveLeaderboard();
+    }
+    console.log("[Leaderboard] " + leaderboard.length + " recordes carregados.");
+  } catch (err) {
+    console.error("[Leaderboard] Erro ao carregar leaderboard.json:", err.message);
+    leaderboard = [];
+  }
+}
+
+function saveLeaderboard() {
+  try {
+    fs.writeFileSync(LEADERBOARD_FILE, JSON.stringify(leaderboard, null, 2), "utf-8");
+  } catch (err) {
+    console.error("[Leaderboard] Erro ao guardar leaderboard.json:", err.message);
+  }
+}
+
+function processGameLeaderboard(players, roundsPlayed) {
+  const newRecords = [];
+  if (!players || players.length === 0) return newRecords;
+
+  // Processar jogadores com pontuação positiva, ordenados por score decrescente
+  const eligiblePlayers = [...players]
+    .filter(p => p.score > 0)
+    .sort((a, b) => b.score - a.score);
+
+  for (const player of eligiblePlayers) {
+    const isUnderLimit = leaderboard.length < 10;
+    const lowestScore = isUnderLimit ? -1 : leaderboard[leaderboard.length - 1].score;
+
+    // Regra: se há menos de 10 ou a pontuação supera a menor do TOP 10
+    if (isUnderLimit || player.score > lowestScore) {
+      const now = new Date();
+      const formattedDate = String(now.getDate()).padStart(2, "0") + "/" +
+                            String(now.getMonth() + 1).padStart(2, "0") + "/" +
+                            now.getFullYear();
+
+      const entry = {
+        id: "rec_" + Date.now() + "_" + Math.floor(Math.random() * 1000),
+        playerId: player.id,
+        name: player.name,
+        avatar: player.avatar,
+        score: player.score,
+        rounds: roundsPlayed,
+        date: formattedDate,
+        timestamp: Date.now()
+      };
+
+      leaderboard.push(entry);
+      // Ordenar por pontuação decrescente (em empate, mais recente)
+      leaderboard.sort((a, b) => b.score - a.score || b.timestamp - a.timestamp);
+
+      // Manter apenas TOP 10 (a pontuação mais baixa sai)
+      if (leaderboard.length > 10) {
+        leaderboard = leaderboard.slice(0, 10);
+      }
+
+      // Verificar se este recorde permaneceu no TOP 10
+      const finalRank = leaderboard.findIndex(e => e.id === entry.id);
+      if (finalRank !== -1) {
+        newRecords.push({
+          playerId: player.id,
+          name: player.name,
+          avatar: player.avatar,
+          score: player.score,
+          rank: finalRank + 1
+        });
+      }
+    }
+  }
+
+  if (newRecords.length > 0) {
+    saveLeaderboard();
+    console.log("[Leaderboard] " + newRecords.length + " novo(s) recorde(s) adicionado(s) ao TOP 10!");
+  }
+
+  return newRecords;
+}
+
+loadLeaderboard();
+
+
 // Rota de saúde e info
 app.get("/api/health", (req, res) => {
   res.json({
@@ -41,6 +137,10 @@ app.get("/api/health", (req, res) => {
 });
 
 // Rota de temas disponíveis
+app.get("/api/leaderboard", (req, res) => {
+  res.json({ leaderboard, totalRecords: leaderboard.length });
+});
+
 app.get("/api/themes", (req, res) => {
   const themes = [...new Set(questionsData.map(q => q.theme))];
   res.json({ themes });
@@ -80,6 +180,11 @@ function getFilteredQuestions(selectedThemes) {
 }
 
 io.on("connection", (socket) => {
+  // Obter TOP 10 Recordes
+  socket.on("get_leaderboard", () => {
+    socket.emit("leaderboard_update", { leaderboard });
+  });
+
   console.log(`[Socket Conectado] ${socket.id}`);
 
   // 1. CRIAR NOVA SALA
@@ -424,11 +529,21 @@ function endGame(room) {
 
   console.log(`[Fim de Jogo] Sala ${room.code}. Vencedor: ${finalRanking[0]?.name}`);
 
+  // Verificar e atualizar o TOP 10 Recordes / Hall of Fame
+  const newRecords = processGameLeaderboard(room.players, room.roundsCount);
+
   io.to(room.code).emit("game_over", {
     podium: finalRanking.slice(0, 3),
     ranking: finalRanking,
-    roundsPlayed: room.roundsCount
+    roundsPlayed: room.roundsCount,
+    leaderboard,
+    newRecords
   });
+
+  // Notificar todos os jogadores conectados sobre a atualização do TOP 10
+  if (newRecords.length > 0) {
+    io.emit("leaderboard_update", { leaderboard });
+  }
 }
 
 // Sanitizar sala para enviar ao cliente (remover intervalos, etc.)

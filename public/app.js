@@ -24,6 +24,7 @@ let currentRoom = null;
 let soundEnabled = true;
 let isAnswerSubmitted = false;
 let currentQuestionData = null;
+let cachedLeaderboard = [];
 
 // Audio Context (Sintetizador Web Audio API Nativo)
 let audioCtx = null;
@@ -293,11 +294,103 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // 9. Voltar ao Início
+  
+  // TOP 10 Recordes - Modal e Botões
+  const btnLeaderboardToggle = document.getElementById("btnLeaderboardToggle");
+  if (btnLeaderboardToggle) {
+    btnLeaderboardToggle.addEventListener("click", openLeaderboardModal);
+  }
+
+  const btnCloseLeaderboard = document.getElementById("btnCloseLeaderboard");
+  if (btnCloseLeaderboard) {
+    btnCloseLeaderboard.addEventListener("click", closeLeaderboardModal);
+  }
+
+  const btnCloseLeaderboardBtn = document.getElementById("btnCloseLeaderboardBtn");
+  if (btnCloseLeaderboardBtn) {
+    btnCloseLeaderboardBtn.addEventListener("click", closeLeaderboardModal);
+  }
+
+  const modalLeaderboard = document.getElementById("modalLeaderboard");
+  if (modalLeaderboard) {
+    modalLeaderboard.addEventListener("click", (e) => {
+      if (e.target === modalLeaderboard) {
+        closeLeaderboardModal();
+      }
+    });
+  }
+
+  const btnViewLeaderboardGameOver = document.getElementById("btnViewLeaderboardGameOver");
+  if (btnViewLeaderboardGameOver) {
+    btnViewLeaderboardGameOver.addEventListener("click", openLeaderboardModal);
+  }
+
   document.getElementById("btnBackToHome").addEventListener("click", () => {
     SoundFX.click();
     window.location.href = window.location.pathname;
   });
 });
+
+
+/* ========================================================
+   FUNÇÕES DO TOP 10 RECORDES / HALL OF FAME
+   ======================================================== */
+function openLeaderboardModal() {
+  SoundFX.click();
+  socket.emit("get_leaderboard");
+  const modal = document.getElementById("modalLeaderboard");
+  if (modal) modal.classList.remove("hidden");
+}
+
+function closeLeaderboardModal() {
+  SoundFX.click();
+  const modal = document.getElementById("modalLeaderboard");
+  if (modal) modal.classList.add("hidden");
+}
+
+function renderLeaderboard(list, highlightPlayerId = null) {
+  const container = document.getElementById("leaderboardList");
+  if (!container) return;
+  container.innerHTML = "";
+
+  if (!list || list.length === 0) {
+    container.innerHTML = `
+      <div class="leaderboard-empty">
+        <div class="leaderboard-empty-icon">🏆</div>
+        <h4>O TOP 10 ainda está vazio!</h4>
+        <p>Ainda não foram registados recordes. Conclui uma partida com qualquer número de perguntas e sê o primeiro a entrar na história!</p>
+      </div>
+    `;
+    return;
+  }
+
+  list.forEach((entry, idx) => {
+    const row = document.createElement("div");
+    const rank = idx + 1;
+    const rankClass = rank === 1 ? "rank-1" : rank === 2 ? "rank-2" : rank === 3 ? "rank-3" : "";
+    const isNew = highlightPlayerId && (entry.playerId === highlightPlayerId);
+
+    row.className = `leaderboard-row ${rankClass} ${isNew ? "new-entry" : ""}`;
+
+    const rankBadge = rank === 1 ? "🥇" : rank === 2 ? "🥈" : rank === 3 ? "🥉" : `#${rank}`;
+
+    row.innerHTML = `
+      <div class="lb-player">
+        <span class="lb-rank">${rankBadge}</span>
+        <span class="lb-avatar">${getAvatarEmoji(entry.avatar)}</span>
+        <div class="lb-info">
+          <span class="lb-name">${entry.name} ${entry.playerId === myPlayer?.id ? "<strong>(Tu)</strong>" : ""}</span>
+          <span class="lb-meta">${entry.rounds ? `${entry.rounds} rondas` : ""} ${entry.date ? `• ${entry.date}` : ""}</span>
+        </div>
+      </div>
+      <div class="lb-score-box">
+        <span class="lb-score">${entry.score} pts</span>
+        ${isNew ? '<span class="lb-badge-new">NOVO!</span>' : ""}
+      </div>
+    `;
+    container.appendChild(row);
+  });
+}
 
 /* ========================================================
    FUNÇÕES AUXILIARES DE RENDERIZAÇÃO
@@ -644,10 +737,41 @@ socket.on("round_reveal", ({ correctAnswer, players, round, totalRounds }) => {
   }, 700);
 });
 
+
+// TOP 10 Leaderboard Update
+socket.on("leaderboard_update", ({ leaderboard }) => {
+  cachedLeaderboard = leaderboard || [];
+  renderLeaderboard(cachedLeaderboard);
+});
+
 // 12. Fim de Jogo (Pódio)
-socket.on("game_over", ({ podium, ranking, roundsPlayed }) => {
+socket.on("game_over", ({ podium, ranking, roundsPlayed, leaderboard, newRecords }) => {
   showScreen("gameover");
   SoundFX.fanfare();
+
+  if (leaderboard) {
+    cachedLeaderboard = leaderboard;
+  }
+
+  // Notificação e Banner se alguém bateu Recorde TOP 10
+  const banner = document.getElementById("newRecordBanner");
+  const msgEl = document.getElementById("newRecordMsg");
+
+  if (newRecords && newRecords.length > 0) {
+    const myRecord = newRecords.find(r => r.playerId === myPlayer?.id);
+    if (banner && msgEl) {
+      banner.classList.remove("hidden");
+      if (myRecord) {
+        msgEl.textContent = `Incrível, ${myRecord.name}! Conquistaste o lugar #${myRecord.rank} no TOP 10 com ${myRecord.score} pontos!`;
+        showToast(`🏆 NOVO RECORDE! Entraste no TOP 10 (#${myRecord.rank})!`);
+      } else {
+        const topRec = newRecords[0];
+        msgEl.textContent = `${topRec.name} bateu um recorde e entrou no TOP 10 (#${topRec.rank}) com ${topRec.score} pontos!`;
+      }
+    }
+  } else if (banner) {
+    banner.classList.add("hidden");
+  }
 
   // Pódio
   const p1 = podium[0];

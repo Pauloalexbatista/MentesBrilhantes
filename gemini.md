@@ -9,7 +9,7 @@
 ## 2. Schemas de Dados (Data-First Rule)
 
 ### Schema de Pergunta (JSON)
-`json
+```json
 {
   "id": "ct_001",
   "theme": "Ciência e Tecnologia",
@@ -23,7 +23,7 @@
   ],
   "answer": "Mercúrio"
 }
-`
+```
 
 ### Categorias Oficiais (640 perguntas no total):
 1. Ciência e Tecnologia (100 perguntas)
@@ -37,7 +37,7 @@
 9. Ciência e Animais (30 perguntas)
 
 ### Schema da Sala (Game Room):
-`json
+```json
 {
   "code": "MB-4892",
   "hostId": "socket_id_ou_uuid",
@@ -62,7 +62,22 @@
     }
   ]
 }
-`
+```
+
+### Schema do Leaderboard / TOP 10 Recordes (`leaderboard.json`):
+```json
+[
+  {
+    "id": "rec_1775581234567_482",
+    "name": "Einstein",
+    "avatar": "brain_1",
+    "score": 185,
+    "rounds": 10,
+    "date": "07/10/2026",
+    "timestamp": 1775581234567
+  }
+]
+```
 
 ## 3. Regras Inviolaveis de Negocio
 1. **Shuffle Obrigatorio**: A ordem das opcoes de resposta (A, B, C, D) tem de ser baralhada deterministicamente ou de forma aleatoria no motor antes do envio ou renderizacao de cada jogador.
@@ -75,3 +90,7 @@
    - O anfitrião pode partilhar link direto por WhatsApp com mensagem pronta: *"Vem jogar comigo ao Mentes Brilhantes! Entra na sala: [LINK]"*.
 4. **Integracao VPS e HUB**:
    - Porta dedicada e configuracao compativel com Nginx / Reverse Proxy do Portal HUB.
+5. **Hall of Fame / TOP 10 Recordes (Jackpots)**:
+   - Mantém persistentemente em disco (`leaderboard.json`) os 10 melhores resultados de sempre.
+   - Qualquer partida concluída (jogada a solo ou em grupo, com 5, 10, 15 ou 20 perguntas) qualifica pontuações > 0.
+   - Se a lista tiver menos de 10 registos ou a pontuação do jogador for superior à pontuação mais baixa existente no TOP 10, a pontuação mais baixa sai e entra o novo recorde, ordenado sempre por ordem decrescente de pontuação.

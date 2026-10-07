@@ -26,10 +26,39 @@
         </div>
       </div>
       <div class="header-actions">
+        <button id="btnLeaderboardToggle" class="icon-btn trophy-btn" title="TOP 10 Recordes / Hall of Fame">🏆</button>
         <a href="/" id="btnBackToHub" class="btn btn-sm btn-hub" title="Regressar ao Arcade Hub">🕹️ Arcade Hub</a>
         <button id="btnSoundToggle" class="icon-btn" title="Ligar/Desligar Sons">🔊</button>
       </div>
     </header>
+
+    
+    <!-- MODAL DO TOP 10 RECORDES / HALL OF FAME -->
+    <div id="modalLeaderboard" class="modal-overlay hidden">
+      <div class="modal-card">
+        <div class="modal-header">
+          <div class="modal-title-group">
+            <span class="modal-icon">🏆</span>
+            <div>
+              <h3>Hall of Fame • TOP 10</h3>
+              <p class="modal-subtitle">Os Maiores Recordes de Mentes Brilhantes</p>
+            </div>
+          </div>
+          <button id="btnCloseLeaderboard" class="modal-close-btn" title="Fechar">&times;</button>
+        </div>
+
+        <div class="modal-body">
+          <div id="leaderboardList" class="leaderboard-table">
+            <!-- Gerado dinamicamente via JS -->
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <p class="modal-tip">💡 A tua pontuação supera a mais baixa? O teu nome entra logo no TOP 10!</p>
+          <button id="btnCloseLeaderboardBtn" class="btn btn-secondary btn-full">Fechar</button>
+        </div>
+      </div>
+    </div>
 
     <!-- NOTIFICAÇÃO TOAST -->
     <div id="toast" class="toast hidden"></div>
@@ -293,6 +322,15 @@
         </div>
 
         <!-- PÓDIO TOP 3 -->
+        
+        <!-- BANNER DE NOVO RECORDE NO TOP 10 -->
+        <div id="newRecordBanner" class="new-record-banner hidden">
+          <span class="jackpot-icon">🎉</span>
+          <div class="jackpot-text">
+            <strong>NOVO RECORDE REGISTADO!</strong>
+            <p id="newRecordMsg">Parabéns! Entraste para o TOP 10 de Sempre!</p>
+          </div>
+        </div>
         <div class="podium-container" id="podiumContainer">
           <!-- 2º LUGAR -->
           <div class="podium-step step-2" id="podium2">
@@ -327,6 +365,13 @@
         </div>
 
         <!-- AÇÕES FINAIS -->
+        
+        <!-- BOTÃO PARA VER RECORDES TOP 10 -->
+        <div class="gameover-leaderboard-cta">
+          <button id="btnViewLeaderboardGameOver" class="btn btn-trophy-gold btn-large">
+            <span>🏆 Ver Tabela TOP 10 Recordes</span>
+          </button>
+        </div>
         <div class="gameover-actions">
           <button id="btnPlayAgain" class="btn btn-primary btn-large">
             <span>🔄 Jogar Outra Partida</span>
